@@ -2568,6 +2568,7 @@ label_automatic_language:
   en: Automatic (Based on browser language)
   fr: Automatique (basé sur la langue du navigateur)
   nl: Automatisch (Gebaseerd op de browsertaal)
+  
 label_tools:
   ca: Eines
   cs: Nástroje
