@@ -1,3 +1,30 @@
+label_risks:
+  en: Risks
+  nl: Risico's
+  fr: Risques
+  de: Risiken
+  it: Rischi
+  es: Riesgos
+  pt: Riscos
+  pl: Ryzyka
+  sv: Risker
+  da: Risici
+  fi: Riskit
+  cs: Rizika
+  el: Κίνδυνοι
+  hu: Kockázatok
+  ro: Riscuri
+  bg: Рискове
+  hr: Rizici
+  sk: Riziká
+  sl: Tveganja
+  lt: Rizikai
+  lv: Riski
+  et: Riskid
+  mt: Riskji
+  ga: Rioscaí
+  he: סיכונים
+
 message_report_downloads_intro:
   nl: Sla het rapport op uw computer op en druk het af. U kunt het ook wijzigen of meer informatie toevoegen. Houd er rekening mee dat wijzigingen die op uw pc worden aangebracht NIET worden opgeslagen in de OiRA-risicobeoordeling.
   en: Save the report on your computer and print it. You can also modify it or add more information. Please note that changes made on your pc will NOT be saved in the OiRA risk assessment.
