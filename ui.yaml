@@ -1,3 +1,84 @@
+label_new_submodule:
+  en: New submodule
+  nl: Nieuwe submodule
+  fr: Nouveau sous-module
+  de: Neues Untermodul
+  it: Nuovo sottomodulo
+  es: Nuevo submódulo
+  pt: Novo submódulo
+  pl: Nowy podmoduł
+  sv: Nytt undermodul
+  da: Nyt undermodul
+  fi: Uusi alimoduuli
+  cs: Nový podmodul
+  el: Νέο υπομονάδα
+  hu: Új almodul
+  ro: Submodul nou
+  bg: Нов подмодул
+  hr: Novi podmodul
+  sk: Nový podmodul
+  sl: Nov podmodul
+  lt: Naujas poskyris
+  lv: Jauns apakšmodulis
+  et: Uus alamoodul
+  mt: Sottomodulu ġdid
+  ga: Fo-mhodúl nua
+  he: תת-מודול חדש
+
+label_new_risk:
+  en: New risk
+  nl: Nieuw risico
+  fr: Nouveau risque
+  de: Neues Risiko
+  it: Nuovo rischio
+  es: Nuevo riesgo
+  pt: Novo risco
+  pl: Nowe ryzyko
+  sv: Ny risk
+  da: Ny risiko
+  fi: Uusi riski
+  cs: Nové riziko
+  el: Νέος κίνδυνος
+  hu: Új kockázat
+  ro: Risc nou
+  bg: Нов риск
+  hr: Novi rizik
+  sk: Nové riziko
+  sl: Novo tveganje
+  lt: Nauja rizika
+  lv: Jauns risks
+  et: Uus risk
+  mt: Risk ġdid
+  ga: Riosca nua
+  he: סיכון חדש
+
+label_new_module:
+  en: New module
+  nl: Nieuwe module
+  fr: Nouveau module
+  de: Neues Modul
+  it: Nuovo modulo
+  es: Nuevo módulo
+  pt: Novo módulo
+  pl: Nowy moduł
+  sv: Ny modul
+  da: Ny modul
+  fi: Uusi moduuli
+  cs: Nový modul
+  el: Νέα μονάδα
+  hu: Új modul
+  ro: Modul nou
+  bg: Нов модул
+  hr: Novi modul
+  sk: Nový modul
+  sl: Nov modul
+  lt: Naujas modulis
+  lv: Jauns modulis
+  et: Uus moodul
+  mt: Modulu ġdid
+  ga: Modúl nua
+  he: מודול חדש
+
 label_risks:
   en: Risks
   nl: Risico's
