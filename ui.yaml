@@ -5396,6 +5396,31 @@ no_risk:
   pt: OK
   sk: Riziko nie je prítomné
   sl: Urejeno
+
+label_not_applicable:
+  bg: Не е приложимо
+  ca: No aplicable
+  cs: Nevztahuje se
+  de: Nicht anwendbar
+  el: Δεν ισχύει
+  en: Not applicable
+  es: No procede
+  fi: Ei esiinny työpaikalla
+  fr: Ne s'applique pas
+  hr: Nije primjenjivo
+  hu: Nem alkalmazható
+  is: Á ekki við
+  it: Non applicabile
+  lt: Netaikoma
+  lv: Nav attiecināms
+  mt: Mhux applikabbli
+  nl: Niet van toepassing
+  nl_BE: Niet van toepassing
+  'no': ''
+  pt: Não aplicável
+  sk: Nevzťahuje sa
+  sl: Ni smiselno
+
 not_applicable:
   bg: Не е приложимо
   ca: No aplicable
