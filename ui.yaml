@@ -3483,11 +3483,34 @@ planned_extra_measures:
   nl: Geplande maatregelen
   de: Planned measures
   fr: Planned measures
+
 label_planned_measures:
   en: Planned measures
+  fr: Mesures prévues
+  de: Geplante Maßnahmen
+  es: Medidas planificadas
+  it: Misure pianificate
+  pt: Medidas planeadas
+  sv: Planerade åtgärder
+  da: Planlagte foranstaltninger
+  fi: Suunnitellut toimenpiteet
+  et: Planeeritud meetmed
+  lv: Plānotie pasākumi
+  lt: Numatytos priemonės
+  mt: Miżuri pjanati
+  ga: Míreanna pleanála
+  el: Προγραμματισμένα μέτρα
+  bg: Планирани мерки
+  ro: Măsuri planificate
+  hu: Tervezett intézkedések
+  cs: Plánovaná opatření
+  sk: Plánované opatrenia
+  sl: Načrtovani ukrepi
+  hr: Planirane mjere
+  pl: Planowane środki
   nl: Geplande maatregelen
-  de: Planned measures
-  fr: Planned measures
+  he: אמצעים מתוכננים
+
 label_measures:
   en: Measures
   nl: Maatregelen
