@@ -1,4 +1,643 @@
-label_oira_tool_where_"measures_that_are_already_in_place"_can_be_defined:
+label_probability:
+  en: Probability
+  nl: Waarschijnlijkheid
+  fr: Probabilité
+  de: Wahrscheinlichkeit
+  it: Probabilità
+  es: Probabilidad
+  pt: Probabilidade
+  pl: Prawdopodobieństwo
+  sv: Sannolikhet
+  da: Sandsynlighed
+  fi: Todennäköisyys
+  cs: Pravděpodobnost
+  el: Πιθανότητα
+  hu: Valószínűség
+  ro: Probabilitate
+  bg: Вероятност
+  hr: Vjerojatnost
+  sk: Pravdepodobnosť
+  sl: Verjetnost
+  lt: Tikimybė
+  lv: Varbūtība
+  et: Tõenäosus
+  mt: Probabbiltà
+
+  label_optional_module:
+    en: This module is optional
+    nl: Deze module is optioneel
+    fr: Ce module est facultatif
+    de: Dieses Modul ist optional
+    it: Questo modulo è opzionale
+    es: Este módulo es opcional
+    pt: Este módulo é opcional
+    pl: Ten moduł jest opcjonalny
+    sv: Den här modulen är valfri
+    da: Dette modul er valgfrit
+    fi: Tämä moduuli on valinnainen
+    cs: Tento modul je volitelný
+    el: Αυτή η ενότητα είναι προαιρετική
+    hu: Ez a modul opcionális
+    ro: Acest modul este opțional
+    bg: Този модул е опционален
+    hr: Ovaj modul je opcionalan
+    sk: Tento modul je voliteľný
+    sl: Ta modul je izbirni
+    lt: Šis modulis yra pasirenkamas
+    lv: Šis modulis ir izvēles variants
+    et: See moodul on valikuline
+    mt: Dan il-modulu huwa fakultattiv
+
+  label_question:
+    en: Question
+    nl: Vraag
+    fr: Question
+    de: Frage
+    it: Domanda
+    es: Pregunta
+    pt: Pergunta
+    pl: Pytanie
+    sv: Fråga
+    da: Spørgsmål
+    fi: Kysymys
+    cs: Otázka
+    el: Ερώτηση
+    hu: Kérdés
+    ro: Întrebare
+    bg: Въпрос
+    hr: Pitanje
+    sk: Otázka
+    sl: Vprašanje
+    lt: Klausimas
+    lv: Jautājums
+    et: Küsimus
+    mt: Mistoqsija
+
+  label_solution:
+    en: Solution
+    nl: Oplossing
+    fr: Solution
+    de: Lösung
+    it: Soluzione
+    es: Solución
+    pt: Solução
+    pl: Rozwiązanie
+    sv: Lösning
+    da: Løsning
+    fi: Ratkaisu
+    cs: Řešení
+    el: Λύση
+    hu: Megoldás
+    ro: Soluție
+    bg: Решение
+    hr: Rješenje
+    sk: Riešenie
+    sl: Rešitev
+    lt: Sprendimas
+    lv: Risinājums
+    et: Lahendus
+    mt: Soluzzjoni
+
+  label_additional_content:
+    en: Additional content
+    nl: Extra inhoud
+    fr: Contenu supplémentaire
+    de: Zusätzlicher Inhalt
+    it: Contenuto aggiuntivo
+    es: Contenido adicional
+    pt: Conteúdo adicional
+    pl: Dodatkowa zawartość
+    sv: Ytterligare innehåll
+    da: Yderligere indhold
+    fi: Lisäsisältö
+    cs: Další obsah
+    el: Πρόσθετο περιεχόμενο
+    hu: További tartalom
+    ro: Conținut suplimentar
+    bg: Допълнително съдържание
+    hr: Dodatni sadržaj
+    sk: Ďalší obsah
+    sl: Dodatna vsebina
+    lt: Papildomas turinys
+    lv: Papildu saturs
+    et: Lisasisu
+    mt: Kontenut addizzjonali
+
+  label_multiple_item_question:
+    en: Multiple item question
+    nl: Vraag met meerdere items
+    fr: Question à choix multiple
+    de: Frage mit mehreren Elementen
+    it: Domanda a risposta multipla
+    es: Pregunta con múltiples opciones
+    pt: Pergunta com múltiplas opções
+    pl: Pytanie wieloelementowe
+    sv: Fråga med flera alternativ
+    da: Spørgsmål med flere elementer
+    fi: Monivalintakysymys
+    cs: Otázka s více položkami
+    el: Ερώτηση με πολλαπλές επιλογές
+    hu: Több elemes kérdés
+    ro: Întrebare cu mai multe elemente
+    bg: Въпрос с множество елементи
+    hr: Pitanje s više stavki
+    sk: Otázka s viacerými položkami
+    sl: Vprašanje z več elementi
+    lt: Klausimas su daugybe elementų
+    lv: Jautājums ar vairākiem vienumiem
+    et: Mitme elemendiga küsimus
+    mt: Mistoqsija b'numru ta' elementi
+
+  label_single_occurance_prompt:
+    en: Single occurrence prompt
+    nl: Prompt voor enkele gebeurtenis
+    fr: Invite pour une seule occurrence
+    de: Einzelne Vorkommnis-Aufforderung
+    it: Prompt per singola occorrenza
+    es: Indicación para una sola ocurrencia
+    pt: Indicação para ocorrência única
+    pl: Podpowiedź dla pojedynczego wystąpienia
+    sv: Enskild förekomst prompt
+    da: Prompt for enkelt forekomst
+    fi: Yksittäisen tapahtuman kehotus
+    cs: Výzva pro jednotlivý výskyt
+    el: Προτροπή για μοναδική εμφάνιση
+    hu: Egyetlen előfordulásra vonatkozó utasítás
+    ro: Indicație pentru o singură apariție
+    bg: Инструкция за единично събитие
+    hr: Uputa za jedno pojavljivanje
+    sk: Pokyn pre jednotlivý výskyt
+    sl: Navodilo za posamezno pojavljanje
+    lt: Vieno įvykio užklausa
+    lv: Vienkāršas parādības norāde
+    et: Üksiku esinemise vihje
+    mt: Mistoqsija għal okkorenza waħda
+
+  label_multiple_occurance_prompt:
+    en: Multiple occurrence prompt
+    nl: Prompt voor meerdere gebeurtenissen
+    fr: Invite pour plusieurs occurrences
+    de: Mehrere Vorkommnis-Aufforderung
+    it: Prompt per più occorrenze
+    es: Indicación para múltiples ocurrencias
+    pt: Indicação para ocorrências múltiplas
+    pl: Podpowiedź dla wielokrotnego wystąpienia
+    sv: Flerfaldig förekomst prompt
+    da: Prompt for flere forekomster
+    fi: Usean tapahtuman kehotus
+    cs: Výzva pro více výskytů
+    el: Προτροπή για πολλαπλές εμφανίσεις
+    hu: Több előfordulásra vonatkozó utasítás
+    ro: Indicație pentru mai multe apariții
+    bg: Инструкция за множество събития
+    hr: Uputa za više pojavljivanja
+    sk: Pokyn pre viaceré výskyty
+    sl: Navodilo za več pojavljanj
+    lt: Kelis įvykius apimančios užklausos
+    lv: Vairāku parādību norāde
+    et: Mitme esinemise vihje
+    mt: Mistoqsija għal okkorenzi multipli
+
+
+label_frequency:
+  en: Frequency
+  nl: Frequentie
+  fr: Fréquence
+  de: Häufigkeit
+  it: Frequenza
+  es: Frecuencia
+  pt: Frequência
+  pl: Częstotliwość
+  sv: Frekvens
+  da: Hyppighed
+  fi: Taajuus
+  cs: Frekvence
+  el: Συχνότητα
+  hu: Gyakoriság
+  ro: Frecvență
+  bg: Честота
+  hr: Učestalost
+  sk: Frekvencia
+  sl: Pogostost
+  lt: Dažnumas
+  lv: Biežums
+  et: Sagedus
+  mt: Frequenza
+
+label_severity:
+  en: Severity
+  nl: Ernst
+  fr: Gravité
+  de: Schweregrad
+  it: Gravità
+  es: Gravedad
+  pt: Gravidade
+  pl: Poważność
+  sv: Allvarlighet
+  da: Alvorlighed
+  fi: Vakavuus
+  cs: Závažnost
+  el: Σοβαρότητα
+  hu: Súlyosság
+  ro: Severitate
+  bg: Сериозност
+  hr: Ozbiljnost
+  sk: Závažnosť
+  sl: Resnost
+  lt: Rimtumas
+  lv: Smagums
+  et: Tõsidus
+  mt: Severità
+
+label_lead_image:
+  en: Lead image
+  nl: Hoofdafbeelding
+  fr: Image principale
+  de: Titelbild
+  it: Immagine principale
+  es: Imagen principal
+  pt: Imagem principal
+  pl: Zdjęcie główne
+  sv: Huvudbild
+  da: Første billede
+  fi: Pääkuva
+  cs: Úvodní obrázek
+  el: Κεντρική εικόνα
+  hu: Fő kép
+  ro: Imagine principală
+  bg: Водеща снимка
+  hr: Glavna slika
+  sk: Úvodný obrázok
+  sl: Vodilna slika
+  lt: Pagrindinė nuotrauka
+  lv: Vadlīnijas attēls
+  et: Esimene pilt
+  mt: Stampar prinċipali
+
+label_lead_image_caption:
+  en: Lead image caption
+  nl: Bijschrift hoofdafbeelding
+  fr: Légende de l'image principale
+  de: Bildunterschrift des Titelbildes
+  it: Didascalia dell'immagine principale
+  es: Leyenda de la imagen principal
+  pt: Legenda da imagem principal
+  pl: Podpis pod zdjęciem głównym
+  sv: Bildtext för huvudbild
+  da: Billedtekst for første billede
+  fi: Pääkuvan kuvateksti
+  cs: Popisek úvodního obrázku
+  el: Λεζάντα κεντρικής εικόνας
+  hu: Fő kép felirata
+  ro: Subtitrarea imaginii principale
+  bg: Заглавие на водещата снимка
+  hr: Natpis glavne slike
+  sk: Popis úvodného obrázka
+  sl: Podpis vodilne slike
+  lt: Pagrindinės nuotraukos antraštė
+  lv: Vadlīnijas attēla virsraksts
+  et: Esimese pildi pealkiri
+  mt: Kaptan ta' stampar prinċipali
+  ga: Léaráid ceannaire
+
+label_show_custom_notification_for_this_tool:
+  en: Show a custom notification for this tool
+  nl: Toon een aangepaste melding voor deze tool
+  fr: Afficher une notification personnalisée pour cet outil
+  de: Zeige eine benutzerdefinierte Benachrichtigung für dieses Tool
+  it: Mostra una notifica personalizzata per questo strumento
+  es: Mostrar una notificación personalizada para esta herramienta
+  pt: Mostrar uma notificação personalizada para esta ferramenta
+  pl: Pokaż niestandardowe powiadomienie dla tego narzędzia
+  sv: Visa en anpassad avisering för detta verktyg
+  da: Vis en brugerdefineret meddelelse for dette værktøj
+  fi: Näytä mukautettu ilmoitus tälle työkalulle
+  cs: Zobrazit vlastní oznámení pro tento nástroj
+  el: Εμφάνιση προσαρμοσμένης ειδοποίησης για αυτό το εργαλείο
+  hu: Egyéni értesítés megjelenítése ehhez az eszközhöz
+  ro: Afișează o notificare personalizată pentru această unealtă
+  bg: Показване на персонализирано известие за този инструмент
+  hr: Prikazivanje prilagođene obavijesti za ovaj alat
+  sk: Zobraziť vlastné upozornenie pre tento nástroj
+  sl: Prikazovanje prilagojene obvestila za to orodje
+  lt: Rodyti tinkamą pranešimą šiam įrankiui
+  lv: Parādīt pielāgotu paziņojumu par šo rīku
+  et: Näita kohandatud teavitust selle tööriista jaoks
+  mt: Uri notifika personalizzata għal dan l-għodda
+  ga: Taispeáin fógra ar leith don uirlis seo
+
+label_tool_notification_title:
+  en: Tool notification title
+  nl: Titel van melding voor dit gereedschap
+  fr: Titre de la notification de l'outil
+  de: Werkzeugbenachrichtigungstitel
+  it: Titolo della notifica dello strumento
+  es: Título de la notificación de la herramienta
+  pt: Título da notificação da ferramenta
+  pl: Tytuł powiadomienia narzędzia
+  sv: Verktygsaviseringstitel
+  da: Værktøjsmeddelelsestitel
+  fi: Työkaluilmoituksen otsikko
+  cs: Název oznámení nástroje
+  el: Τίτλος ειδοποίησης εργαλείου
+  hu: Eszköz értesítésének címe
+  ro: Titlul notificării instrumentului
+  bg: Заглавие на известие за инструмента
+  hr: Naslov obavijesti alata
+  sk: Názov upozornenia nástroja
+  sl: Naslov obvestila orodja
+  lt: Įrankio pranešimo pavadinimas
+  lv: Rīka paziņojuma virsraksts
+  et: Tööriista teavituse pealkiri
+  mt: Titlu ta' notifika għall-għodda
+
+label_tool_notification_message:
+  en: Tool notification message
+  nl: Melding voor dit gereedschap
+  fr: Message de la notification de l'outil
+  de: Werkzeugbenachrichtigungsnachricht
+  it: Messaggio della notifica dello strumento
+  es: Mensaje de la notificación de la herramienta
+  pt: Mensagem da notificação da ferramenta
+  pl: Wiadomość powiadomienia narzędzia
+  sv: Verktygsavisningsmeddelande
+  da: Værktøjsmeddelelsesbesked
+  fi: Työkaluilmoituksen viesti
+  cs: Zpráva oznámení nástroje
+  el: Μήνυμα ειδοποίησης εργαλείου
+  hu: Eszköz értesítésének üzenete
+  ro: Mesajul notificării instrumentului
+  bg: Съобщение на известие за инструмента
+  hr: Poruka obavijesti alata
+  sk: Správa upozornenia nástroja
+  sl: Sporočilo obvestila orodja
+  lt: Įrankio pranešimo žinutė
+  lv: Rīka paziņojuma ziņojums
+  et: Tööriista teavituse sõnum
+  mt: Messaġġ ta' notifika għall-għodda
+  ga: Teachtaireacht fógra uirlis
+
+label_include_logo_external_website:
+  en: Include a logo which links to an external website
+  nl: Voeg een logo toe dat linkt naar een externe website
+  fr: Inclure un logo qui renvoie vers un site externe
+  de: Fügen Sie ein Logo hinzu, das zu einer externen Website verlinkt
+  it: Includi un logo che collega a un sito web esterno
+  es: Incluir un logotipo que enlace a un sitio web externo
+  pt: Incluir um logotipo que vincula a um site externo
+  pl: Dodaj logo, które linkuje do zewnętrznej witryny
+  sv: Inkludera en logotyp som länkar till en extern webbplats
+  da: Inkluder et logo, der linker til en ekstern hjemmeside
+  fi: Sisällytä logo, joka linkittää ulkoiselle verkkosivustolle
+  cs: Zahrnout logo, které odkazuje na externí webovou stránku
+  el: Συμπεριλάβετε ένα λογότυπο που συνδέεται με έναν εξωτερικό ιστότοπο
+  hu: Tartalmazz egy logót, amely egy külső weboldalra mutat
+  ro: Includerea unui logo care să conducă către un site extern
+  bg: Включете лого, което води към външен уебсайт
+  hr: Uključite logotip koji vodi do vanjske web stranice
+  sk: Zahrňte logo, ktoré odkazuje na externú webovú stránku
+  sl: Vključite logotip, ki povezuje na zunanjo spletno mesto
+  lt: Įtraukite logotipą, kuris nuorodo į išorinę svetainę
+  lv: Iekļaujiet logotipu, kas saista ar ārējo vietni
+  et: Kaasa logo, mis viitab välisele veebisaidile
+  mt: Fittex logotip li jirreferi għal sit estern
+  ga: Cuir isteach logo a nascann le suíomh seachtrach
+
+label_external_site_url:
+  en: External site URL
+  nl: Externe website-URL
+  fr: URL du site externe
+  de: Externe Website-URL
+  it: URL del sito esterno
+  es: URL del sitio externo
+  pt: URL do site externo
+  pl: Adres URL zewnętrznej witryny
+  sv: Extern webbplats-URL
+  da: Ekstern webstedets URL
+  fi: Ulkoisen verkkosivuston URL-osoite
+  cs: URL externí webové stránky
+  el: URL εξωτερικού ιστότοπου
+  hu: Külső weboldal URL-je
+  ro: URL-ul site-ului extern
+  bg: URL на външния уебсайт
+  hr: URL vanjske web stranice
+  sk: URL externého webového sídla
+  sl: URL zunanjega spletnega mesta
+  lt: Išorinio tinklalapio URL
+  lv: Ārējās vietnes URL
+  et: Välise veebisaidi URL
+  mt: URL tal-websajt estern
+
+label_criteria_specific_tool:
+  en: The criteria applied to evaluate risks are specific of this tool
+  nl: De criteria die worden toegepast om risico's te evalueren, zijn specifiek voor deze tool
+  fr: Les critères appliqués pour évaluer les risques sont spécifiques à cet outil
+  de: Die Kriterien zur Bewertung von Risiken sind spezifisch für dieses Tool
+  it: I criteri applicati per valutare i rischi sono specifici di questo strumento
+  es: Los criterios aplicados para evaluar los riesgos son específicos de esta herramienta
+  pt: Os critérios aplicados para avaliar os riscos são específicos desta ferramenta
+  pl: Kryteria stosowane do oceny ryzyka są specyficzne dla tego narzędzia
+  sv: De kriterier som tillämpas för att utvärdera risker är specifika för detta verktyg
+  da: De kriterier, der anvendes til at evaluere risici, er specifikke for dette værktøj
+  fi: Riskien arvioinnissa käytettävät kriteerit ovat tämän työkalun mukaisia
+  cs: Kritéria použitá k hodnocení rizik jsou specifická pro tento nástroj
+  el: Τα κριτήρια που εφαρμόζονται για την αξιολόγηση των κινδύνων είναι ειδικά για αυτό το εργαλείο
+  hu: A kockázatok értékelésére alkalmazott kritériumok specifikusak erre az eszközre
+  ro: Criteriile aplicate pentru evaluarea riscurilor sunt specifice acestui instrument
+  bg: Критериите, прилагани за оценка на рисковете, са специфични за този инструмент
+  hr: Kriteriji koji se primjenjuju za procjenu rizika su specifični za ovaj alat
+  sk: Kritériá, ktoré sa používajú na hodnotenie rizík, sú špecifické pre tento nástroj
+  sl: Merila, ki se uporabljajo za oceno tveganj, so specifična za ta orodje
+  lt: Kriterijai, taikomi vertinant riziką, yra specifiniai šiam įrankiui
+  lv: Kritēriji, kas tiek piemēroti risku novērtēšanai, ir specifiski šim rīkam
+  et: Riskide hindamiseks kasutatavad kriteeriumid on selle tööriista jaoks spetsiifilised
+  mt: Il-kriterji applikati biex jiġu valutati r-riskji huma speċifiċi għal din l-għodda
+  ga: Is é an critéir a chuirtear i bhfeidhm chun luach a chur ar rioscaí speisialta don uirlis seo
+
+
+external_site_name:
+  en: External site name
+  nl: Naam van externe website
+  fr: Nom du site externe
+  de: Name der externen Website
+  it: Nome del sito esterno
+  es: Nombre del sitio externo
+  pt: Nome do site externo
+  pl: Nazwa zewnętrznej witryny
+  sv: Namn på extern webbplats
+  da: Navn på ekstern hjemmeside
+  fi: Ulkoisen verkkosivuston nimi
+  cs: Název externí webové stránky
+  el: Όνομα εξωτερικού ιστότοπου
+  hu: Külső weboldal neve
+  ro: Numele site-ului extern
+  bg: Име на външния уебсайт
+  hr: Naziv vanjske web stranice
+  sk: Názov externého webového sídla
+  sl: Ime zunanjega spletnega mesta
+  lt: Išorinio tinklalapio pavadinimas
+  lv: Ārējās vietnes nosaukums
+  et: Välise veebisaidi nimi
+  mt: Isem tas-sit estern
+
+external_site_logo:
+  en: External site logo
+  nl: Logo van externe website
+  fr: Logo du site externe
+  de: Logo der externen Website
+  it: Logo del sito esterno
+  es: Logotipo del sitio externo
+  pt: Logotipo do site externo
+  pl: Logo zewnętrznej witryny
+  sv: Logotyp för extern webbplats
+  da: Logo for ekstern hjemmeside
+  fi: Ulkoisen verkkosivuston logo
+  cs: Logo externí webové stránky
+  el: Λογότυπο εξωτερικού ιστότοπου
+  hu: Külső weboldal logója
+  ro: Logo-ul site-ului extern
+  bg: Лого на външния уебсайт
+  hr: Logotip vanjske web stranice
+  sk: Logo externého webového sídla
+  sl: Logotip zunanjega spletnega mesta
+  lt: Išorinio tinklalapio logotipas
+  lv: Ārējās vietnes logotips
+  et: Välise veebisaidi logo
+  mt: Logotip tas-sit estern
+
+
+full_show_description_and_general_approach:
+  en: Show (full description and general approach)
+  nl: Toon (volledige beschrijving en algemene aanpak)
+  fr: Afficher (la description complète et l'approche générale)
+  de: Vollständige Beschreibung und (allgemeinen Ansatz) anzeigen
+  it: Mostra (descrizione completa e approccio generale)
+  es: Mostrar (descripción completa y enfoque general)
+  pt: Mostrar (descrição completa e abordagem geral)
+  pl: Pokaż (pełny opis i ogólny podejście)
+  sv: Visa (fullständig beskrivning och allmänt tillvägagångssätt)
+  da: Vis (fuld beskrivelse og generel tilgang)
+  fi: Näytä (täydellinen kuvaus ja yleinen lähestymistapa)
+  cs: Zobrazit (plný popis a obecný přístup)
+  el: Εμφάνιση (πλήρους περιγραφής και γενικής προσέγγισης)
+  hu: Teljes leírás és (általános megközelítés) megjelenítése
+  ro: Afișare (descriere completă și abordare generală)
+  bg: Показване на (пълно описание и общ подход)
+  hr: Prikaz (potpunog opisa i općeg pristupa)
+  sk: Zobraziť (úplný popis a všeobecný prístup)
+  sl: Prikaz (celotnega opisa in splošnega pristopa)
+  lt: Rodyti (visą aprašymą ir bendrą požiūrį)
+  lv: Parādīt (pilnu aprakstu un vispārējo pieeju)
+  et: Näita (täielikku kirjeldust ja üldist lähenemist)
+  mt: Uri (l-deskrizzjoni sħiħa u l-approċċ ġenerali)
+  ga: Taispeáin an (tuairisc iom)
+
+label_integrated_action_plan:
+  en: Integrated Action Plan
+  nl: Geïntegreerd Actieplan
+  fr: Plan d'action intégré
+  de: Integrierter Aktionsplan
+  it: Piano d'azione integrato
+  es: Plan de Acción Integrado
+  pt: Plano de Ação Integrado
+  pl: Zintegrowany Plan Działań
+  sv: Integrerad handlingsplan
+  da: Integreret handlingsplan
+  fi: Integroitu toimintasuunnitelma
+  cs: Integrovaný akční plán
+  el: Ολοκληρωμένο Σχέδιο Δράσης
+  hu: Integrált Akcióterv
+  ro: Plan de Acțiune Integrat
+  bg: Интегриран план за действие
+  hr: Integrirani plan djelovanja
+  sk: Integrovaný akčný plán
+  sl: Integriran načrt ukrepov
+  lt: Integruotas veiksmų planas
+  lv: Integrēta rīcības plāns
+  et: Integreeritud tegevuskava
+  mt: Pjan ta' Azzjoni Integrat
+  ga: Plean Gníomhaíochta Integrateach
+
+label_simple_show_only_general_approach:
+  en: Simple (show only General Approach)
+  nl: Eenvoudig (alleen algemene aanpak tonen)
+  fr: Simple (afficher uniquement l'approche générale)
+  de: Einfach (nur allgemeinen Ansatz anzeigen)
+  it: Semplice (mostra solo l'approccio generale)
+  es: Simple (mostrar solo el enfoque general)
+  pt: Simples (mostrar apenas a abordagem geral)
+  pl: Proste (pokaż tylko ogólne podejście)
+  sv: Enkelt (visa endast allmänt tillvägagångssätt)
+  da: Simpel (vis kun generel tilgang)
+  fi: Yksinkertainen (näytä vain yleinen lähestymistapa)
+  cs: Jednoduché (zobrazit pouze obecný přístup)
+  el: Απλό (εμφάνιση μόνο της γενικής προσέγγισης)
+  hu: Egyszerű (csak az általános megközelítést mutatja)
+  ro: Simplu (afișează doar abordarea generală)
+  bg: Просто (показване само на общия подход)
+  hr: Jednostavno (prikazuje samo opći pristup)
+  sk: Jednoduché (zobraziť len všeobecný prístup)
+  sl: Preprosto (prikaz samo splošnega pristopa)
+  lt: Paprasta (rodyti tik bendrą požiūrį)
+  lv: Vienkāršs (parādīt tikai vispārējo pieeju)
+  et: Lihtne (näita ainult üldist lähenemist)
+  mt: Sempliċi (uri biss l-approċċ ġenerali)
+  ga: Simplí (taispeáin an t-aonach ginearálta amháin)
+
+label_handling_of_measures_text:
+  nl: Behandeling van maatregeltekst
+  en: Handling of measures text
+  fr: Traitement du texte des mesures
+  de: Behandlung des Maßnahmentexts
+  it: Gestione del testo delle misure
+  es: Tratamiento del texto de las medidas
+  pt: Tratamento do texto das medidas
+  pl: Obsługa tekstu środków
+  sv: Hantering av åtgärdstext
+  da: Behandling af foranstaltningstekst
+  fi: Toimenpiteiden tekstin käsittely
+  cs: Zpracování textu opatření
+  el: Χειρισμός κειμένου μέτρων
+  hu: Intézkedések szövegének kezelése
+  ro: Tratarea textului măsurilor
+  bg: Обработка на текста на мерките
+  hr: Postupak s tekstom mjera
+  sk: Spracovanie textu opatrení
+  sl: Obdelava besedila ukrepov
+  lt: Priemonių teksto tvarkymas
+  lv: Pasākumu teksta apstrāde
+  et: Meetmete teksti käsitlemine
+  mt: Il-livell tal-test tal-miżuri
+  ga: Riarachán téacs na mbonn
+  he: טיפול בטקסט האמצעים
+
+label_enable_training:
+  nl: Inschakelen van training
+  en: Enable training
+  fr: Activer la formation
+  de: Training aktivieren
+  it: Abilita addestramento
+  es: Habilitar entrenamiento
+  pt: Ativar treinamento
+  pl: Włącz trening
+  sv: Aktivera träning
+  da: Aktivér træning
+  fi: Ota koulutus käyttöön
+  cs: Povolit trénink
+  el: Ενεργοποίηση εκπαίδευσης
+  hu: Képzés engedélyezése
+  ro: Activare instruire
+  bg: Активиране на обучение
+  hr: Omogući obuku
+  sk: Povoliť tréning
+  sl: Omogoči usposabljanje
+  lt: Įgalinti mokymą
+  lv: Iespējot apmācību
+  et: Koolituse lubamine
+  mt: Ipermessa l-istħarriġ
+  ga: Cumasaigh traenáil
+
+label_oira_tool_where_measures_that_are_already_in_place_can_be_defined:
   nl: OiRA tool waar "maatregelen die al van kracht zijn" kunnen worden gedefinieerd
   en: OiRA tool where "measures that are already in place" can be defined
   fr: Outil OiRA où les "mesures déjà en place" peuvent être définies
