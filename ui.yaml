@@ -1,3 +1,29 @@
+message_add_questions_to_the_training_from_the_sidebar:
+  en: Add questions to the training in the trianing section, which you can access from the sidebar.
+  nl: Voeg vragen toe aan de training in het trainingsgedeelte, dat u kunt openen via de zijbalk.
+  fr: Ajoutez des questions à la formation dans la section de formation, que vous pouvez accéder depuis la barre latérale.
+  de: Fügen Sie Fragen zum Training im Schulungsbereich hinzu, auf den Sie über die Seitenleiste zugreifen können.
+  it: Aggiungi domande alla formazione nella sezione di formazione, a cui puoi accedere dalla barra laterale.
+  es: Agrega preguntas a la capacitación en la sección de capacitación, a la que puedes acceder desde la barra lateral.
+  pt: Adicione perguntas ao treinamento na seção de treinamento, que você pode acessar pela barra lateral.
+  pl: Dodaj pytania do szkolenia w sekcji szkolenia, do której można uzyskać dostęp z paska bocznego.
+  sv: Lägg till frågor i träningen i träningsavsnittet, som du kan komma åt från sidofältet.
+  da: Tilføj spørgsmål til træningen i træningssektionen, som du kan få adgang til fra sidepanelet.
+  fi: Lisää kysymyksiä koulutukseen koulutusosiossa, johon pääset sivupalkista.
+  cs: Přidejte otázky do školení v sekci školení, ke kterému můžete přistupovat z postranního panelu.
+  el: Προσθέστε ερωτήσεις στην εκπαίδευση στην ενότητα εκπαίδευσης, στην οποία μπορείτε να έχετε πρόσβαση από την πλαϊνή γραμμή.
+  hu: Adj hozzá kérdéseket a képzéshez a képzési részben, amelyhez a sidebarról férhetsz hozzá.
+  ro: Adăugați întrebări la instruire în secțiunea de instruire, la care puteți accesa din bara laterală.
+  bg: Добавете въпроси към обучението в раздела за обучение, до който можете да достъпите от страничната лента.
+  hr: Dodajte pitanja za obuku u odjeljku za obuku, do kojeg možete pristupiti s bočne trake.
+  sk: Pridajte otázky do školenia v časti školenia, ku ktorej môžete pristupovať zo záložky.
+  sl: Dodajte vprašanja v usposabljanje v razdelku usposabljanja, do katerega lahko dostopate s stranske vrstice.
+  lt: Pridėkite klausimus į mokymąsi mokymo skyriuje, prie kurio galite pasiekti iš šoninės juostos.
+  lv: Pievienojiet jautājumus apmācībai apmācības sadaļā, kurai varat piekļūt no sānjoslas.
+  et: Lisage küsimusi koolitusele koolitusjaotises, millele pääsete juurde küljepaanilt.
+  mt: Żid mistoqsijiet għall-istħarriġ fil-ġabra tat-taħriġ, li tista' taċċessa mill-barrani.
+  he: הוסף שאלות לאימון במקטע האימון, שאליו ניתן לגשת מהסרגל הצדדי.
+
 label_criteria:
   en: Criteria
   nl: Criteria
