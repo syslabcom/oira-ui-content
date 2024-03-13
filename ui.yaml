@@ -1,29 +1,3 @@
-message_add_questions_to_the_training_from_the_sidebar:
-  en: Add questions to the training in the trianing section, which you can access from the sidebar.
-  nl: Voeg vragen toe aan de training in het trainingsgedeelte, dat u kunt openen via de zijbalk.
-  fr: Ajoutez des questions à la formation dans la section de formation, que vous pouvez accéder depuis la barre latérale.
-  de: Fügen Sie Fragen zum Training im Schulungsbereich hinzu, auf den Sie über die Seitenleiste zugreifen können.
-  it: Aggiungi domande alla formazione nella sezione di formazione, a cui puoi accedere dalla barra laterale.
-  es: Agrega preguntas a la capacitación en la sección de capacitación, a la que puedes acceder desde la barra lateral.
-  pt: Adicione perguntas ao treinamento na seção de treinamento, que você pode acessar pela barra lateral.
-  pl: Dodaj pytania do szkolenia w sekcji szkolenia, do której można uzyskać dostęp z paska bocznego.
-  sv: Lägg till frågor i träningen i träningsavsnittet, som du kan komma åt från sidofältet.
-  da: Tilføj spørgsmål til træningen i træningssektionen, som du kan få adgang til fra sidepanelet.
-  fi: Lisää kysymyksiä koulutukseen koulutusosiossa, johon pääset sivupalkista.
-  cs: Přidejte otázky do školení v sekci školení, ke kterému můžete přistupovat z postranního panelu.
-  el: Προσθέστε ερωτήσεις στην εκπαίδευση στην ενότητα εκπαίδευσης, στην οποία μπορείτε να έχετε πρόσβαση από την πλαϊνή γραμμή.
-  hu: Adj hozzá kérdéseket a képzéshez a képzési részben, amelyhez a sidebarról férhetsz hozzá.
-  ro: Adăugați întrebări la instruire în secțiunea de instruire, la care puteți accesa din bara laterală.
-  bg: Добавете въпроси към обучението в раздела за обучение, до който можете да достъпите от страничната лента.
-  hr: Dodajte pitanja za obuku u odjeljku za obuku, do kojeg možete pristupiti s bočne trake.
-  sk: Pridajte otázky do školenia v časti školenia, ku ktorej môžete pristupovať zo záložky.
-  sl: Dodajte vprašanja v usposabljanje v razdelku usposabljanja, do katerega lahko dostopate s stranske vrstice.
-  lt: Pridėkite klausimus į mokymąsi mokymo skyriuje, prie kurio galite pasiekti iš šoninės juostos.
-  lv: Pievienojiet jautājumus apmācībai apmācības sadaļā, kurai varat piekļūt no sānjoslas.
-  et: Lisage küsimusi koolitusele koolitusjaotises, millele pääsete juurde küljepaanilt.
-  mt: Żid mistoqsijiet għall-istħarriġ fil-ġabra tat-taħriġ, li tista' taċċessa mill-barrani.
-  he: הוסף שאלות לאימון במקטע האימון, שאליו ניתן לגשת מהסרגל הצדדי.
-
 label_criteria:
   en: Criteria
   nl: Criteria
@@ -49,6 +23,39 @@ label_criteria:
   et: Kriteeriumid
   mt: Kriterji
 
+message_add_questions_to_the_training_from_the_sidebar:
+  en: You may add questions to the training in the training section. The training section can be accessed from the sidebar after saving the settings.
+  nl: U kunt vragen toevoegen aan de training in de trainingssectie. De trainingssectie is toegankelijk vanuit de zijbalk nadat de instellingen zijn opgeslagen.
+  fr: Vous pouvez ajouter des questions à la formation dans la section formation. La section formation est accessible depuis la barre latérale après avoir enregistré les paramètres.
+  de: Sie können Fragen zum Training im Trainingsbereich hinzufügen. Der Trainingsbereich kann über die Seitenleiste aufgerufen werden, nachdem die Einstellungen gespeichert wurden.
+  es: Puede agregar preguntas al entrenamiento en la sección de entrenamiento. La sección de entrenamiento se puede acceder desde la barra lateral después de guardar la configuración.
+  it: Puoi aggiungere domande all'addestramento nella sezione di addestramento. La sezione di addestramento è accessibile dalla barra laterale dopo aver salvato le impostazioni.
+  pt: Você pode adicionar perguntas ao treinamento na seção de treinamento. A seção de treinamento pode ser acessada na barra lateral após salvar as configurações.
+  pl: Możesz dodawać pytania do szkolenia w sekcji szkolenia. Sekcję szkolenia można uzyskać dostęp z bocznego paska po zapisaniu ustawień.
+  sv: Du kan lägga till frågor i träningen i träningsavsnittet. Träningsavsnittet kan nås från sidofältet efter att ha sparat inställningarna.
+  da: Du kan tilføje spørgsmål til træningen i træningssektionen. Træningssektionen kan tilgås fra sidepanelet efter at have gemt indstillingerne.
+  fi: Voit lisätä kysymyksiä koulutukseen koulutusosiossa. Koulutusosioon pääsee sivupalkista tallennettuasi asetukset.
+  el: Μπορείτε να προσθέσετε ερωτήσεις στην εκπαίδευση στην ενότητα εκπαίδευσης. Η ενότητα εκπαίδευσης μπορεί να προσπελαστεί από την πλαϊνή γραμμή μετά την αποθήκευση των ρυθμίσεων.
+  hu: Hozzáadhat kérdéseket a képzéshez a képzési részben. A képzési rész a beállítások mentése után elérhető a sidebarról.
+  cs: Můžete přidat otázky do školení v sekci školení. Sekci školení lze přistupovat z postranního panelu po uložení nastavení.
+  et: Saate koolitusele lisada küsimusi koolituse jaotises. Koolituse jaotisele pääseb küljepaneelilt pärast seadete salvestamist.
+  lv: Jūs varat pievienot jautājumus apmācībai apmācības sadaļā. Apmācības sadaļa ir pieejama no sānjoslas pēc iestatījumu saglabāšanas.
+  lt: Galite pridėti klausimus į mokymąsi mokymo skyriuje. Mokymo skyrius pasiekiamas iš šoninės juostos po nustatymų išsaugojimo.
+  bg: Можете да добавите въпроси към обучението в раздела за обучение. Разделът за обучение може да бъде достъпен от страничната лента след запазване на настройките.
+  ro: Puteți adăuga întrebări la instruire în secțiunea de instruire. Secțiunea de instruire poate fi accesată din bara laterală după salvarea setărilor.
+  hr: Možete dodati pitanja u obuku u odjeljku za obuku. Odjeljak za obuku može se pristupiti s bočne trake nakon spremanja postavki.
+  sk: Môžete pridať otázky do školenia v časti školenia. Sekcia školenia je dostupná z bočnej lišty po uložení nastavení.
+  sl: V razdelek za usposabljanje lahko dodate vprašanja v razdelek za usposabljanje. Razdelek za usposabljanje je dostopen s stranske vrstice po shranjevanju nastavitev.
+  et: Saate koolitusele lisada küsimusi koolituse jaotises. Koolituse jaotisele pääseb küljepaneelilt pärast seadete salvestamist.
+  lv: Jūs varat pievienot jautājumus apmācībai apmācības sadaļā. Apmācības sadaļa ir pieejama no sānjoslas pēc iestatījumu saglabāšanas.
+  lt: Galite pridėti klausimus į mokymąsi mokymo skyriuje. Mokymo skyrius pasiekiamas iš šoninės juostos po nustatymų išsaugojimo.
+  bg: Можете да добавите въпроси към обучението в раздела за обучение. Разделът за обучение може да бъде достъпен от страничната лента след запазване на настройките.
+  ro: Puteți adăuga întrebări la instruire în secțiunea de instruire. Secțiunea de instruire poate fi accesată din bara laterală după salvarea setărilor.
+  hr: Možete dodati pitanja u obuku u odjeljku za obuku. Odjeljak za obuku može se pristupiti s bočne trake nakon spremanja postavki.
+  sk: Môžete pridať otázky do školenia v časti školenia. Sekcia školenia je dostupná z bočnej lišty po uložení nastavení.
+  sl: V razdelek za usposabljanje lahko dodate vprašanja v razdelek za usposabljanje. Razdelek za usposabljanje je dostopen s stranske vrstice po shranjevanju nastavitev.
+  he: ניתן להוסיף שאלות לאימון בסעיף האימון. סעיף האימון נגיש מסרגל הצד לאחר שמירת ההגדרות.
+  
 label_integrated:
   en: Integrated
   nl: Geïntegreerd
