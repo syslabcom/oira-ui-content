@@ -28,6 +28,9 @@ label_style:
 label_logo: 
   en: Logo
 
+label_questions: 
+  en: Questions
+
 label_probability:
   en: Probability
   nl: Waarschijnlijkheid
