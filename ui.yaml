@@ -1,3 +1,29 @@
+label_sector_information:
+  en: Sector information
+  nl: Sectorinformatie
+  fr: Informations sectorielles
+  de: Sektorinformationen
+  it: Informazioni di settore
+  es: Información del sector
+  pt: Informação do setor
+  pl: Informacje o sektorze
+  sv: Sektorsinformation
+  da: Sektorsinformation
+  fi: Toimialatiedot
+  cs: Informace o odvětví
+  el: Πληροφορίες τομέα
+  hu: Szektorinformáció
+  ro: Informații despre sector
+  bg: Информация за сектора
+  hr: Sektor informacija
+  sk: Informácie o odvetví
+  sl: Sektor informacij
+  lt: Sektoriniai duomenys
+  lv: Nozares informācija
+  et: Sektoriinfo
+  mt: Informazzjoni tas-settur
+  ga: Eolas ar an earnáil
+  he: מידע על התחום
 
 label_new_submodule:
   en: New submodule
