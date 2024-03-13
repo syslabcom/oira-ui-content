@@ -1,3 +1,33 @@
+label_criteria:
+  en: Criteria
+
+label_integrated:
+  en: Integrated
+
+label_separate:
+  en: Separate
+
+label_specificity:
+  en: Specificity
+
+label_criteria_specific_for_tool:
+  en: Criteria are specific for this tool
+
+label_criteria_not_specific_for_tool:
+  en: Criteria are not specific for this tool
+
+label_enabled: 
+  en: Enabled
+
+label_disabled: 
+  en: Disabled
+
+label_style: 
+  en: Style
+
+label_logo: 
+  en: Logo
+
 label_probability:
   en: Probability
   nl: Waarschijnlijkheid
@@ -248,32 +278,7 @@ label_severity:
   lv: Smagums
   et: Tõsidus
   mt: Severità
-
-label_lead_image:
-  en: Lead image
-  nl: Hoofdafbeelding
-  fr: Image principale
-  de: Titelbild
-  it: Immagine principale
-  es: Imagen principal
-  pt: Imagem principal
-  pl: Zdjęcie główne
-  sv: Huvudbild
-  da: Første billede
-  fi: Pääkuva
-  cs: Úvodní obrázek
-  el: Κεντρική εικόνα
-  hu: Fő kép
-  ro: Imagine principală
-  bg: Водеща снимка
-  hr: Glavna slika
-  sk: Úvodný obrázok
-  sl: Vodilna slika
-  lt: Pagrindinė nuotrauka
-  lv: Vadlīnijas attēls
-  et: Esimene pilt
-  mt: Stampar prinċipali
-
+  
 label_lead_image_caption:
   en: Lead image caption
   nl: Bijschrift hoofdafbeelding
@@ -428,34 +433,7 @@ label_external_site_url:
   et: Välise veebisaidi URL
   mt: URL tal-websajt estern
 
-label_criteria_specific_tool:
-  en: The criteria applied to evaluate risks are specific of this tool
-  nl: De criteria die worden toegepast om risico's te evalueren, zijn specifiek voor deze tool
-  fr: Les critères appliqués pour évaluer les risques sont spécifiques à cet outil
-  de: Die Kriterien zur Bewertung von Risiken sind spezifisch für dieses Tool
-  it: I criteri applicati per valutare i rischi sono specifici di questo strumento
-  es: Los criterios aplicados para evaluar los riesgos son específicos de esta herramienta
-  pt: Os critérios aplicados para avaliar os riscos são específicos desta ferramenta
-  pl: Kryteria stosowane do oceny ryzyka są specyficzne dla tego narzędzia
-  sv: De kriterier som tillämpas för att utvärdera risker är specifika för detta verktyg
-  da: De kriterier, der anvendes til at evaluere risici, er specifikke for dette værktøj
-  fi: Riskien arvioinnissa käytettävät kriteerit ovat tämän työkalun mukaisia
-  cs: Kritéria použitá k hodnocení rizik jsou specifická pro tento nástroj
-  el: Τα κριτήρια που εφαρμόζονται για την αξιολόγηση των κινδύνων είναι ειδικά για αυτό το εργαλείο
-  hu: A kockázatok értékelésére alkalmazott kritériumok specifikusak erre az eszközre
-  ro: Criteriile aplicate pentru evaluarea riscurilor sunt specifice acestui instrument
-  bg: Критериите, прилагани за оценка на рисковете, са специфични за този инструмент
-  hr: Kriteriji koji se primjenjuju za procjenu rizika su specifični za ovaj alat
-  sk: Kritériá, ktoré sa používajú na hodnotenie rizík, sú špecifické pre tento nástroj
-  sl: Merila, ki se uporabljajo za oceno tveganj, so specifična za ta orodje
-  lt: Kriterijai, taikomi vertinant riziką, yra specifiniai šiam įrankiui
-  lv: Kritēriji, kas tiek piemēroti risku novērtēšanai, ir specifiski šim rīkam
-  et: Riskide hindamiseks kasutatavad kriteeriumid on selle tööriista jaoks spetsiifilised
-  mt: Il-kriterji applikati biex jiġu valutati r-riskji huma speċifiċi għal din l-għodda
-  ga: Is é an critéir a chuirtear i bhfeidhm chun luach a chur ar rioscaí speisialta don uirlis seo
-
-
-external_site_name:
+label_external_site_name:
   en: External site name
   nl: Naam van externe website
   fr: Nom du site externe
@@ -480,7 +458,7 @@ external_site_name:
   et: Välise veebisaidi nimi
   mt: Isem tas-sit estern
 
-external_site_logo:
+label_external_site_logo:
   en: External site logo
   nl: Logo van externe website
   fr: Logo du site externe
@@ -505,8 +483,7 @@ external_site_logo:
   et: Välise veebisaidi logo
   mt: Logotip tas-sit estern
 
-
-full_show_description_and_general_approach:
+label_full_show_description_and_general_approach:
   en: Show (full description and general approach)
   nl: Toon (volledige beschrijving en algemene aanpak)
   fr: Afficher (la description complète et l'approche générale)
@@ -3777,6 +3754,7 @@ label_certificate_country:
   nl_BE: land
   pt: país
   sl: država
+
 label_certificate_company_identification_number:
   bg: Идентификационен номер на компанията
   ca: Número d'identificació de l'empresa
