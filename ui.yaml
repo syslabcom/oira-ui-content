@@ -1,35 +1,277 @@
 label_criteria:
   en: Criteria
+  nl: Criteria
+  fr: Critères
+  de: Kriterien
+  it: Criteri
+  es: Criterios
+  pt: Critérios
+  pl: Kryteria
+  sv: Kriterier
+  da: Kriterier
+  fi: Kriteerit
+  cs: Kritéria
+  el: Κριτήρια
+  hu: Kritériumok
+  ro: Criterii
+  bg: Критерии
+  hr: Kriteriji
+  sk: Kritériá
+  sl: Merila
+  lt: Kriterijai
+  lv: Kritēriji
+  et: Kriteeriumid
+  mt: Kriterji
 
 label_integrated:
   en: Integrated
+  nl: Geïntegreerd
+  fr: Intégré
+  de: Integriert
+  it: Integrato
+  es: Integrado
+  pt: Integrado
+  pl: Zintegrowany
+  sv: Integrerad
+  da: Integreret
+  fi: Integroitu
+  cs: Integrovaný
+  el: Ενσωματωμένο
+  hu: Integrált
+  ro: Integrat
+  bg: Интегриран
+  hr: Integrirano
+  sk: Integrovaný
+  sl: Integrirano
+  lt: Integruotas
+  lv: Integrēts
+  et: Integreeritud
+  mt: Integrat
 
 label_separate:
   en: Separate
+  nl: Apart
+  fr: Séparé
+  de: Separat
+  it: Separato
+  es: Separado
+  pt: Separado
+  pl: Oddzielny
+  sv: Separat
+  da: Separat
+  fi: Erillinen
+  cs: Oddělený
+  el: Ξεχωριστό
+  hu: Különálló
+  ro: Separat
+  bg: Отделен
+  hr: Odvojen
+  sk: Oddelený
+  sl: Ločeno
+  lt: Atskiras
+  lv: Atsevišķs
+  et: Eraldi
+  mt: Separat
 
 label_specificity:
   en: Specificity
+  nl: Specificiteit
+  fr: Spécificité
+  de: Spezifität
+  it: Specificità
+  es: Especificidad
+  pt: Especificidade
+  pl: Specyficzność
+  sv: Specificitet
+  da: Specificitet
+  fi: Spesifisyys
+  cs: Specificita
+  el: Ειδικότητα
+  hu: Szpecificitás
+  ro: Specificitate
+  bg: Специфичност
+  hr: Specifičnost
+  sk: Specificita
+  sl: Specifičnost
+  lt: Specifiškumas
+  lv: Specifiskums
+  et: Spetsiifilisus
+  mt: Speċifiċità
 
 label_criteria_specific_for_tool:
   en: Criteria are specific for this tool
+  nl: Criteria zijn specifiek voor deze tool
+  fr: Les critères sont spécifiques à cet outil
+  de: Die Kriterien sind spezifisch für dieses Tool
+  it: I criteri sono specifici per questo strumento
+  es: Los criterios son específicos para esta herramienta
+  pt: Os critérios são específicos para esta ferramenta
+  pl: Kryteria są specyficzne dla tego narzędzia
+  sv: Kriterierna är specifika för detta verktyg
+  da: Kriterierne er specifikke for dette værktøj
+  fi: Kriteerit ovat tälle työkalulle ominaisia
+  cs: Kritéria jsou specifická pro tento nástroj
+  el: Τα κριτήρια είναι ειδικά για αυτό το εργαλείο
+  hu: A kritériumok erre az eszközre vonatkoznak
+  ro: Criteriile sunt specifice pentru această unealtă
+  bg: Критериите са специфични за този инструмент
+  hr: Kriteriji su specifični za ovaj alat
+  sk: Kritériá sú špecifické pre tento nástroj
+  sl: Merila so specifična za to orodje
+  lt: Kriterijai yra specifiški šiam įrankiui
+  lv: Kritēriji ir specifiski šim rīkam
+  et: Kriteeriumid on selle tööriista jaoks spetsiifilised
+  mt: Il-kriterji huma speċifiċi għal dan l-għodda
 
 label_criteria_not_specific_for_tool:
   en: Criteria are not specific for this tool
+  nl: Criteria zijn niet specifiek voor deze tool
+  fr: Les critères ne sont pas spécifiques à cet outil
+  de: Die Kriterien sind nicht spezifisch für dieses Tool
+  it: I criteri non sono specifici per questo strumento
+  es: Los criterios no son específicos para esta herramienta
+  pt: Os critérios não são específicos para esta ferramenta
+  pl: Kryteria nie są specyficzne dla tego narzędzia
+  sv: Kriterierna är inte specifika för detta verktyg
+  da: Kriterierne er ikke specifikke for dette værktøj
+  fi: Kriteerit eivät ole tälle työkalulle ominaisia
+  cs: Kritéria nejsou specifická pro tento nástroj
+  el: Τα κριτήρια δεν είναι ειδικά για αυτό το εργαλείο
+  hu: A kritériumok nem vonatkoznak erre az eszközre
+  ro: Criteriile nu sunt specifice pentru această unealtă
+  bg: Критериите не са специфични за този инструмент
+  hr: Kriteriji nisu specifični za ovaj alat
+  sk: Kritériá nie sú špecifické pre tento nástroj
+  sl: Merila niso specifična za to orodje
+  lt: Kriterijai nėra specifiški šiam įrankiui
+  lv: Kritēriji nav specifiski šim rīkam
+  et: Kriteeriumid ei ole selle tööriista jaoks spetsiifilised
+  mt: Il-kriterji mhumiex speċifiċi għal dan l-għodda
 
 label_enabled: 
   en: Enabled
+  nl: Ingeschakeld
+  fr: Activé
+  de: Aktiviert
+  it: Abilitato
+  es: Habilitado
+  pt: Ativado
+  pl: Włączony
+  sv: Aktiverad
+  da: Aktiveret
+  fi: Käytössä
+  cs: Povoleno
+  el: Ενεργοποιημένο
+  hu: Engedélyezve
+  ro: Activat
+  bg: Активиран
+  hr: Omogućeno
+  sk: Povolené
+  sl: Omogočeno
+  lt: Įjungta
+  lv: Ieslēgts
+  et: Sisse lülitatud
+  mt: Attivat
 
 label_disabled: 
   en: Disabled
+  nl: Uitgeschakeld
+  fr: Désactivé
+  de: Deaktiviert
+  it: Disabilitato
+  es: Deshabilitado
+  pt: Desativado
+  pl: Wyłączony
+  sv: Inaktiverad
+  da: Deaktiveret
+  fi: Pois käytöstä
+  cs: Zakázáno
+  el: Απενεργοποιημένο
+  hu: Letiltva
+  ro: Dezactivat
+  bg: Деактивиран
+  hr: Onemogućeno
+  sk: Zakázané
+  sl: Onemogočeno
+  lt: Išjungta
+  lv: Izslēgts
+  et: Välja lülitatud
+  mt: Disattivat
 
 label_style: 
   en: Style
+  nl: Stijl
+  fr: Style
+  de: Stil
+  it: Stile
+  es: Estilo
+  pt: Estilo
+  pl: Styl
+  sv: Stil
+  da: Stil
+  fi: Tyyli
+  cs: Styl
+  el: Στυλ
+  hu: Stílus
+  ro: Stil
+  bg: Стил
+  hr: Stil
+  sk: Štýl
+  sl: Slog
+  lt: Stilius
+  lv: Stils
+  et: Stiil
+  mt: Stil
 
 label_logo: 
   en: Logo
+  nl: Logo
+  fr: Logo
+  de: Logo
+  it: Logo
+  es: Logotipo
+  pt: Logotipo
+  pl: Logo
+  sv: Logotyp
+  da: Logo
+  fi: Logo
+  cs: Logo
+  el: Λογότυπο
+  hu: Logó
+  ro: Logo
+  bg: Лого
+  hr: Logo
+  sk: Logo
+  sl: Logotip
+  lt: Logotipas
+  lv: Logotips
+  et: Logo
+  mt: Logo
 
 label_questions: 
   en: Questions
+  nl: Vragen
+  fr: Questions
+  de: Fragen
+  it: Domande
+  es: Preguntas
+  pt: Perguntas
+  pl: Pytania
+  sv: Frågor
+  da: Spørgsmål
+  fi: Kysymykset
+  cs: Otázky
+  el: Ερωτήσεις
+  hu: Kérdések
+  ro: Întrebări
+  bg: Въпроси
+  hr: Pitanja
+  sk: Otázky
+  sl: Vprašanja
+  lt: Klausimai
+  lv: Jautājumi
+  et: Küsimused
+  mt: Mistoqsijiet
 
 label_probability:
   en: Probability
