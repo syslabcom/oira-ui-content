@@ -1,3 +1,103 @@
+label_oira_tool_where_"measures_that_are_already_in_place"_can_be_defined:
+  nl: OiRA tool waar "maatregelen die al van kracht zijn" kunnen worden gedefinieerd
+  en: OiRA tool where "measures that are already in place" can be defined
+  fr: Outil OiRA où les "mesures déjà en place" peuvent être définies
+  de: OiRA-Tool, in dem "bereits vorhandene Maßnahmen" definiert werden können
+  it: Strumento OiRA in cui è possibile definire "misure già in atto"
+  es: Herramienta OiRA donde se pueden definir "medidas que ya están en vigor"
+  pt: Ferramenta OiRA onde "medidas já em vigor" podem ser definidas
+  pl: Narzędzie OiRA, w którym można zdefiniować "środki, które już obowiązują"
+  sv: OiRA-verktyg där "åtgärder som redan är på plats" kan definieras
+  da: OiRA-værktøj, hvor "foranstaltninger, der allerede er på plads", kan defineres
+  fi: OiRA-työkalu, jossa voidaan määritellä "jo voimassa olevat toimenpiteet"
+  cs: OiRA nástroj, kde lze definovat "opatření, která jsou již v platnosti"
+  el: Εργαλείο OiRA όπου μπορούν να καθοριστούν "μέτρα που ήδη έχουν εφαρμοστεί"
+  hu: OiRA-eszköz, ahol "már érvényben lévő intézkedéseket" lehet meghatározni
+  ro: Instrument OiRA în care se pot defini "măsuri care sunt deja în vigoare"
+  bg: Инструмент OiRA, в който могат да бъдат дефинирани "мерки, които веч
+
+label_classic_oira_tool_with_positive_and_negative_statements:
+  nl: Klassiek OiRA tool met positieve en negatieve stellingen
+  en: Classic OiRA tool with positive and negative statements
+  fr: Outil OiRA classique avec des affirmations positives et négatives
+  de: Klassisches OiRA-Tool mit positiven und negativen Aussagen
+  it: Strumento OiRA classico con affermazioni positive e negative
+  es: Herramienta OiRA clásica con afirmaciones positivas y negativas
+  pt: Ferramenta OiRA clássica com afirmações positivas e negativas
+  pl: Klasyczne narzędzie OiRA z pozytywnymi i negatywnymi stwierdzeniami
+  sv: Klassiskt OiRA-verktyg med positiva och negativa påståenden
+  da: Klassisk OiRA-værktøj med positive og negative udsagn
+  fi: Perinteinen OiRA-työkalu positiivisilla ja negatiivisilla lausunnoilla
+  cs: Klasický nástroj OiRA s pozitivními a negativními prohlášeními
+  el: Κλασικό εργαλείο OiRA με θετικές και αρνητικές δηλώσεις
+  hu: Klasszikus OiRA-eszköz pozitív és negatív állításokkal
+  ro: Instrument OiRA clasic cu afirmații pozitive și negative
+  bg: Класически инструмент OiRA с положителни и отрицателни изявления
+  hr: Klasični alat OiRA s pozitivnim i negativnim izjavama
+  sk: Klasický nástroj OiRA s pozitívnymi a negatívnymi vyhláseniami
+  sl: Klasično orodje OiRA s pozitivnimi in negativnimi izjavami
+  lt: Klasikinis OiRA įrankis su teigiamomis ir neigiamomis išsireiškimais
+  lv: Klasiskais OiRA rīks ar pozitīvām un negatīvām izteiksmēm
+  et: Klassikaline OiRA tööriist positiivsete ja negatiivsete avaldustega
+  mt: Għodda OiRA klassika b'afirmazzjonijiet pożittivi u negattivi
+  ga: Uirlis OiRA clasaice le dearbhuithe dearfacha agus diúltacha
+  he: כלי OiRA קלאסי עם הצהרות חיוביות ושליליות
+  
+label_type_of_oira_tool: 
+  nl: Type OiRA tool
+  en: Type OiRA tool
+  fr: Type d'outil OiRA
+  de: Typ OiRA-Tool
+  it: Tipo di strumento OiRA
+  es: Tipo de herramienta OiRA
+  pt: Tipo de ferramenta OiRA
+  pl: Typ narzędzia OiRA
+  sv: Typ av OiRA-verktyg
+  da: Type OiRA-værktøj
+  fi: OiRA-työkalun tyyppi
+  cs: Typ nástroje OiRA
+  el: Τύπος εργαλείου OiRA
+  hu: OiRA eszköz típusa
+  ro: Tipul instrumentului OiRA
+  bg: Тип инструмент OiRA
+  hr: Vrsta alata OiRA
+  sk: Typ nástroja OiRA
+  sl: Vrsta orodja OiRA
+  lt: OiRA įrankio tipas
+  lv: OiRA rīka tips
+  et: OiRA tööriista tüüp
+  mt: Tip ta' għodda OiRA
+  ga: Cineál uirlis OiRA
+  he: סוג כלי OiRA
+
+
+label_classification_code:
+  en: Classification code
+  nl: Classificatiecode
+  fr: Code de classification
+  de: Klassifizierungscode
+  it: Codice di classificazione
+  es: Código de clasificación
+  pt: Código de classificação
+  pl: Kod klasyfikacji
+  sv: Klassificeringskod
+  da: Klassifikationskode
+  fi: Luokittelukoodi
+  cs: Klasifikační kód
+  el: Κωδικός ταξινόμησης
+  hu: Osztályozási kód
+  ro: Cod de clasificare
+  bg: Класификационен код
+  hr: Klasifikacijski kod
+  sk: Klasifikačný kód
+  sl: Klasifikacijska koda
+  lt: Klasifikacijos kodas
+  lv: Klasifikācijas kods
+  et: Klassifitseerimiskood
+  mt: Klassifikazzjoni kod
+  ga: Cód rannáin
+  he: קוד סיווג
+
 label_sector_information:
   en: Sector information
   nl: Sectorinformatie
