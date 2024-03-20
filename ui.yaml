@@ -23,6 +23,210 @@ label_criteria:
   et: Kriteeriumid
   mt: Kriterji
 
+message_training_add_questions:
+  nl: "Voeg hieronder desgewenst vragen toe aan uw tool."
+  en: "If desired, add questions to your tool below."
+  fr: "Si vous le souhaitez, ajoutez des questions à votre outil ci-dessous."
+  de: "Fügen Sie unten bei Bedarf Fragen zu Ihrem Tool hinzu."
+  es: "Si lo desea, agregue preguntas a su herramienta a continuación."
+  it: "Se desideri, aggiungi domande al tuo strumento qui sotto."
+  pt: "Se desejar, adicione perguntas à sua ferramenta abaixo."
+  sv: "Lägg till frågor till ditt verktyg nedan om du önskar."
+  da: "Tilføj spørgsmål til dit værktøj nedenfor, hvis du ønsker."
+  fi: "Lisää halutessasi kysymyksiä työkaluusi alla."
+  et: "Soovi korral lisage allpool oma tööriista küsimusi."
+  lv: "Ja vēlaties, zemāk pievienojiet jautājumus savam rīkam."
+  lt: "Jei norite, žemiau prie savo įrankio pridėkite klausimus."
+  hu: "Ha szeretné, adja hozzá kérdéseit az eszközhöz alább."
+  mt: "Jekk tixtieq, żid mistoqsijiet mal-għodda tiegħek hawn taħt."
+  pl: "Jeśli chcesz, dodaj pytania do swojego narzędzia poniżej."
+  ro: "Dacă doriți, adăugați întrebări la instrumentul dvs. mai jos."
+  sk: "Ak chcete, nižšie pridajte otázky k svojmu nástroju."
+  sl: "Če želite, spodaj dodajte vprašanja k svojemu orodju."
+  bg: "Ако желаете, добавете въпроси към вашия инструмент по-долу."
+  cs: "Pokud si přejete, přidejte níže otázky k vašemu nástroji."
+  el: "Εάν το επιθυμείτε, προσθέστε ερωτήσεις στο εργαλείο σας παρακάτω."
+  hr: "Ako želite, dodajte pitanja svom alatu ispod."
+  ga: "Más mian leat, cuir ceisteanna le d’uirlis thíos."
+  he: "אם תרצו, הוסיפו שאלות לכלי שלכם למטה."
+
+
+message_training_author_info:
+  nl: "Voeg een training toe aan uw tool. De gebruiker krijgt in een automatisch gegenereerde presentatie uitleg over eventuele risico's en maatregelen. Gebruikers die risicobeoordelingen mogen verrichten kunnen de automatisch gegenereerde training zelf uitbreiden of inkorten. U kunt vragen aan de tool toevoegen die aan het eind van de training gesteld zullen worden."
+  en: "Add a training module to your tool. Users will receive an automatically generated presentation explaining potential risks and measures. Users authorized to conduct risk assessments can extend or shorten the automatically generated training themselves. You can add questions to the tool that will be asked at the end of the training."
+  fr: "Ajoutez un module de formation à votre outil. Les utilisateurs recevront une présentation générée automatiquement expliquant les risques potentiels et les mesures à prendre. Les utilisateurs autorisés à effectuer des évaluations des risques peuvent eux-mêmes prolonger ou raccourcir la formation générée automatiquement. Vous pouvez ajouter des questions à l'outil qui seront posées à la fin de la formation."
+  de: "Fügen Sie Ihrem Tool ein Schulungsmodul hinzu. Die Nutzer erhalten eine automatisch erstellte Präsentation, die potenzielle Risiken und Maßnahmen erläutert. Nutzer, die Risikobewertungen durchführen dürfen, können die automatisch erstellte Schulung selbst erweitern oder verkürzen. Sie können dem Tool Fragen hinzufügen, die am Ende der Schulung gestellt werden."
+  es: "Agregue un módulo de capacitación a su herramienta. Los usuarios recibirán una presentación generada automáticamente que explica los riesgos potenciales y las medidas. Los usuarios autorizados para realizar evaluaciones de riesgo pueden extender o acortar la capacitación generada automáticamente por sí mismos. Puede agregar preguntas a la herramienta que se harán al final de la capacitación."
+  it: "Aggiungi un modulo di formazione al tuo strumento. Gli utenti riceveranno una presentazione generata automaticamente che spiega i potenziali rischi e le misure. Gli utenti autorizzati a effettuare valutazioni del rischio possono estendere o accorciare da soli la formazione generata automaticamente. Puoi aggiungere domande allo strumento che verranno poste alla fine della formazione."
+  pt: "Adicione um módulo de treinamento à sua ferramenta. Os usuários receberão uma apresentação gerada automaticamente explicando os riscos potenciais e medidas. Usuários autorizados a realizar avaliações de risco podem estender ou encurtar o treinamento gerado automaticamente por si mesmos. Você pode adicionar perguntas à ferramenta que serão feitas no final do treinamento."
+  sv: "Lägg till en utbildningsmodul i ditt verktyg. Användarna får en automatgenererad presentation som förklarar potentiella risker och åtgärder. Användare som är behöriga att genomföra riskbedömningar kan själva förlänga eller förkorta den automatgenererade utbildningen. Du kan lägga till frågor i verktyget som kommer att ställas i slutet av utbildningen."
+  da: "Tilføj en træningsmodul til dit værktøj. Brugerne modtager en automatisk genereret præsentation, der forklarer potentielle risici og foranstaltninger. Brugere, der er autoriserede til at udføre risikovurderinger, kan selv forlænge eller forkorte den automatisk genererede træning. Du kan tilføje spørgsmål til værktøjet, som vil blive stillet i slutningen af træningen."
+  fi: "Lisää koulutusmoduuli työkaluusi. Käyttäjät saavat automaattisesti luodun esityksen, joka selittää mahdollisia riskejä ja toimenpiteitä. Käyttäjät, jotka ovat valtuutettuja suorittamaan riskiarvioita, voivat itse laajentaa tai lyhentää automaattisesti luotua koulutusta. Voit lisätä kysymyksiä työkaluun, jotka esitetään koulutuksen lopussa."
+  cs: "Přidejte školicí modul do svého nástroje. Uživatelé obdrží automaticky generovanou prezentaci, která vysvětlí potenciální rizika a opatření. Uživatelé oprávnění k provádění hodnocení rizik mohou sami prodloužit nebo zkrátit automaticky generované školení. Můžete přidat otázky do nástroje, které budou položeny na konci školení."
+  el: "Προσθέστε ένα εκπαιδευτικό μοντέλο στο εργαλείο σας. Οι χρήστες θα λάβουν αυτόματα δημιουργημένη παρουσίαση που εξηγεί τους πιθανούς κινδύνους και τα μέτρα. Οι χρήστες που είναι εξουσιοδοτημένοι να πραγματοποιούν αξιολογήσεις κινδύνου μπορούν να επεκτείνουν ή να μειώσουν αυτόματα την εκπαίδευση. Μπορείτε να προσθέσετε ερωτήσεις στο εργαλείο που θα ρωτηθούν στο τέλος της εκπαίδευσης."
+  hu: "Adjon hozzá egy képzési modult a képzéshez. A felhasználók automatikusan generált bemutatót kapnak, amely magyarázza a potenciális kockázatokat és intézkedéseket. Azok a felhasználók, akik jogosultak a kockázatértékelések elvégzésére, saját maguk is meghosszabbíthatják vagy lerövidíthetik az automatikusan generált képzést. Hozzáadhat kérdéseket a képzéshez, amelyeket a képzés végén fognak feltenni."
+  ro: "Adăugați un modul de instruire la instrumentul dvs. Utilizatorii vor primi o prezentare generată automat care explică riscurile potențiale și măsurile. Utilizatorii autorizați să efectueze evaluări de risc pot extinde sau scurta singuri instruirea generată automat. Puteți adăuga întrebări la instrument care vor fi puse la sfârșitul instruirii."
+  bg: "Добавете модул за обучение към вашия инструмент. Потребителите ще получат автоматично генерирана презентация, която обяснява потенциалните рискове и мерките. Потребителите, упълномощени да извършват оценки на риска, могат сами да разширят или съкратят автоматично генерираното обучение. Можете да добавите въпроси към инструмента, които ще бъдат зададени в края на обучението."
+  hr: "Dodajte modul obuke svom alatu. Korisnici će dobiti automatski generiranu prezentaciju koja objašnjava potencijalne rizike i mjere. Korisnici ovlašteni za provođenje procjena rizika mogu sami proširiti ili skratiti automatski generiranu obuku. Možete dodati pitanja u alat koja će biti postavljena na kraju obuke."
+  sk: "Pridajte školiaci modul do vášho nástroja. Užívatelia dostanú automaticky generovanú prezentáciu, ktorá vysvetľuje potenciálne riziká a opatrenia. Užívatelia oprávnení k vykonávaniu hodnotení rizík môžu sami predĺžiť alebo skrátiť automaticky generovanú školenie. Môžete pridať otázky do nástroja, ktoré budú položené na konci školenia."
+  sl: "Dodajte modul za usposabljanje v svoje orodje. Uporabniki bodo prejeli avtomatsko generirano predstavitev, ki pojasnjuje potencialna tveganja in ukrepe. Uporabniki, ki so pooblaščeni za izvajanje ocenjevanj tveganja, lahko sami podaljšajo ali skrajšajo avtomatsko generirano usposabljanje. Lahko dodate vprašanja v orodje, ki bodo postavljena na koncu usposabljanja."
+  lt: "Pridėkite mokymo modulį į savo įrankį. Vartotojai gaus automatiškai sugeneruotą pristatymą, kuriame bus paaiškintos galimos rizikos ir priemonės. Vartotojai, turintys teisę atlikti rizikos vertinimus, gali patys pratęsti arba sutrumpinti automatiškai sugeneruotą mokymą. Galite pridėti klausimus į įrankį, kurie bus užduodami mokymo pabaigoje."
+  lv: "Pievienojiet apmācības moduli savam rīkam. Lietotāji saņems automātiski ģenerētu prezentāciju, kas skaidros potenciālos riskus un pasākumus. Lietotāji, kuriem ir atļauja veikt riska novērtējumus, var paši paplašināt vai saīsināt automātiski ģenerēto apmācību. Jūs varat pievienot jautājumus rīkam, kas tiks uzdoti apmācības beigās."
+  et: "Lisage koolitusmoodul oma tööriista. Kasutajad saavad automaatselt genereeritud esitluse, mis selgitab potentsiaalseid riske ja meetmeid. Riskihindamise õigustega kasutajad saavad ise pikendada või lühendada automaatselt genereeritud koolitust. Saate lisada tööriista küsimusi, mis esitatakse koolituse lõpus."
+  mt: "Żid it-taħriġ mal-għodda tiegħek. L-utent jirċievi spjegazzjoni ta' kwalunkwe riskju u miżura fi preżentazzjoni ġġenerata awtomatikament. Utenti li jitħallew iwettqu valutazzjonijiet tar-riskju jistgħu jestendu jew iqassru t-taħriġ iġġenerat awtomatikament huma stess. Tista 'żżid mistoqsijiet mal-għodda li se tintalab fi tmiem it-taħriġ."
+  he: "הוסף מודול הכשרה לכלי שלך. המשתמשים יקבלו מצגת שנוצרה אוטומטית המסבירה על סיכונים פוטנציאליים ואמצעים. משתמשים שמורשים לבצע דירוגי סיכון יכולים להרחיב או לקצר את ההכשרה שנוצרה אוטומטית באופן עצמאי. ניתן להוסיף שאלות לכלי שישאלו בסוף ההכשרה."
+
+label_training_settings:
+  en: Training settings
+  nl: Trainingsinstellingen
+  fr: Paramètres de formation
+  de: Trainingseinstellungen
+  it: Impostazioni di addestramento
+  es: Configuración de entrenamiento
+  pt: Configurações de treinamento
+  pl: Ustawienia szkolenia
+  sv: Träningsinställningar
+  da: Træningsindstillinger
+  fi: Koulutuksen asetukset
+  cs: Nastavení školení
+  el: Ρυθμίσεις εκπαίδευσης
+  hu: Képzési beállítások
+  ro: Setări de instruire
+  bg: Настройки за обучение
+  hr: Postavke obuke
+  sk: Nastavenia školenia
+  sl: Nastavitve usposabljanja
+  lt: Mokymosi nustatymai
+  lv: Apmācības iestatījumi
+  et: Koolituse seaded
+  mt: Settings tat-taħriġ
+
+message_author_training_question_answer_order_notice:
+  en: "During the training, the questions will be arranged in a randomised order. Furthermore, the answers for each question will also be presented in a random sequence for enhanced learning engagement."
+  fr: "Pendant la formation, les questions seront organisées dans un ordre aléatoire. De plus, les réponses à chaque question seront également présentées dans une séquence aléatoire pour améliorer l'engagement d'apprentissage."
+  de: "Während des Trainings werden die Fragen in einer zufälligen Reihenfolge angeordnet. Darüber hinaus werden die Antworten auf jede Frage auch in einer zufälligen Sequenz präsentiert, um die Lernbeteiligung zu verbessern."
+  es: "Durante el entrenamiento, las preguntas se organizarán en un orden aleatorio. Además, las respuestas para cada pregunta también se presentarán en una secuencia aleatoria para mejorar el compromiso con el aprendizaje."
+  it: "Durante la formazione, le domande saranno disposte in un ordine casuale. Inoltre, le risposte per ogni domanda saranno presentate in una sequenza casuale per migliorare l'coinvolgimento nell'apprendimento."
+  pt: "Durante o treinamento, as perguntas serão organizadas em uma ordem aleatória. Além disso, as respostas para cada pergunta também serão apresentadas em uma sequência aleatória para aumentar o engajamento no aprendizado."
+  nl: "Tijdens de training zullen de vragen in willekeurige volgorde worden gerangschikt. Bovendien zullen de antwoorden op elke vraag ook in een willekeurige volgorde worden gepresenteerd om de betrokkenheid bij het leren te verhogen."
+  sv: "Under träningen kommer frågorna att ordnas i en slumpmässig ordning. Dessutom kommer svaren på varje fråga också att presenteras i en slumpmässig sekvens för att öka engagemanget i lärandet."
+  fi: "Koulutuksen aikana kysymykset järjestetään satunnaiseen järjestykseen. Lisäksi kunkin kysymyksen vastaukset esitetään myös satunnaisessa järjestyksessä, mikä lisää oppimisen sitoutumista."
+  da: "Under træningen vil spørgsmålene blive arrangeret i en tilfældig rækkefølge. Desuden vil svarene på hvert spørgsmål også blive præsenteret i en tilfældig sekvens for at forbedre læringsengagementet."
+  et: "Koolituse ajal paigutatakse küsimused juhuslikku järjekorda. Lisaks esitatakse iga küsimuse vastused samuti juhuslikus järjestuses, et suurendada õppimise kaasatust."
+  lv: "Apmācības laikā jautājumi tiks sakārtoti nejaušā secībā. Turklāt katras jautājuma atbildes tiks arī izklāstītas nejaušā secībā, lai uzlabotu mācīšanās iesaistīšanos."
+  lt: "Mokymo metu klausimai bus išdėstyti atsitiktine tvarka. Be to, kiekvieno klausimo atsakymai taip pat bus pateikti atsitiktine seka, siekiant padidinti mokymosi įtraukimą."
+  mt: "Matul it-taħriġ, il-mistoqsijiet jiġu organizzati f'ordni każwali. Barra minn hekk, it-tweġibiet għal kull mistoqsija se jiġu ppreżentati wkoll f'sekwenza każwali biex jiġi msaħħaħ l-impenn fl-apprendiment."
+  ga: "Le linn an oiliúna, beidh na ceisteanna eagraithe i ndiaidh a chéile go randamach. Ina theannta sin, cuirfear na freagraí ar gach ceist i láthair i sraith randamach chun rannpháirtíocht foghlama a fheabhsú."
+  el: "Κατά τη διάρκεια της εκπαίδευσης, οι ερωτήσεις θα οργανωθούν σε τυχαία σειρά. Επιπλέον, οι απαντήσεις για κάθε ερώτηση θα παρουσιαστούν επίσης σε τυχαία ακολουθία για ενισχυμένη συμμετοχή στη μάθηση."
+  hu: "Az oktatás során a kérdéseket véletlenszerű sorrendben rendezik. Emellett minden kérdésre adott válaszok is véletlenszerű sorrendben lesznek bemutatva a fokozott tanulási elkötelezettség érdekében."
+  ro: "În timpul instruirii, întrebările vor fi aranjate într-o ordine aleatorie. În plus, răspunsurile la fiecare întrebare vor fi prezentate, de asemenea, într-o secvență aleatorie pentru angajamentul sporit în învățare."
+  bg: "По време на обучението въпросите ще бъдат подредени в произволен ред. Освен това, отговорите на всеки въпрос също ще бъдат представени в произволна последователност за подобрено учебно ангажиране."
+  hr: "Tijekom obuke, pitanja će biti raspoređena u nasumičnom redoslijedu. Nadalje, odgovori na svako pitanje također će biti prikazani u nasumičnom slijedu za poboljšanu uključenost u učenje."
+  sk: "Počas tréningu budú otázky usporiadané v náhodnom poradí. Okrem toho budú odpovede na každú otázku tiež prezentované v náhodnej sekvencii pre zvýšené angažovanie pri učení."
+  sl: "Med usposabljanjem bodo vprašanja razporejena v naključnem vrstnem redu. Poleg tega bodo odgovori na vsako vprašanje prav tako predstavljeni v naključnem zaporedju za povečano vključevanje v učenje."
+  pl: "Podczas szkolenia pytania będą ułożone w losowej kolejności. Ponadto odpowiedzi na każde pytanie będą również prezentowane w losowej kolejności, co zwiększy zaangażowanie w uczenie się."
+  he: "במהלך האימון, השאלות יועברו בסדר כלשהו. בנוסף, התשובות לכל שאלה יוצגו גם בסדר כלשהו על מנת לשפר את ההתמקדות בלמידה."
+
+label_correct_answer:
+  en: Correct answer
+  nl: Correct antwoord
+  fr: Réponse correcte
+  de: Richtige Antwort
+  it: Risposta corretta
+  es: Respuesta correcta
+  pt: Resposta correta
+  pl: Prawidłowa odpowiedź
+  sv: Korrekt svar
+  da: Korrekt svar
+  fi: Oikea vastaus
+  cs: Správná odpověď
+  el: Σωστή απάντηση
+  hu: Helyes válasz
+  ro: Răspuns corect
+  bg: Верен отговор
+  hr: Točan odgovor
+  sk: Správna odpoveď
+  sl: Pravilen odgovor
+  lt: Teisingas atsakymas
+  lv: Pareizā atbilde
+  et: Õige vastus
+  mt: Tweġiba korretta
+
+label_question:
+  en: Question
+  nl: Vraag
+  fr: Question
+  de: Frage
+  it: Domanda
+  es: Pregunta
+  pt: Pergunta
+  pl: Pytanie
+  sv: Fråga
+  da: Spørgsmål
+  fi: Kysymys
+  cs: Otázka
+  el: Ερώτηση
+  hu: Kérdés
+  ro: Întrebare
+  bg: Въпрос
+  hr: Pitanje
+  sk: Otázka
+  sl: Vprašanje
+  lt: Klausimas
+  lv: Jautājums
+  et: Küsimus
+  mt: Mistoqsija
+
+label_add_question:
+  en: Add question
+  nl: Vraag toevoegen
+  fr: Ajouter une question
+  de: Frage hinzufügen
+  it: Aggiungi domanda
+  es: Agregar pregunta
+  pt: Adicionar pergunta
+  pl: Dodaj pytanie
+  sv: Lägg till fråga
+  da: Tilføj spørgsmål
+  fi: Lisää kysymys
+  cs: Přidat otázku
+  el: Προσθήκη ερώτησης
+  hu: Kérdés hozzáadása
+  ro: Adăugați întrebare
+  bg: Добавяне на въпрос
+  hr: Dodaj pitanje
+  sk: Pridať otázku
+  sl: Dodaj vprašanje
+  lt: Pridėti klausimą
+  lv: Pievienot jautājumu
+  et: Lisa küsimus
+  mt: Żid mistoqsija
+
+label_enable_training:  
+  en: Enable training
+  nl: Training inschakelen
+  fr: Activer la formation
+  de: Training aktivieren
+  it: Abilita l'addestramento
+  es: Habilitar entrenamiento
+  pt: Ativar treinamento
+  pl: Włącz szkolenie
+  sv: Aktivera träning
+  da: Aktivér træning
+  fi: Ota koulutus käyttöön
+  cs: Povolit školení
+  el: Ενεργοποίηση εκπαίδευσης
+  hu: Képzés engedélyezése
+  ro: Activare instruire
+  bg: Активиране на обучението
+  hr: Omogući obuku
+  sk: Povoliť školenie
+  sl: Omogoči usposabljanje
+  lt: Įjungti mokymąsi
+  lv: Iespējot apmācību
+  et: Luba koolitus
+  mt: Attiva t-taħriġ
+
 message_add_questions_to_the_training_from_the_sidebar:
   en: You may add questions to the training in the training section. The training section can be accessed from the sidebar after saving the settings.
   nl: U kunt vragen toevoegen aan de training in de trainingssectie. De trainingssectie is toegankelijk vanuit de zijbalk nadat de instellingen zijn opgeslagen.
