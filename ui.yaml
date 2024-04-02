@@ -4735,6 +4735,36 @@ label_planned_measures:
   nl: Geplande maatregelen
   he: אמצעים מתוכננים
 
+label_risk_is_always_present:
+  en: Risk is always present
+  nl: Risico is altijd aanwezig
+  de: Risiko ist immer vorhanden
+  fr: Le risque est toujours présent
+  es: El riesgo siempre está presente
+  it: Il rischio è sempre presente
+  pt: O risco está sempre presente
+  sv: Risk är alltid närvarande
+  da: Risikoen er altid til stede
+  fi: Riski on aina läsnä
+  et: Risk on alati olemas
+  lv: Riski vienmēr ir klāt
+  lt: Rizika visada yra
+  mt: Ir-riskju hu dejjem preżenti
+  ga: Tá an Géarán i gcónaí i láthair
+  el: Το κίνδυνο είναι πάντα παρόν
+  bg: Рисикът винаги е налице
+  ro: Riscul este întotdeauna prezent
+  hu: A kockázat mindig jelen van
+  cs: Riziko je vždy přítomno
+  sk: Riziko je vždy prítomné
+  sl: Tveganje je vedno prisotno
+  hr: Rizik je uvijek prisutan
+  pl: Ryzyko zawsze jest obecne
+  nl_BE: Risico is altijd aanwezig
+  nl: Risico is altijd aanwezig
+  'no': ''
+  he: הסיכון תמיד קיים
+
 label_measure:
   en: Measure
   nl: Maatregel
