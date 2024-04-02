@@ -4735,6 +4735,36 @@ label_planned_measures:
   nl: Geplande maatregelen
   he: אמצעים מתוכננים
 
+label_measure:
+  en: Measure
+  nl: Maatregel
+  de: Maßnahme
+  fr: Mesure
+  es: Medida
+  it: Misura
+  pt: Medida
+  sv: Åtgärd
+  da: Foranstaltning
+  fi: Toimenpide
+  et: Meede
+  lv: Pasākums
+  lt: Priemonė
+  mt: Miżura
+  ga: Mír
+  el: Μέτρο
+  bg: Мярка
+  ro: Măsură
+  hu: Intézkedés
+  cs: Opatření
+  sk: Opatrenie
+  sl: Ukrep
+  hr: Mjera
+  pl: Środek
+  nl_BE: Maatregel
+  nl: Maatregel
+  'no': ''
+  he: אמצע
+
 label_measures:
   en: Measures
   nl: Maatregelen
