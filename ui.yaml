@@ -1,3 +1,55 @@
+label_add_measure:
+  en: Add measure
+  nl: Maatregel toevoegen
+  fr: Ajouter une mesure
+  de: Maßnahme hinzufügen
+  it: Aggiungi misura
+  es: Agregar medida
+  pt: Adicionar medida
+  pl: Dodaj środek
+  sv: Lägg till åtgärd
+  da: Tilføj foranstaltning
+  fi: Lisää toimenpide
+  cs: Přidat opatření
+  el: Προσθήκη μέτρου
+  hu: Intézkedés hozzáadása
+  ro: Adăugați măsură
+  bg: Добавяне на мярка
+  hr: Dodaj mjeru
+  sk: Pridať opatrenie
+  sl: Dodaj ukrep
+  lt: Pridėti priemonę
+  lv: Pievienot pasākumu
+  et: Lisa meetme
+  mt: Żid miżura
+  he: "הפעל אימון"
+
+label_add_attachment:
+  en: Add attachment
+  nl: Bijlage toevoegen
+  fr: Ajouter une pièce jointe
+  de: Anhang hinzufügen
+  it: Aggiungi allegato
+  es: Agregar adjunto
+  pt: Adicionar anexo
+  pl: Dodaj załącznik
+  sv: Lägg till bilaga
+  da: Tilføj vedhæftning
+  fi: Lisää liite
+  cs: Přidat přílohu
+  el: Προσθήκη συνημμένου
+  hu: Csatolmány hozzáadása
+  ro: Adăugați atașament
+  bg: Добавяне на прикачен файл
+  hr: Dodaj privitak
+  sk: Pridať prílohu
+  sl: Dodaj prilogo
+  lt: Pridėti priedą
+  lv: Pievienot pielikumu
+  et: Lisa manus
+  mt: Żid allegat
+  he: "הוסף קובץ מצורף"
+
 label_criteria:
   en: Criteria
   nl: Criteria
