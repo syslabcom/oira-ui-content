@@ -24,6 +24,137 @@ label_add_measure:
   mt: Żid miżura
   he: "הפעל אימון"
 
+message_help_standard_measure_description:
+  en: Include any relevant information that may be helpful for the end-user.
+  nl: Voeg alle relevante informatie toe die nuttig kan zijn voor de eindgebruiker.
+  fr: Incluez toutes les informations pertinentes qui peuvent être utiles pour l'utilisateur final.
+  de: Fügen Sie alle relevanten Informationen hinzu, die für den Endbenutzer hilfreich sein können.
+  it: Includere tutte le informazioni rilevanti che possono essere utili per l'utente finale.
+  es: Incluya toda la información relevante que pueda ser útil para el usuario final.
+  pt: Inclua todas as informações relevantes que possam ser úteis para o usuário final.
+  pl: Dołącz wszelkie istotne informacje, które mogą być pomocne dla końcowego użytkownika.
+  sv: Inkludera all relevant information som kan vara till hjälp för slutanvändaren.
+  da: Inkluder alle relevante oplysninger, der kan være nyttige for slutbrugeren.
+  fi: Sisällytä kaikki asiaankuuluvat tiedot, jotka voivat olla hyödyllisiä loppukäyttäjälle.
+  cs: Zahrňte všechny relevantní informace, které mohou být užitečné pro koncového uživatele.
+  el: Συμπεριλάβετε όλες τις σχετικές πληροφορίες που μπορεί να είναι χρήσιμες για τον τελικό χρήστη.
+  hu: Tartalmazzon minden releváns információt, amely hasznos lehet a végfelhasználó számára.
+  ro: Includeți orice informație relevantă care ar putea fi utilă pentru utilizatorul final.
+  bg: Включете всички съответни информации, които могат да бъдат полезни за крайния потребител.
+  hr: Uključite sve relevantne informacije koje mogu biti korisne za krajnjeg korisnika.
+  sk: Zahrňte všetky relevantné informácie, ktoré môžu byť užitočné pre koncového používateľa.
+  sl: Vključite vse ustrezne informacije, ki bi lahko bile koristne za končnega uporabnika.
+  lt: Įtraukite visą reikalingą informaciją, kuri gali būti naudinga galutiniam vartotojui.
+  lv: Iekļaujiet visu atbilstošo informāciju, kas var būt noderīga gala lietotājam.
+  et: Lisage kõik asjakohane teave, mis võib olla lõppkasutajale kasulik.
+  mt: Ikkonkludi kwalunkwe informazzjoni rilevanti li tista' tkun ta' għajnuna għall-utent finali.
+  he: "כלול כל מידע רלוונטי שעשוי להיות מועיל למשתמש הסופי."
+
+message_help_standard_measure_general_approach:
+  en: Describe your general approach to eliminate or (if the risk is not avoidable) reduce the risk. + Describe the specific action(s) required to implement this approach (to eliminate or to reduce the risk).
+  nl: Beschrijf uw algemene aanpak om het risico te elimineren of (indien het risico niet te vermijden is) te verminderen. + Beschrijf de specifieke actie(s) die nodig zijn om deze aanpak te implementeren (om het risico te elimineren of te verminderen).
+  fr: Décrivez votre approche générale pour éliminer ou (si le risque n'est pas évitable) réduire le risque. + Décrivez l'action (s) spécifique (s) requise (s) pour mettre en œuvre cette approche (pour éliminer ou réduire le risque).
+  de: Beschreiben Sie Ihren allgemeinen Ansatz, um das Risiko zu beseitigen oder (wenn das Risiko nicht vermeidbar ist) zu reduzieren. + Beschreiben Sie die spezifische(n) Maßnahme(n), die erforderlich sind, um diesen Ansatz umzusetzen (um das Risiko zu beseitigen oder zu reduzieren).
+  it: Descrivi il tuo approccio generale per eliminare o (se il rischio non è evitabile) ridurre il rischio. + Descrivi l'azione (i) specifica (e) richiesta (e) per implementare questo approccio (per eliminare o ridurre il rischio).
+  es: Describa su enfoque general para eliminar o (si el riesgo no es evitable) reducir el riesgo. + Describa la (s) acción (es) específica (s) requerida (s) para implementar este enfoque (para eliminar o reducir el riesgo).
+  pt: Descreva sua abordagem geral para eliminar ou (se o risco não for evitável) reduzir o risco. + Descreva a (s) ação (ões) específica (s) necessária (s) para implementar essa abordagem (para eliminar ou reduzir o risco).
+  pl: Opisz ogólny sposób eliminacji lub (jeśli ryzyko nie jest uniknione) zmniejszenia ryzyka. + Opisz konkretne działanie (a), które należy podjąć, aby wdrożyć ten sposób (aby wyeliminować lub zmniejszyć ryzyko).
+  sv: Beskriv din allmänna strategi för att eliminera eller (om risken inte kan undvikas) minska risken. + Beskriv den specifika åtgärd (erna) som krävs för att genomföra denna strategi (för att eliminera eller minska risken).
+  da: Beskriv din generelle tilgang til at eliminere eller (hvis risikoen ikke kan undgås) reducere risikoen. + Beskriv den (de) specifikke handling(er), der kræves for at implementere denne tilgang (for at eliminere eller reducere risikoen).
+  fi: Kuvaile yleistä lähestymistapaasi riskin poistamiseksi tai (jos riskiä ei voida välttää) vähentämiseksi. + Kuvaile tarkka toimenpide(t), jotka on toteutettava tämän lähestymistavan toteuttamiseksi (riskin poistamiseksi tai vähentämiseksi).
+  cs: Popište svůj obecný přístup k odstranění nebo (pokud riziko nelze vyhnout) snížení rizika. + Popište konkrétní akci(e), která(e) je(t) potřebná(e) k provedení tohoto přístupu (k odstranění nebo snížení rizika).
+  el: Περιγράψτε τη γενική προσέγγισή σας για την εξάλειψη ή (αν το κίνδυνο δεν είναι αποφευκτό) τη μείωση του κινδύνου. + Περιγράψτε την (τις) συγκεκριμένη (ες) ενέργεια (ες) που απαιτείται (ουν) για την υλοποίηση αυτής της προσέγγισης (για την εξάλειψη ή τη μείωση του κινδύνου).
+  hu: Írja le általános megközelítését a kockázat megszüntetésére vagy (ha a kockázat nem elkerülhető) csökkentésére. + Írja le a konkrét intézkedést (eket), amely(ek) szükséges(ek) ennek a megközelítésnek a végrehajtásához (a kockázat megszüntetésére vagy csökkentésére).
+  ro: Descrieți abordarea generală pentru eliminarea sau (dacă riscul nu poate fi evitat) reducerea riscului. + Descrieți acțiunea (acțiunile) specifică (specifice) necesară (necesare) pentru implementarea acestei abordări (pentru eliminarea sau reducerea riscului).
+  bg: Опишете общия си подход за премахване или (ако риска не може да бъде избегнат) намаляване на риска. + Опишете конкретните действия, необходими за прилагането на този подход (за премахване или намаляване на риска).
+  hr: Opišite svoj opći pristup uklanjanju ili (ako se rizik ne može izbjeći) smanjenju rizika. + Opišite specifičnu (e) akciju (e) potrebnu (e) za provedbu ovog pristupa (za uklanjanje ili smanjenje rizika).
+  sk: Popíšte svoj všeobecný prístup k odstráneniu alebo (ak sa riziko nedá vyhnúť) zníženiu rizika. + Popíšte konkrétnu akciu (e), ktorá (é) je (sú) potrebná (é) na vykonanie tohto prístupu (na odstránenie alebo zníženie rizika).
+  sl: Opisite svoj splošen pristop k odpravljanju ali (če se tveganja ni mogoče izogniti) zmanjšanju tveganja. + Opisite specifično (e) ukrep (e), ki je (so) potreben (i) za izvedbo tega pristopa (za odpravo ali zmanjšanje tveganja).
+  lt: Aprašykite bendrą savo požiūrį į riziką pašalinti arba (jei rizikas neįmanoma išvengti) sumažinti. + Aprašykite konkretų veiksmą (us), reikalingą (us) šio požiūrio įgyvendinimui (riziką pašalinti arba sumažinti).
+  lv: Aprakstiet savu vispārējo pieeju riska novēršanai vai (ja risks nav izvairāms) riska samazināšanai. + Aprakstiet konkrēto darbību (as), kas nepieciešama (as) šīs pieejas īstenošanai (riska novēršanai vai samazināšanai).
+  et: Kirjeldage oma üldist lähenemist riski kõrvaldamiseks või (kui riski ei saa vältida) riski vähendamiseks. + Kirjeldage konkreetset tegevust (usi), mis on vajalik (ud) selle lähenemisviisi rakendamiseks (riski kõrvaldamiseks või vähendamiseks).
+  mt: Iddeskrivi l-approċċ ġenerali tiegħek biex telimina jew (jekk ir-riskju ma jistax jiġi evitat) tnaqqas ir-riskju. + Iddeskrivi l-azzjoni(jiet) speċifika(jiet) meħtieġa biex jiġi implimentat dan l-approċċ (biex jiġi eliminat jew jitnaqqas ir-riskju).
+  he: "תיאר את הגישה הכללית שלך להסרת הסיכון או (אם הסיכון אינו נמנע) להפחתת הסיכון. + תיאר את הפעולה (ות) הספציפית (ות) הנדרשת (ות) ליישום גישה זו (להסרת או להפחתת הסיכון)."
+
+message_help_standard_measure_level_of_expertise:
+  en: Describe the level of expertise needed to implement the measure, for instance "common sense (no OSH knowledge required)", "no specific OSH expertise, but minimum OSH knowledge or training and/or consultation of OSH guidance required", or "OSH expert". You can also describe here any other additional requirement (if any).
+  nl: Beschrijf het deskundigheidsniveau dat nodig is om de maatregel te implementeren, bijvoorbeeld "gezond verstand (geen kennis van OSH vereist)", "geen specifieke OSH-expertise, maar minimale OSH-kennis vereist, of training en/of raadpleging van OSH-richtlijnen vereist", of "OSH-expert". U kunt hier ook eventuele aanvullende vereisten beschrijven (indien van toepassing).
+  fr: Décrivez le niveau d'expertise nécessaire pour mettre en œuvre la mesure, par exemple "sens commun (aucune connaissance en SST requise)", "aucune expertise spécifique en SST requise, mais des connaissances minimales en SST ou une formation et/ou une consultation de la documentation en SST requise", ou "expert en SST". Vous pouvez également décrire ici toute autre exigence supplémentaire (le cas échéant).
+  de: Beschreiben Sie das erforderliche Fachwissen zur Umsetzung der Maßnahme, zum Beispiel "gesunder Menschenverstand (kein Arbeitsschutz-Know-how erforderlich)", "keine spezifischen Arbeitsschutzkenntnisse erforderlich, aber mindestens grundlegende Arbeitsschutzkenntnisse oder Schulung und/oder Konsultation von Arbeitsschutzleitlinien erforderlich", oder "Arbeitsschutzexperte". Sie können hier auch etwaige zusätzliche Anforderungen beschreiben (falls vorhanden).
+  it: Descrivi il livello di competenza necessario per attuare la misura, ad esempio "buon senso (nessuna conoscenza della sicurezza sul lavoro richiesta)", "nessuna competenza specifica in materia di sicurezza sul lavoro richiesta, ma è necessaria una conoscenza minima della sicurezza sul lavoro o una formazione e/o una consultazione della documentazione sulla sicurezza sul lavoro", o "esperto di sicurezza sul lavoro". Puoi anche descrivere qui qualsiasi ulteriore requisito aggiuntivo (se presente).
+  es: Describa el nivel de experiencia necesario para implementar la medida, por ejemplo "sentido común (no se requiere conocimiento de seguridad y salud en el trabajo)", "no se requiere experiencia específica en seguridad y salud en el trabajo, pero se requiere un conocimiento mínimo o capacitación en seguridad y salud en el trabajo y/o consulta de orientación en seguridad y salud en el trabajo", o "experto en seguridad y salud en el trabajo". También puede describir aquí cualquier otro requisito adicional (si lo hubiera).
+  pt: Descreva o nível de experiência necessário para implementar a medida, por exemplo "senso comum (nenhum conhecimento de segurança e saúde ocupacional necessário)", "nenhuma expertise específica em segurança e saúde ocupacional necessária, mas é necessário conhecimento mínimo ou treinamento em segurança e saúde ocupacional e/ou consulta de orientação em segurança e saúde ocupacional", ou "especialista em segurança e saúde ocupacional". Você também pode descrever aqui qualquer outro requisito adicional (se houver).
+  pl: Opisz poziom wiedzy wymagany do wdrożenia środka, na przykład "zdrowy rozsądek (nie wymaga się wiedzy w zakresie BHP)", "nie wymaga się specjalistycznej wiedzy w zakresie BHP, ale wymagane jest minimum wiedzy lub szkolenie z zakresu BHP i/lub konsultacja dokumentacji dotyczącej BHP", lub "ekspert w dziedzinie BHP". Możesz także opisać tutaj inne dodatkowe wymagania (jeśli istnieją).
+  sv: Beskriv den kunskapsnivå som krävs för att genomföra åtgärden, till exempel "sunt förnuft (ingen kunskap om arbetsmiljö krävs)", "ingen specifik arbetsmiljöexpertis krävs, men grundläggande kunskap eller utbildning inom arbetsmiljö krävs och/eller konsultation av arbetsmiljöriktlinjer krävs", eller "arbetsmiljöexpert". Du kan också beskriva eventuella ytterligare krav här (om det finns några).
+  da: Beskriv det erfaringsniveau, der er nødvendigt for at implementere foranstaltningen, for eksempel "almindelig sund fornuft (ingen viden om arbejdsmiljø krævet)", "ingen specifik viden om arbejdsmiljø krævet, men minimum viden eller træning inden for arbejdsmiljø krævet og/eller konsultation af arbejdsmiljøvejledning krævet", eller "arbejdsmiljøekspert". Du kan også beskrive eventuelle yderligere krav her (hvis nogen).
+  fi: Kuvaile toimenpiteen toteuttamiseen tarvittavaa osaamisen tasoa, esimerkiksi "terve järki (ei tarvita työterveysosaamista)", "työterveysalan erityisosaamista ei tarvita, mutta vähintään perustiedot työterveydestä tai koulutus ja/tai työterveysohjeiden konsultointi tarvitaan", tai "työterveysasiantuntija". Voit myös kuvata täällä muita lisävaatimuksia (jos sellaisia on).
+  cs: Popište úroveň odborných znalostí potřebnou k provedení opatření, například "zdravý rozum (nevyžaduje se žádné povědomí o BOZP)", "nevyžaduje se žádná konkrétní odbornost v oblasti BOZP, ale je vyžadována minimální znalost BOZP nebo školení a/nebo konzultace BOZP pokynů", nebo "expert na BOZP". Zde můžete také popsat další případné požadavky (pokud existují).
+  el: Περιγράψτε το επίπεδο εμπειρογνωμοσύνης που απαιτείται για την εφαρμογή της μέτρησης, για παράδειγμα "κοινή λογική (δεν απαιτείται γνώση ασφάλειας και υγείας στην εργασία)", "δεν απαιτείται συγκεκριμένη ειδίκευση στην ασφάλεια και υγεία στην εργασία, αλλά απαιτείται τουλάχιστον βασική γνώση ή κατάρτιση στην ασφάλεια και υγεία στην εργασία και/ή διαβούλευση των οδηγιών ασφάλειας και υγείας στην εργασία", ή "ειδικός στην ασφάλεια και υγεία στην εργασία". Μπορείτε επίσης να περιγράψετε εδώ οποιαδήποτε άλλη πρόσθετη απαίτηση (εάν υπάρχει).
+  hu: Írja le azt a szaktudást, amelyre szükség van az intézkedés végrehajtásához, például "közös érzék (nincs szükség Munkavédelmi és Egészségügyi Tudásra)", "nincs szükség különleges munkavédelmi és egészségügyi tudásra, de minimális munkavédelmi és egészségügyi ismeretek vagy képzés és/vagy munkavédelmi és egészségügyi irányelvek konzultációja szükséges", vagy "munkavédelmi és egészségügyi szakértő". Itt leírhatja az esetleges további követelményeket is (ha vannak).
+  ro: Descrieți nivelul de expertiză necesar pentru implementarea măsurii, de exemplu "bun simț (nu este necesară cunoașterea SSM)", "nu este necesară o expertiză specifică în domeniul SSM, dar este necesară o cunoaștere minimă sau o formare în domeniul SSM și/sau consultarea ghidurilor de SSM", sau "expert în SSM". Puteți descrie și alte cerințe suplimentare aici (dacă există).
+  bg: Опишете нивото на познания, необходимо за прилагането на мярката, например "здрав разум (няма нужда от познания в ОББЗ)", "няма нужда от конкретна експертиза в областта на ОББЗ, но се изисква минимална познаване или обучение по ОББЗ и/или консултиране на насоките по ОББЗ", или "експерт по ОББЗ". Можете да опишете и всякакви други допълнителни изисквания тук (ако има такива).
+  hr: Navedite razinu stručnosti potrebnu za provedbu mjere, na primjer "zdrav razum (nije potrebno poznavanje sigurnosti i zdravlja na radu)", "nema potrebne specifične stručnosti u području sigurnosti i zdravlja na radu, ali je potrebno minimalno znanje ili obuka u području sigurnosti i zdravlja na radu i/ili konzultacija smjernica za sigurnost i zdravlje na radu", ili "stručnjak za sigurnost i zdravlje na radu". Također možete ovdje opisati bilo koje dodatne zahtjeve (ako ih ima).
+  sk: Popíšte úroveň odbornej znalosti potrebnú na realizáciu opatrenia, napríklad "zdravý rozum (nevyžaduje sa žiadna znalosť BOZP)", "žiadna špecifická odbornosť v oblasti BOZP nie je potrebná, ale je potrebné minimálne základné odborné vedomosti alebo školenie v oblasti BOZP a/alebo konzultácia BOZP usmernení", alebo "odborník na BOZP". Tu môžete tiež opísať akékoľvek ďalšie dodatočné požiadavky (ak sú).
+  sl: Opisujte raven strokovnosti, potrebno za izvajanje ukrepa, na primer "zdrava pamet (ni potrebno poznavanje varnosti in zdravja pri delu)", "ni potrebna specifična strokovnost na področju varnosti in zdravja pri delu, ampak je potrebno minimalno znanje ali usposabljanje na področju varnosti in zdravja pri delu in/ali posvetovanje s smernicami za varnost in zdravje pri delu", ali "strokovnjak za varnost in zdravje pri delu". Tukaj lahko opišete tudi morebitne dodatne zahteve (če obstajajo).
+  lt: Aprašykite ekspertų lygį, reikalingą priemonės įgyvendinimui, pavyzdžiui, "sveika nuovokos (nereikia žinių apie darbo saugą ir sveikatą)", "nereikia konkretaus darbo saugos ir sveikatos ekspertų, bet reikalingos bent minimalios darbo saugos ir sveikatos žinios arba mokymai ir/arba darbo saugos ir sveikatos rekomendacijų konsultacijos", arba "darbo saugos ir sveikatos ekspertas". Čia taip pat galite aprašyti bet kokius papildomus reikalavimus (jei tokių yra).
+  lv: Aprakstiet zināšanu līmeni, kas nepieciešams pasākuma īstenošanai, piemēram, "vesels saprāts (nav nepieciešamas ZSD zināšanas)", "nav nepieciešama specifiska ZSD ekspertīze, bet nepieciešamas minimālas ZSD zināšanas vai apmācība un/vai ZSD norāžu konsultācija", vai "ZSD eksperts". Šeit jūs varat arī aprakstīt jebkādas papildu prasības (ja tādas ir).
+  et: Kirjeldage meetme rakendamiseks vajalikku pädevustaset, näiteks "terve mõistus (töötervishoiu ja tööohutuse tundmine pole vajalik)", "spetsiifilist töötervishoiu ja tööohutuse pädevust pole vaja, kuid vajalik on minimaalne töötervishoiu ja tööohutuse teadmine või koolitus ning/või töötervishoiu ja tööohutuse juhendite konsulteerimine", või "töötervishoiu ja tööohutuse ekspert". Samuti saate siin kirjeldada muid täiendavaid nõudeid (kui need on olemas).
+  mt: Deskrivi livell ta' esperjenza meħtieġ għal li jintlaħaq il-miżura, forsi "ħsieb komuni (ebda għarfien dwar is-saħħa u s-sigurtà fis-sit tax-xogħol meħtieġ)", "ebda ekspertiza speċifika dwar is-saħħa u s-sigurtà fis-sit tax-xogħol mhux meħtieġa, iżda jintlaħaq għarfien minimu jew taħriġ fis-saħħa u s-sigurtà fis-sit tax-xogħol u/jew konsultazzjoni ta' għajdilijiet dwar is-saħħa u s-sigurtà fis-sit tax-xogħol", jew "espert fis-saħħa u s-sigurtà fis-sit tax-xogħol". Tista' wkoll tiddeskrivi l-ebda kriżijiet addizzjonali hawn (jekk hemm xi wieħed).
+  ga: Cur síos ar an leibhéal saineolas a bhfuil ag teastáil leis an meastóireacht a chur i bhfeidhm, mar shampla "críonnacht (nach bhfuil aon eolas ar shláinte agus sábháilteacht saothair de dhíth)", "ní gá saineolas ar bith ar shláinte agus sábháilteacht saothair go speisialta, ach tá ar a laghad beagán eolais ar shláinte agus sábháilteacht saothair nó oiliúint agus/nó comhairliúchán ar threoir shláinte agus sábháilteacht saothair", nó "saineolaí ar shláinte agus sábháilteacht saothair". Is féidir leat tuilleadh riachtanas breise a chur síos anseo (más ann).
+  he: תיאר את רמת המומחיות הנדרשת ליישום האמצע, לדוגמה "שכל טוב (אין צורך בידע בבריאות ובטיחות בעבודה)", "אין דרישה להתמחות מסוימת בתחום בריאות ובטיחות בעבודה, אך נדרשת מינימום של ידע בתחום או הכשרה ו/או ייעוץ במדריכים של בריאות ובטיחות בעבודה", או "מומחה בבריאות ובטיחות בעבודה". באפשרותך גם לתאר כאן כל דרישה נוספת (אם קיימת).
+
+label_general_approach:
+  en: General approach
+  nl: Algemene aanpak
+  fr: Approche générale
+  de: Allgemeiner Ansatz
+  it: Approccio generale
+  es: Enfoque general
+  pt: Abordagem geral
+  pl: Ogólne podejście
+  sv: Allmänt tillvägagångssätt
+  da: Generel tilgang
+  fi: Yleinen lähestymistapa
+  cs: Obecný přístup
+  el: Γενική προσέγγιση
+  hu: Általános megközelítés
+  ro: Abordare generală
+  bg: Общ подход
+  hr: Opći pristup
+  sk: Všeobecný prístup
+  sl: Splošen pristop
+  lt: Bendras požiūris
+  lv: Vispārējais piegādes veids
+  et: Üldine lähenemine
+  mt: Approċċ ġenerali
+  he: "גישה כללית"
+
+label_level_of_expertise: 
+  en: Level of expertise
+  nl: Deskundigheidsniveau
+  fr: Niveau d'expertise
+  de: Expertise-Level
+  it: Livello di competenza
+  es: Nivel de experiencia
+  pt: Nível de experiência
+  pl: Poziom wiedzy
+  sv: Expertisnivå
+  da: Ekspertiseniveau
+  fi: Asiantuntijataso
+  cs: Úroveň odbornosti
+  el: Επίπεδο εμπειρίας
+  hu: Szakértelmi szint
+  ro: Nivel de expertiză
+  bg: Ниво на експертиза
+  hr: Razina stručnosti
+  sk: Úroveň odbornosti
+  sl: Stopnja strokovnosti
+  lt: Ekspertizės lygis
+  lv: Ekspertīzes līmenis
+  et: Ekspertiisi tase
+  mt: Livell ta' esperjenza
+  he: "רמת המומחיות"
+
 label_add_attachment:
   en: Add attachment
   nl: Bijlage toevoegen
