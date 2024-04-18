@@ -24,6 +24,32 @@ label_add_measure:
   mt: Żid miżura
   he: "הפעל אימון"
 
+label_additional_image:
+  en: Additional image
+  nl: Extra afbeelding
+  fr: Image supplémentaire
+  de: Zusätzliches Bild
+  it: Immagine aggiuntiva
+  es: Imagen adicional
+  pt: Imagem adicional
+  pl: Dodatkowe zdjęcie
+  sv: Ytterligare bild
+  da: Yderligere billede
+  fi: Lisäkuva
+  cs: Další obrázek
+  el: Επιπλέον εικόνα
+  hu: További kép
+  ro: Imagine suplimentară
+  bg: Допълнително изображение
+  hr: Dodatna slika
+  sk: Ďalší obrázok
+  sl: Dodatna slika
+  lt: Papildomas paveikslėlis
+  lv: Papildu attēls
+  et: Lisapilt
+  mt: Stampi addizzjonali
+  he: "תמונה נוספת"
+
 message_help_standard_measure_description:
   en: Include any relevant information that may be helpful for the end-user.
   nl: Voeg alle relevante informatie toe die nuttig kan zijn voor de eindgebruiker.
