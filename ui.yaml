@@ -1511,6 +1511,108 @@ label_new_module:
   ga: Modúl nua
   he: מודול חדש
 
+label_new_profile_question:
+  en: New profile question
+  nl: Nieuwe profielvraag
+  fr: Nouvelle question de profil
+  de: Neue Profilfrage
+  it: Nuova domanda di profilo
+  es: Nueva pregunta de perfil
+  pt: Nova pergunta de perfil
+  pl: Nowe pytanie profilowe
+  sv: Ny profilfråga
+  da: Ny profilspørgsmål
+  fi: Uusi profiilikysymys
+  cs: Nová profilová otázka
+  el: Νέα ερώτηση προφίλ
+  hu: Új profil kérdés
+  ro: Noua întrebare de profil
+  bg: Нов въпрос за профил
+  hr: Novo pitanje profila
+  sk: Nová profilová otázka
+  sl: Novo vprašanje profila
+  lt: Naujas profilio klausimas
+  lv: Jauns profila jautājums
+  et: Uus profiiliküsimus
+  mt: Mistoqsija tal-profil ġdida
+  ga: Ceist phróifíl nua
+  he: שאלת פרופיל חדשה
+
+label_insert_module_from_other_tool_imp:
+  en: Insert module from other tool
+  nl: Voeg module in vanuit een ander instrument
+  fr: Insérer un module d'un autre outil
+  de: Modul aus einem anderen Tool einfügen
+  it: Inserisci modulo da un altro strumento
+  es: Insertar módulo de otra herramienta
+  pt: Inserir módulo de outra ferramenta
+  pl: Wstaw moduł z innego narzędzia
+  sv: Infoga modul från annat verktyg
+  da: Indsæt modul fra et andet værktøj
+  fi: Lisää moduuli toisesta työkalusta
+  cs: Vložit modul z jiného nástroje
+  el: Εισαγωγή μονάδας από άλλο εργαλείο
+  hu: Modul beszúrása egy másik eszközből
+  ro: Inserare modul din alt instrument
+  bg: Вмъкване на модул от друг инструмент
+  hr: Umetni modul iz drugog alata
+  sk: Vložiť modul z iného nástroja
+  sl: Vstavi modul iz drugega orodja
+  lt: Įterpti modulį iš kito įrankio
+  lv: Ievietot moduli no cita rīka
+  et: Sisesta moodul teisest tööriistast
+  mt: Iffil modulu minn għodda oħra
+
+label_insert_risk_from_other_tool_imp:
+  en: Insert risk from other tool
+  nl: Voeg risico in vanuit een ander instrument
+  fr: Insérer un risque d'un autre outil
+  de: Risiko aus einem anderen Tool einfügen
+  it: Inserisci rischio da un altro strumento
+  es: Insertar riesgo de otra herramienta
+  pt: Inserir risco de outra ferramenta
+  pl: Wstaw ryzyko z innego narzędzia
+  sv: Infoga risk från annat verktyg
+  da: Indsæt risiko fra et andet værktøj
+  fi: Lisää riski toisesta työkalusta
+  cs: Vložit riziko z jiného nástroje
+  el: Εισαγωγή κινδύνου από άλλο εργαλείο
+  hu: Kockázat beszúrása egy másik eszközből
+  ro: Inserare risc din alt instrument
+  bg: Вмъкване на риск от друг инструмент
+  hr: Umetni rizik iz drugog alata
+  sk: Vložiť riziko z iného nástroja
+  sl: Vstavi tveganje iz drugega orodja
+  lt: Įterpti riziką iš kito įrankio
+  lv: Ievietot risku no cita rīka
+  et: Sisesta risk teisest tööriistast
+  mt: Iffil riskju minn għodda oħra
+
+label_insert_from_other_tool_imp:
+  en: Insert from other tool
+  nl: Voeg in vanuit een ander instrument
+  fr: Insérer d'un autre outil
+  de: Aus einem anderen Tool einfügen
+  it: Inserisci da un altro strumento
+  es: Insertar de otra herramienta
+  pt: Inserir de outra ferramenta
+  pl: Wstaw z innego narzędzia
+  sv: Infoga från annat verktyg
+  da: Indsæt fra et andet værktøj
+  fi: Lisää toisesta työkalusta
+  cs: Vložit z jiného nástroje
+  el: Εισαγωγή από άλλο εργαλείο
+  hu: Beszúrás egy másik eszközből
+  ro: Inserare din alt instrument
+  bg: Вмъкване от друг инструмент
+  hr: Umetni iz drugog alata
+  sk: Vložiť z iného nástroja
+  sl: Vstavi iz drugega orodja
+  lt: Įterpti iš kito įrankio
+  lv: Ievietot no cita rīka
+  et: Sisesta teisest tööriistast
+  mt: Iffil minn għodda oħra
+
 label_risks:
   en: Risks
   nl: Risico's
