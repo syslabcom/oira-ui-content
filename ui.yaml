@@ -308,6 +308,31 @@ label_training_settings:
   et: Koolituse seaded
   mt: Settings tat-taħriġ
 
+label_optional_module:
+  en: Optional module
+  nl: Optioneel module
+  fr: Module facultatif
+  de: Optionales Modul
+  it: Modulo opzionale
+  es: Módulo opcional
+  pt: Módulo opcional
+  pl: Opcjonalny moduł
+  sv: Valfritt modul
+  da: Valgfrit modul
+  fi: Valinnainen moduuli
+  cs: Volitelný modul
+  el: Προαιρετική μονάδα
+  hu: Opcionális modul
+  ro: Modul opțional
+  bg: Опционален модул
+  hr: Opcioni modul
+  sk: Voliteľný modul
+  sl: Izbirni modul
+  lt: Pasirenkamas modulis
+  lv: Izvēles modulis
+  et: Valikuline moodul
+  mt: Modulu opzjonali
+
 message_author_training_question_answer_order_notice:
   en: "During the training, the questions will be arranged in a randomised order. Furthermore, the answers for each question will also be presented in a random sequence for enhanced learning engagement."
   fr: "Pendant la formation, les questions seront organisées dans un ordre aléatoire. De plus, les réponses à chaque question seront également présentées dans une séquence aléatoire pour améliorer l'engagement d'apprentissage."
@@ -567,6 +592,31 @@ label_criteria_specific_for_tool:
   et: Kriteeriumid on selle tööriista jaoks spetsiifilised
   mt: Il-kriterji huma speċifiċi għal dan l-għodda
 
+label_solution:
+  en: Solution
+  nl: Oplossing
+  fr: Solution
+  de: Lösung
+  it: Soluzione
+  es: Solución
+  pt: Solução
+  pl: Rozwiązanie
+  sv: Lösning
+  da: Løsning
+  fi: Ratkaisu
+  cs: Řešení
+  el: Λύση
+  hu: Megoldás
+  ro: Soluție
+  bg: Решение
+  hr: Rješenje
+  sk: Riešenie
+  sl: Rešitev
+  lt: Sprendimas
+  lv: Risinājums
+  et: Lahendus
+  mt: Soluzzjoni
+
 label_criteria_not_specific_for_tool:
   en: Criteria are not specific for this tool
   nl: Criteria zijn niet specifiek voor deze tool
@@ -742,31 +792,6 @@ label_probability:
   et: Tõenäosus
   mt: Probabbiltà
 
-  label_optional_module:
-    en: This module is optional
-    nl: Deze module is optioneel
-    fr: Ce module est facultatif
-    de: Dieses Modul ist optional
-    it: Questo modulo è opzionale
-    es: Este módulo es opcional
-    pt: Este módulo é opcional
-    pl: Ten moduł jest opcjonalny
-    sv: Den här modulen är valfri
-    da: Dette modul er valgfrit
-    fi: Tämä moduuli on valinnainen
-    cs: Tento modul je volitelný
-    el: Αυτή η ενότητα είναι προαιρετική
-    hu: Ez a modul opcionális
-    ro: Acest modul este opțional
-    bg: Този модул е опционален
-    hr: Ovaj modul je opcionalan
-    sk: Tento modul je voliteľný
-    sl: Ta modul je izbirni
-    lt: Šis modulis yra pasirenkamas
-    lv: Šis modulis ir izvēles variants
-    et: See moodul on valikuline
-    mt: Dan il-modulu huwa fakultattiv
-
   label_question:
     en: Question
     nl: Vraag
@@ -791,31 +816,6 @@ label_probability:
     lv: Jautājums
     et: Küsimus
     mt: Mistoqsija
-
-  label_solution:
-    en: Solution
-    nl: Oplossing
-    fr: Solution
-    de: Lösung
-    it: Soluzione
-    es: Solución
-    pt: Solução
-    pl: Rozwiązanie
-    sv: Lösning
-    da: Løsning
-    fi: Ratkaisu
-    cs: Řešení
-    el: Λύση
-    hu: Megoldás
-    ro: Soluție
-    bg: Решение
-    hr: Rješenje
-    sk: Riešenie
-    sl: Rešitev
-    lt: Sprendimas
-    lv: Risinājums
-    et: Lahendus
-    mt: Soluzzjoni
 
   label_additional_content:
     en: Additional content
