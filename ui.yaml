@@ -24,6 +24,32 @@ label_add_measure:
   mt: Żid miżura
   he: "הפעל אימון"
 
+label_ask_user_about_locations:
+  nl: Vraag de gebruiker naar vestigingen
+  en: Ask the user about locations
+  fr: Demander à l'utilisateur les emplacements
+  de: Benutzer nach Standorten fragen
+  it: Chiedi all'utente informazioni sui luoghi
+  es: Preguntar al usuario sobre las ubicaciones
+  pt: Perguntar ao usuário sobre os locais
+  pl: Zapytaj użytkownika o lokalizacje
+  sv: Fråga användaren om platser
+  da: Spørg brugeren om steder
+  fi: Kysy käyttäjältä sijainneista
+  cs: Zeptejte se uživatele na místa
+  el: Ρωτήστε τον χρήστη για τις τοποθεσίες
+  hu: Kérdezze meg a felhasználót a helyekről
+  ro: Întrebați utilizatorul despre locații
+  bg: Попитайте потребителя за местоположения
+  hr: Pitajte korisnika o lokacijama
+  sk: Spýtajte sa používateľa o miesta
+  sl: Vprašajte uporabnika o lokacijah
+  lt: Paklauskite vartotojo apie vietas
+  lv: Jautājiet lietotājam par atrašanās vietām
+  et: Küsige kasutajalt kohtade kohta
+  mt: Iċċaqal lill-utent dwar il-postijiet
+  he: "שאל את המשתמש על מיקומים"
+
 label_additional_image:
   en: Additional image
   nl: Extra afbeelding
@@ -383,6 +409,81 @@ label_correct_answer:
   lv: Pareizā atbilde
   et: Õige vastus
   mt: Tweġiba korretta
+
+label_multiple_item_question:
+  en: Multiple item question
+  nl: Vraag met meerdere items
+  fr: Question à plusieurs éléments
+  de: Mehrfachfrage
+  it: Domanda a più elementi
+  es: Pregunta de varios elementos
+  pt: Pergunta de vários itens
+  pl: Pytanie wieloelementowe
+  sv: Fråga med flera objekt
+  da: Spørgsmål med flere elementer
+  fi: Usean kohteen kysymys
+  cs: Vícepoložková otázka
+  el: Πολλαπλών στοιχείων ερώτηση
+  hu: Több elemű kérdés
+  ro: Întrebare cu mai multe elemente
+  bg: Въпрос с няколко елемента
+  hr: Višestruki element pitanja
+  sk: Viacpoložková otázka
+  sl: Vprašanje z več elementi
+  lt: Daugelio elementų klausimas
+  lv: Vairāku vienumu jautājums
+  et: Mitme elemendiga küsimus
+  mt: Mistoqsija b'numru ta' elementi
+
+label_single_occurance_prompt:
+  en: Single occurrence prompt
+  nl: Enkele gebeurtenis prompt
+  fr: Invite d'occurrence unique
+  de: Einzelereignis-Prompt
+  it: Prompt di singola occorrenza
+  es: Indicación de ocurrencia única
+  pt: Prompt de ocorrência única
+  pl: Jednorazowe zdarzenie
+  sv: Enstaka förekomstprompt
+  da: Enkelt forekomstprompt
+  fi: Yksittäinen tapahtumapyyntö
+  cs: Jednotlivý výskyt
+  el: Μοναδική εμφάνιση
+  hu: Egyetlen előfordulás
+  ro: Prompt unic
+  bg: Единично събитие
+  hr: Jednostruki događaj
+  sk: Jednotlivý výskyt
+  sl: Enkratna pojavnost
+  lt: Vienkartinis įvykis
+  lv: Vienreizēja notikuma pieprasījums
+  et: Ühekordne esinemise vihje
+  mt: Prompt ta' okkorrenza waħda
+
+Multiple occurance prompt:
+  en: Multiple occurance prompt
+  nl: Meerdere gebeurtenissen prompt
+  fr: Invite d'occurrence multiple
+  de: Mehrfachereignis-Prompt
+  it: Prompt di occorrenza multipla
+  es: Indicación de ocurrencia múltiple
+  pt: Prompt de ocorrência múltipla
+  pl: Wielokrotne zdarzenie
+  sv: Flerfaldig förekomstprompt
+  da: Flere forekomstprompt
+  fi: Useita tapahtumapyyntöjä
+  cs: Více výskytů
+  el: Πολλαπλές εμφανίσεις
+  hu: Többszörös előfordulás
+  ro: Prompt cu mai multe apariții
+  bg: Множествено събитие
+  hr: Višestruki događaj
+  sk: Viacnásobný výskyt
+  sl: Večkratna pojavnost
+  lt: Daugelio įvykių įspėjimas
+  lv: Vairākas notikumu pieprasījums
+  et: Mitme esinemise vihje
+  mt: Prompt ta' okkorrenza multipla
 
 label_question:
   en: Question
@@ -892,31 +993,30 @@ label_probability:
     et: Üksiku esinemise vihje
     mt: Mistoqsija għal okkorenza waħda
 
-  label_multiple_occurance_prompt:
-    en: Multiple occurrence prompt
-    nl: Prompt voor meerdere gebeurtenissen
-    fr: Invite pour plusieurs occurrences
-    de: Mehrere Vorkommnis-Aufforderung
-    it: Prompt per più occorrenze
-    es: Indicación para múltiples ocurrencias
-    pt: Indicação para ocorrências múltiplas
-    pl: Podpowiedź dla wielokrotnego wystąpienia
-    sv: Flerfaldig förekomst prompt
-    da: Prompt for flere forekomster
-    fi: Usean tapahtuman kehotus
-    cs: Výzva pro více výskytů
-    el: Προτροπή για πολλαπλές εμφανίσεις
-    hu: Több előfordulásra vonatkozó utasítás
-    ro: Indicație pentru mai multe apariții
-    bg: Инструкция за множество събития
-    hr: Uputa za više pojavljivanja
-    sk: Pokyn pre viaceré výskyty
-    sl: Navodilo za več pojavljanj
-    lt: Kelis įvykius apimančios užklausos
-    lv: Vairāku parādību norāde
-    et: Mitme esinemise vihje
-    mt: Mistoqsija għal okkorenzi multipli
-
+label_multiple_occurance_prompt:
+  en: Multiple occurrence prompt
+  nl: Prompt voor meerdere gebeurtenissen
+  fr: Invite pour plusieurs occurrences
+  de: Mehrere Vorkommnis-Aufforderung
+  it: Prompt per più occorrenze
+  es: Indicación para múltiples ocurrencias
+  pt: Indicação para ocorrências múltiplas
+  pl: Podpowiedź dla wielokrotnego wystąpienia
+  sv: Flerfaldig förekomst prompt
+  da: Prompt for flere forekomster
+  fi: Usean tapahtuman kehotus
+  cs: Výzva pro více výskytů
+  el: Προτροπή για πολλαπλές εμφανίσεις
+  hu: Több előfordulásra vonatkozó utasítás
+  ro: Indicație pentru mai multe apariții
+  bg: Инструкция за множество събития
+  hr: Uputa za više pojavljivanja
+  sk: Pokyn pre viaceré výskyty
+  sl: Navodilo za več pojavljanj
+  lt: Kelis įvykius apimančios užklausos
+  lv: Vairāku parādību norāde
+  et: Mitme esinemise vihje
+  mt: Mistoqsija għal okkorenzi multipli
 
 label_frequency:
   en: Frequency
