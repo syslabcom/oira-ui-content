@@ -1638,6 +1638,85 @@ label_new_profile_question:
   ga: Ceist phróifíl nua
   he: שאלת פרופיל חדשה
 
+label_select_a_tool:
+  en: Select a tool
+  nl: Selecteer een instrument
+  fr: Sélectionner un outil
+  de: Wählen Sie ein Tool
+  it: Seleziona uno strumento
+  es: Seleccionar una herramienta
+  pt: Selecione uma ferramenta
+  pl: Wybierz narzędzie
+  sv: Välj ett verktyg
+  da: Vælg et værktøj
+  fi: Valitse työkalu
+  cs: Vyberte nástroj
+  el: Επιλέξτε ένα εργαλείο
+  hu: Válasszon egy eszközt
+  ro: Selectați un instrument
+  bg: Изберете инструмент
+  hr: Odaberite alat
+  sk: Vyberte nástroj
+  sl: Izberite orodje
+  lt: Pasirinkite įrankį
+  lv: Izvēlieties rīku
+  et: Valige tööriist
+  mt: Agħżel għodda
+  ga: Roghnaigh uirlis
+  he: בחר כלי
+
+label_select_sector:
+  en: Select sector
+  nl: Selecteer sector
+  fr: Sélectionner un secteur
+  de: Sektor auswählen
+  it: Seleziona settore
+  es: Seleccionar sector
+  pt: Selecione o setor
+  pl: Wybierz sektor
+  sv: Välj sektor
+  da: Vælg sektor
+  fi: Valitse toimiala
+  cs: Vyberte odvětví
+  el: Επιλέξτε τομέα
+  hu: Válasszon szektort
+  ro: Selectați un sector
+  bg: Изберете сектор
+  hr: Odaberite sektor
+  sk: Vyberte odvetvie
+  sl: Izberite sektor
+  lt: Pasirinkite sektorių
+  lv: Izvēlieties nozari
+  et: Valige sektor
+  mt: Agħżel is-settur
+  ga: Roghnaigh earnáil
+  he: בחר תחום
+
+label_insert_module_from_other_tool:
+  en: Insert module from other tool
+  nl: Module in vanuit een ander instrument invoegen
+  fr: Insérer un module d'un autre outil
+  de: Modul aus einem anderen Tool einfügen
+  it: Inserisci modulo da un altro strumento
+  es: Insertar módulo de otra herramienta
+  pt: Inserir módulo de outra ferramenta
+  pl: Wstaw moduł z innego narzędzia
+  sv: Infoga modul från annat verktyg
+  da: Indsæt modul fra et andet værktøj
+  fi: Lisää moduuli toisesta työkalusta
+  cs: Vložit modul z jiného nástroje
+  el: Εισαγωγή μονάδας από άλλο εργαλείο
+  hu: Modul beszúrása egy másik eszközből
+  ro: Inserare modul din alt instrument
+  bg: Вмъкване на модул от друг инструмент
+  hr: Umetni modul iz drugog alata
+  sk: Vložiť modul z iného nástroja
+  sl: Vstavi modul iz drugega orodja
+  lt: Įterpti modulį iš kito įrankio
+  lv: Ievietot moduli no cita rīka
+  et: Sisesta moodul teisest tööriistast
+  mt: Iffil modulu minn għodda oħra
+
 label_insert_module_from_other_tool_imp:
   en: Insert module from other tool
   nl: Voeg module in vanuit een ander instrument
@@ -1712,6 +1791,34 @@ label_insert_from_other_tool_imp:
   lv: Ievietot no cita rīka
   et: Sisesta teisest tööriistast
   mt: Iffil minn għodda oħra
+
+message_insert_module_from_other_tool_instruction:
+  nl: Selecteer een module uit een andere tool en voeg een kopie in in deze tool.
+  en: Select a module from another tool and insert a copy into this tool.
+  bg: Изберете модул от друг инструмент и вмъкнете копие в този инструмент.
+  cs: Vyberte modul z jiného nástroje a vložte kopii do tohoto nástroje.
+  da: Vælg en modul fra et andet værktøj og indsæt en kopi i dette værktøj.
+  de: Wählen Sie ein Modul aus einem anderen Tool aus und fügen Sie eine Kopie in dieses Tool ein.
+  et: Valige moodul mõnest muust tööriistast ja sisestage koopia sellesse tööriista.
+  el: Επιλέξτε ένα πρόσθετο από ένα άλλο εργαλείο και εισαγάγετε ένα αντίγραφο σε αυτό το εργαλείο.
+  es: Seleccione un módulo de otra herramienta e inserte una copia en esta herramienta.
+  fi: Valitse moduuli toisesta työkalusta ja lisää kopio tähän työkaluun.
+  fr: Sélectionnez un module à partir d'un autre outil et insérez une copie dans cet outil.
+  ga: Roghnaigh modúl ó uirlis eile agus cuir cóip isteach sa t-uirlis seo.
+  hr: Odaberite modul iz drugog alata i umetnite kopiju u ovaj alat.
+  hu: Válasszon egy modult egy másik eszközből, és helyezzen be egy másolatot ebbe az eszközbe.
+  it: Seleziona un modulo da un altro strumento e inserisci una copia in questo strumento.
+  lt: Pasirinkite modulį iš kito įrankio ir įterpkite kopiją į šį įrankį.
+  lv: Izvēlieties moduli no citas rīka un ievietojiet kopiju šajā rīkā.
+  mt: Agħżel mudell minn għodda oħra u daħħal kopja f'dan l-għodda.
+  nl: Selecteer een module uit een andere tool en voeg een kopie in in deze tool.
+  pl: Wybierz moduł z innego narzędzia i wstaw kopię do tego narzędzia.
+  pt: Selecione um módulo de outra ferramenta e insira uma cópia nesta ferramenta.
+  ro: Selectați un modul dintr-un alt instrument și inserați o copie în acest instrument.
+  sk: Vyberte modul z iného nástroja a vložte kópiu do tohto nástroja.
+  sl: Izberite modul iz drugega orodja in vstavite kopijo v to orodje.
+  sv: Välj en modul från ett annat verktyg och infoga en kopia i detta verktyg.
+  he: בחר מודול מכלי עבודה אחר והכנס עותק לכלי זה.
 
 label_risks:
   en: Risks
