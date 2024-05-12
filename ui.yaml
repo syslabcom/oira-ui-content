@@ -1,3 +1,85 @@
+message_delete_tool:
+    nl: U staat op het punt om deze tool te verwijderen.
+    en: You are about to delete this tool.
+    bg: Вие сте на път да изтриете този инструмент.
+    cs: Chystáte se smazat tento nástroj.
+    da: Du er ved at slette dette værktøj.
+    de: Sie sind dabei, dieses Tool zu löschen.
+    et: Olete selle tööriista kustutamiseks.
+    el: Πρόκειται να διαγράψετε αυτό το εργαλείο.
+    es: Estás a punto de eliminar esta herramienta.
+    fi: Olet poistamassa tätä työkalua.
+    fr: Vous êtes sur le point de supprimer cet outil.
+    ga: Tá tú ar tí an uirlis seo a scriosadh.
+    hr: Spremni ste izbrisati ovaj alat.
+    hu: Az eszköz törlésére készülsz.
+    it: Stai per eliminare questo strumento.
+    lt: Jūs ketinate ištrinti šį įrankį.
+    lv: Jūs drīzumā dzēsīsiet šo rīku.
+    mt: Int qed tħassar dan l-għodda.
+    nl: U staat op het punt om deze tool te verwijderen.
+    pl: Masz zamiar usunąć ten narzędzie.
+    pt: Você está prestes a excluir esta ferramenta.
+    ro: Sunteți pe cale să ștergeți această unealtă.
+    sk: Chystáte sa odstrániť tento nástroj.
+    sl: Sprejemate brisanje tega orodja.
+    sv: Du håller på att ta bort detta verktyg.
+    he: אתה עומד למחוק את הכלי הזה.
+
+label_delete_tool:
+    nl: Tool verwijderen
+    en: Delete tool
+    bg: Изтрий инструмента
+    cs: Smazat nástroj
+    da: Slet værktøj
+    de: Werkzeug löschen
+    et: Kustuta tööriist
+    el: Διαγραφή εργαλείου
+    es: Eliminar herramienta
+    fi: Poista työkalu
+    fr: Supprimer l'outil
+    ga: Scrios uirlis
+    hr: Izbriši alat
+    hu: Eszköz törlése
+    it: Elimina strumento
+    lt: Ištrinti įrankį
+    lv: Dzēst rīku
+    mt: Iħassar għodda
+    pl: Usuń narzędzie
+    pt: Apagar ferramenta
+    ro: Ștergeți instrumentul
+    sk: Zmazať nástroj
+    sl: Izbriši orodje
+    sv: Ta bort verktyget
+    he: מחק כלי
+
+label_delete_tool_imp:
+    nl: Verwijder tool
+    en: Delete tool
+    bg: Изтрий инструмента
+    cs: Smazat nástroj
+    da: Slet værktøj
+    de: Werkzeug löschen
+    et: Kustuta tööriist
+    el: Διαγραφή εργαλείου
+    es: Eliminar herramienta
+    fi: Poista työkalu
+    fr: Supprimer l'outil
+    ga: Scrios uirlis
+    hr: Izbriši alat
+    hu: Eszköz törlése
+    it: Elimina strumento
+    lt: Ištrinti įrankį
+    lv: Dzēst rīku
+    mt: Iħassar għodda
+    pl: Usuń narzędzie
+    pt: Apagar ferramenta
+    ro: Ștergeți instrumentul
+    sk: Zmazať nástroj
+    sl: Izbriši orodje
+    sv: Ta bort verktyget
+    he: מחק כלי
+
 label_add_measure:
   en: Add measure
   nl: Maatregel toevoegen
