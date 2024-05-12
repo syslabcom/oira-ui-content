@@ -26,6 +26,33 @@ message_delete_module:
   sv: Du håller på att ta bort den här modulen och allt dess innehåll.
   he: אתה עומד למחוק מודול זה ואת כל התוכן שלו.
 
+message_delete_risk:
+  nl: U staat op het punt dit risico te verwijderen.
+  en: You are about to delete this risk.
+  bg: Вие сте на път да изтриете този риск.
+  cs: Chystáte se smazat toto riziko.
+  da: Du er ved at slette denne risiko.
+  de: Sie sind dabei, dieses Risiko zu löschen.
+  et: Olete selle riski kustutamiseks.
+  el: Πρόκειται να διαγράψετε αυτόν τον κίνδυνο.
+  es: Estás a punto de eliminar este riesgo.
+  fi: Olet poistamassa tätä riskiä.
+  fr: Vous êtes sur le point de supprimer ce risque.
+  ga: Tá tú faoi bhrú chun an bhagairt seo a scriosadh.
+  hr: Spremni ste izbrisati ovaj rizik.
+  hu: Készülsz törölni ezt a kockázatot.
+  it: Stai per eliminare questo rischio.
+  lt: Jūs ketinate ištrinti šią riziką.
+  lv: Jūs esat gatavs dzēst šo risku.
+  mt: Int qed tħassar dan ir-riskju.
+  pl: Masz zamiar usunąć to ryzyko.
+  pt: Você está prestes a excluir este risco.
+  ro: Ești pe cale să ștergi acest risc.
+  sk: Chystáte sa odstrániť toto riziko.
+  sl: Sprejemate, da izbrišete to nevarnost.
+  sv: Du håller på att ta bort denna risk.
+  he: אתה עומד למחוק את הסיכון הזה.
+
 label_delete_module:
   nl: Module verwijderen
   en: Delete module
@@ -53,6 +80,34 @@ label_delete_module:
   sv: Ta bort modul
   he: מחק מודול
 
+label_delete_risk:
+    nl: Risico verwijderen
+    en: Delete risk
+    bg: Изтрий риск
+    cs: Odstranit riziko
+    da: Slet risiko
+    de: Risiko löschen
+    et: Kustuta risk
+    el: Διαγραφή κινδύνου
+    es: Eliminar riesgo
+    fi: Poista riski
+    fr: Supprimer le risque
+    ga: Scrios riosca
+    hr: Izbriši rizik
+    hu: Kockázat törlése
+    it: Elimina rischio
+    lt: Ištrinti riziką
+    lv: Dzēst risku
+    mt: Iħassar riskju
+    nl: Verwijder risico
+    pl: Usuń ryzyko
+    pt: Apagar risco
+    ro: Șterge riscul
+    sk: Odstrániť riziko
+    sl: Izbriši tveganje
+    sv: Ta bort risk
+    he: מחק סיכון
+
 label_delete_module_imp:
   nl: Verwijder module
   en: Delete module
@@ -79,87 +134,113 @@ label_delete_module_imp:
   sv: Ta bort modul
   he: מחק מודול
 
+label_delete_risk_imp:
+  nl: Verwijder risico
+  en: Delete risk
+  bg: Изтриване на риск
+  cs: Odstranit riziko
+  da: Slet risiko
+  de: Risiko löschen
+  et: Kustuta risk
+  el: Διαγραφή κινδύνου
+  es: Eliminar riesgo
+  fi: Poista riski
+  fr: Supprimer le risque
+  hr: Izbriši rizik
+  hu: Kockázat törlése
+  it: Elimina rischio
+  lt: Ištrinti riziką
+  lv: Dzēst risku
+  mt: Iħassar riskju
+  pl: Usuń ryzyko
+  pt: Excluir risco
+  ro: Șterge riscul
+  sk: Odstrániť riziko
+  sl: Izbriši tveganje
+  sv: Ta bort risk
+  he: מחק סיכון
+
 message_delete_tool:
-    nl: U staat op het punt om deze tool te verwijderen.
-    en: You are about to delete this tool.
-    bg: Вие сте на път да изтриете този инструмент.
-    cs: Chystáte se smazat tento nástroj.
-    da: Du er ved at slette dette værktøj.
-    de: Sie sind dabei, dieses Tool zu löschen.
-    et: Olete selle tööriista kustutamiseks.
-    el: Πρόκειται να διαγράψετε αυτό το εργαλείο.
-    es: Estás a punto de eliminar esta herramienta.
-    fi: Olet poistamassa tätä työkalua.
-    fr: Vous êtes sur le point de supprimer cet outil.
-    ga: Tá tú ar tí an uirlis seo a scriosadh.
-    hr: Spremni ste izbrisati ovaj alat.
-    hu: Az eszköz törlésére készülsz.
-    it: Stai per eliminare questo strumento.
-    lt: Jūs ketinate ištrinti šį įrankį.
-    lv: Jūs drīzumā dzēsīsiet šo rīku.
-    mt: Int qed tħassar dan l-għodda.
-    nl: U staat op het punt om deze tool te verwijderen.
-    pl: Masz zamiar usunąć ten narzędzie.
-    pt: Você está prestes a excluir esta ferramenta.
-    ro: Sunteți pe cale să ștergeți această unealtă.
-    sk: Chystáte sa odstrániť tento nástroj.
-    sl: Sprejemate brisanje tega orodja.
-    sv: Du håller på att ta bort detta verktyg.
-    he: אתה עומד למחוק את הכלי הזה.
+  nl: U staat op het punt om deze tool te verwijderen.
+  en: You are about to delete this tool.
+  bg: Вие сте на път да изтриете този инструмент.
+  cs: Chystáte se smazat tento nástroj.
+  da: Du er ved at slette dette værktøj.
+  de: Sie sind dabei, dieses Tool zu löschen.
+  et: Olete selle tööriista kustutamiseks.
+  el: Πρόκειται να διαγράψετε αυτό το εργαλείο.
+  es: Estás a punto de eliminar esta herramienta.
+  fi: Olet poistamassa tätä työkalua.
+  fr: Vous êtes sur le point de supprimer cet outil.
+  ga: Tá tú ar tí an uirlis seo a scriosadh.
+  hr: Spremni ste izbrisati ovaj alat.
+  hu: Az eszköz törlésére készülsz.
+  it: Stai per eliminare questo strumento.
+  lt: Jūs ketinate ištrinti šį įrankį.
+  lv: Jūs drīzumā dzēsīsiet šo rīku.
+  mt: Int qed tħassar dan l-għodda.
+  nl: U staat op het punt om deze tool te verwijderen.
+  pl: Masz zamiar usunąć ten narzędzie.
+  pt: Você está prestes a excluir esta ferramenta.
+  ro: Sunteți pe cale să ștergeți această unealtă.
+  sk: Chystáte sa odstrániť tento nástroj.
+  sl: Sprejemate brisanje tega orodja.
+  sv: Du håller på att ta bort detta verktyg.
+  he: אתה עומד למחוק את הכלי הזה.
 
 label_delete_tool:
-    nl: Tool verwijderen
-    en: Delete tool
-    bg: Изтрий инструмента
-    cs: Smazat nástroj
-    da: Slet værktøj
-    de: Werkzeug löschen
-    et: Kustuta tööriist
-    el: Διαγραφή εργαλείου
-    es: Eliminar herramienta
-    fi: Poista työkalu
-    fr: Supprimer l'outil
-    ga: Scrios uirlis
-    hr: Izbriši alat
-    hu: Eszköz törlése
-    it: Elimina strumento
-    lt: Ištrinti įrankį
-    lv: Dzēst rīku
-    mt: Iħassar għodda
-    pl: Usuń narzędzie
-    pt: Apagar ferramenta
-    ro: Ștergeți instrumentul
-    sk: Zmazať nástroj
-    sl: Izbriši orodje
-    sv: Ta bort verktyget
-    he: מחק כלי
+  nl: Tool verwijderen
+  en: Delete tool
+  bg: Изтрий инструмента
+  cs: Smazat nástroj
+  da: Slet værktøj
+  de: Werkzeug löschen
+  et: Kustuta tööriist
+  el: Διαγραφή εργαλείου
+  es: Eliminar herramienta
+  fi: Poista työkalu
+  fr: Supprimer l'outil
+  ga: Scrios uirlis
+  hr: Izbriši alat
+  hu: Eszköz törlése
+  it: Elimina strumento
+  lt: Ištrinti įrankį
+  lv: Dzēst rīku
+  mt: Iħassar għodda
+  pl: Usuń narzędzie
+  pt: Apagar ferramenta
+  ro: Ștergeți instrumentul
+  sk: Zmazať nástroj
+  sl: Izbriši orodje
+  sv: Ta bort verktyget
+  he: מחק כלי
 
 label_delete_tool_imp:
-    nl: Verwijder tool
-    en: Delete tool
-    bg: Изтрий инструмента
-    cs: Smazat nástroj
-    da: Slet værktøj
-    de: Werkzeug löschen
-    et: Kustuta tööriist
-    el: Διαγραφή εργαλείου
-    es: Eliminar herramienta
-    fi: Poista työkalu
-    fr: Supprimer l'outil
-    ga: Scrios uirlis
-    hr: Izbriši alat
-    hu: Eszköz törlése
-    it: Elimina strumento
-    lt: Ištrinti įrankį
-    lv: Dzēst rīku
-    mt: Iħassar għodda
-    pl: Usuń narzędzie
-    pt: Apagar ferramenta
-    ro: Ștergeți instrumentul
-    sk: Zmazať nástroj
-    sl: Izbriši orodje
-    sv: Ta bort verktyget
-    he: מחק כלי
+  nl: Verwijder tool
+  en: Delete tool
+  bg: Изтрий инструмента
+  cs: Smazat nástroj
+  da: Slet værktøj
+  de: Werkzeug löschen
+  et: Kustuta tööriist
+  el: Διαγραφή εργαλείου
+  es: Eliminar herramienta
+  fi: Poista työkalu
+  fr: Supprimer l'outil
+  ga: Scrios uirlis
+  hr: Izbriši alat
+  hu: Eszköz törlése
+  it: Elimina strumento
+  lt: Ištrinti įrankį
+  lv: Dzēst rīku
+  mt: Iħassar għodda
+  pl: Usuń narzędzie
+  pt: Apagar ferramenta
+  ro: Ștergeți instrumentul
+  sk: Zmazať nástroj
+  sl: Izbriši orodje
+  sv: Ta bort verktyget
+  he: מחק כלי
 
 label_add_measure:
   en: Add measure
