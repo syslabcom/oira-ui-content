@@ -1,3 +1,84 @@
+message_delete_module:
+  nl: U staat op het punt om deze module en al zijn inhoud te verwijderen.
+  en: You are about to delete this module and all its contents.
+  bg: Вие сте на път да изтриете този модул и всичкото му съдържание.
+  cs: Chystáte se smazat tento modul a veškerý jeho obsah.
+  da: Du er ved at slette denne modul og alt dets indhold.
+  de: Sie sind dabei, dieses Modul und all seinen Inhalt zu löschen.
+  et: Olete selle mooduli ja kogu selle sisu kustutamise äärel.
+  el: Πρόκειται να διαγράψετε αυτήν την ενότητα και όλο το περιεχόμενό της.
+  es: Estás a punto de eliminar este módulo y todo su contenido.
+  fi: Olet poistamassa tätä moduulia ja kaikkea sen sisältöä.
+  fr: Vous êtes sur le point de supprimer ce module et tout son contenu.
+  ga: Tá tú faoi bhrú an modúil seo agus gach a bhaineann leis a scriosadh.
+  hr: Spremate se izbrisati ovaj modul i sav njegov sadržaj.
+  hu: Készülsz törölni ezt a modult és minden tartalmát.
+  it: Stai per eliminare questo modulo e tutto il suo contenuto.
+  lt: Jūs ketinate ištrinti šį modulį ir visą jo turinį.
+  lv: Jūs esat gatavs dzēst šo moduli un visu tā saturu.
+  mt: Int għandek intenzjoni li tħassar din il-modulu u kull kontenut tiegħu.
+  nl: U staat op het punt om deze module en al zijn inhoud te verwijderen.
+  pl: Masz zamiar usunąć ten moduł i całą jego zawartość.
+  pt: Você está prestes a excluir este módulo e todo o seu conteúdo.
+  ro: Ești pe cale să ștergi acest modul și tot conținutul său.
+  sk: Chystáte sa vymazať tento modul a všetok jeho obsah.
+  sl: Sprejemate se, da izbrišete ta modul in vse njegove vsebine.
+  sv: Du håller på att ta bort den här modulen och allt dess innehåll.
+  he: אתה עומד למחוק מודול זה ואת כל התוכן שלו.
+
+label_delete_module:
+  nl: Module verwijderen
+  en: Delete module
+  bg: Изтриване на модул
+  cs: Smazat modul
+  da: Slet modul
+  de: Modul löschen
+  et: Kustuta moodul
+  el: Διαγραφή ενότητας
+  es: Eliminar módulo
+  fi: Poista moduuli
+  fr: Supprimer le module
+  hr: Izbriši modul
+  hu: Modul törlése
+  it: Elimina modulo
+  lt: Ištrinti modulį
+  lv: Dzēst moduli
+  mt: Iħassar mudell
+  nl: Module verwijderen
+  pl: Usuń moduł
+  pt: Excluir módulo
+  ro: Șterge modulul
+  sk: Odstrániť modul
+  sl: Izbriši modul
+  sv: Ta bort modul
+  he: מחק מודול
+
+label_delete_module_imp:
+  nl: Verwijder module
+  en: Delete module
+  bg: Изтриване на модул
+  cs: Odstranit modul
+  da: Slet modul
+  de: Modul löschen
+  et: Kustuta moodul
+  el: Διαγραφή μονάδας
+  es: Eliminar módulo
+  fi: Poista moduuli
+  fr: Supprimer le module
+  hr: Izbriši modul
+  hu: Modul törlése
+  it: Elimina modulo
+  lt: Ištrinti modulį
+  lv: Dzēst moduli
+  mt: Iħassar mudell
+  pl: Usuń moduł
+  pt: Excluir módulo
+  ro: Șterge modulul
+  sk: Odstrániť modul
+  sl: Izbriši modul
+  sv: Ta bort modul
+  he: מחק מודול
+
 message_delete_tool:
     nl: U staat op het punt om deze tool te verwijderen.
     en: You are about to delete this tool.
