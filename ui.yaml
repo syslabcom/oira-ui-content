@@ -25,6 +25,33 @@ message_delete_sector:
   sv: Du håller på att ta bort denna sektor och alla dess relaterade verktyg.
   he: אתה עומד למחוק את הסקטור הזה ואת כל הכלים המשויכים אליו.
 
+message_click_on_the_plus_above_to_create_module:
+  nl: Klik op het plusteken hierboven om een nieuwe module toe te voegen.
+  en: Click on the plus above to create a new module.
+  bg: Кликнете върху плюса отгоре, за да създадете нов модул.
+  cs: Klikněte na plus nahoře pro vytvoření nového modulu.
+  da: Klik på plusset ovenfor for at oprette en ny modul.
+  de: Klicken Sie auf das Plus oben, um ein neues Modul zu erstellen.
+  et: Klõpsake ülal olevat plussi, et luua uus moodul.
+  el: Κάντε κλικ στο σύμβολο του συν, πάνω από, για να δημιουργήσετε ένα νέο πρόσθετο.
+  es: Haz clic en el signo más de arriba para crear un nuevo módulo.
+  fi: Napsauta yläpuolella olevaa plusmerkkiä luodaksesi uuden moduulin.
+  fr: Cliquez sur le signe plus ci-dessus pour créer un nouveau module.
+  ga: Cliceáil ar an plús thuas chun modúl nua a chruthú.
+  hr: Kliknite na plus iznad da biste stvorili novi modul.
+  hu: Kattintson a fenti pluszra egy új modul létrehozásához.
+  it: Fai clic sul segno più sopra per creare un nuovo modulo.
+  lt: Paspauskite pliusą viršuje, kad sukurtumėte naują modulį.
+  lv: Noklikšķiniet uz pluss zīmes augšpusē, lai izveidotu jaunu moduli.
+  mt: Ikklikkja fuq il-plus hawn fuq biex toħloq mudulu ġdid.
+  pl: Kliknij na plusa powyżej, aby utworzyć nowy moduł.
+  pt: Clique no sinal de mais acima para criar um novo módulo.
+  ro: Faceți clic pe plusul de mai sus pentru a crea un modul nou.
+  sk: Kliknite na plus hore, aby ste vytvorili nový modul.
+  sl: Kliknite na plus zgoraj, da ustvarite nov modul.
+  sv: Klicka på plusset ovanför för att skapa en ny modul.
+  he: לחץ על הסימן פלוס למעלה כדי ליצור מודול חדש.
+
 message_delete_module:
   nl: U staat op het punt om deze module en al zijn inhoud te verwijderen.
   en: You are about to delete this module and all its contents.
