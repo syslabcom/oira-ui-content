@@ -1,3 +1,30 @@
+message_delete_sector:
+  nl: U staat op het punt om deze sector en alle bijbehorende tools te verwijderen.
+  en: You are about to delete this sector and all its associated tools.
+  bg: Вие сте на път да изтриете този сектор и всичките му свързани инструменти.
+  cs: Chystáte se smazat tento sektor a všechny jeho související nástroje.
+  da: Du er ved at slette denne sektor og alle dens tilknyttede værktøjer.
+  de: Sie sind dabei, diesen Sektor und alle zugehörigen Tools zu löschen.
+  et: Olete selle sektori ja kõik sellega seotud tööriistad kustutamas.
+  el: Πρόκειται να διαγράψετε αυτόν τον τομέα και όλα τα σχετικά εργαλεία.
+  es: Estás a punto de eliminar este sector y todas sus herramientas asociadas.
+  fi: Olet poistamassa tätä sektoria ja kaikki siihen liittyvät työkalut.
+  fr: Vous êtes sur le point de supprimer ce secteur et tous ses outils associés.
+  ga: Tá tú faoi bhrú an tomhaltóra seo agus gach uirlis a bhaineann leis a scriosadh.
+  hr: Spremni ste izbrisati ovaj sektor i sve pripadajuće alate.
+  hu: A szektor és az összes kapcsolódó eszköz törlésére készül.
+  it: Stai per eliminare questo settore e tutti gli strumenti ad esso associati.
+  lt: Jūs ketinate ištrinti šį sektorių ir visus susijusius įrankius.
+  lv: Jūs gatavojaties dzēst šo sektoru un visus tā saistītos rīkus.
+  mt: Int qed tħassar dan is-sekter u l-għodod kollha assenjati tiegħu.
+  pl: Masz zamiar usunąć ten sektor i wszystkie powiązane z nim narzędzia.
+  pt: Você está prestes a excluir este setor e todas as suas ferramentas associadas.
+  ro: Sunteți pe cale să ștergeți acest sector și toate instrumentele asociate.
+  sk: Chystáte sa vymazať tento sektor a všetky s ním súvisiace nástroje.
+  sl: Sprejemate brisanje tega sektorja in vseh pripadajočih orodij.
+  sv: Du håller på att ta bort denna sektor och alla dess relaterade verktyg.
+  he: אתה עומד למחוק את הסקטור הזה ואת כל הכלים המשויכים אליו.
+
 message_delete_module:
   nl: U staat op het punt om deze module en al zijn inhoud te verwijderen.
   en: You are about to delete this module and all its contents.
