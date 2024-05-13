@@ -26,6 +26,34 @@ message_delete_module:
   sv: Du håller på att ta bort den här modulen och allt dess innehåll.
   he: אתה עומד למחוק מודול זה ואת כל התוכן שלו.
 
+label_new_sector:
+  nl: Nieuwe sector
+  en: New sector
+  bg: Нов сектор
+  cs: Nový sektor
+  da: Ny sektor
+  de: Neuer Sektor
+  et: Uus sektor
+  el: Νέος τομέας
+  es: Nuevo sector
+  fi: Uusi toimiala
+  fr: Nouveau secteur
+  ga: Sórt nua
+  hr: Novi sektor
+  hu: Új szektor
+  it: Nuovo settore
+  lt: Naujas sektorius
+  lv: Jauns sektors
+  mt: Settur ġdid
+  nl: Nieuwe sector
+  pl: Nowy sektor
+  pt: Novo setor
+  ro: Sector nou
+  sk: Nový sektor
+  sl: Nov sektor
+  sv: Ny sektor
+  he: מקטע חדש
+
 message_delete_risk:
   nl: U staat op het punt dit risico te verwijderen.
   en: You are about to delete this risk.
