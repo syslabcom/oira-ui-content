@@ -25,9 +25,91 @@ message_delete_sector:
   sv: Du håller på att ta bort denna sektor och alla dess relaterade verktyg.
   he: אתה עומד למחוק את הסקטור הזה ואת כל הכלים המשויכים אליו.
 
+message_help_oira_tool_name:
+  nl: Gebruik een korte en krachtige naam, waarin gebruikers hun omstandigheden zullen herkennen. De title wordt getoond in overzichten, zowel aan gebruikers als aan redacteuren.
+  en: Use a short and powerful name that users will recognize their circumstances in. The title is displayed in overviews, both to users and editors.
+  bg: Използвайте кратко и силно име, което потребителите ще разпознаят в своите обстоятелства. Заглавието се показва в прегледи, както на потребителите, така и на редакторите.
+  cs: Použijte krátký a silný název, který uživatelé poznají ve svých okolnostech. Název se zobrazuje v přehledech, jak uživatelům, tak editorům.
+  da: Brug et kort og kraftfuldt navn, som brugerne vil genkende deres omstændigheder i. Titlen vises i oversigter, både til brugere og redaktører.
+  de: Verwenden Sie einen kurzen und kraftvollen Namen, den Benutzer in ihren Umständen erkennen werden. Der Titel wird in Übersichten sowohl für Benutzer als auch für Redakteure angezeigt.
+  et: Kasutage lühikest ja võimsat nime, mida kasutajad tunnevad oma olukordades ära. Pealkiri kuvatakse ülevaadetes nii kasutajatele kui ka toimetajatele.
+  el: Χρησιμοποιήστε ένα σύντομο και ισχυρό όνομα που οι χρήστες θα αναγνωρίσουν τις συνθήκες τους. Ο τίτλος εμφανίζεται στις επισκοπήσεις, τόσο στους χρήστες όσο και στους επιμελητές.
+  es: Utilice un nombre corto y poderoso que los usuarios reconocerán en sus circunstancias. El título se muestra en las vistas generales, tanto a los usuarios como a los editores.
+  fi: Käytä lyhyttä ja voimakasta nimeä, jonka käyttäjät tunnistavat olosuhteissaan. Otsikko näkyy yleiskatsauksissa sekä käyttäjille että toimittajille.
+  fr: Utilisez un nom court et puissant que les utilisateurs reconnaîtront dans leurs circonstances. Le titre est affiché dans les aperçus, à la fois aux utilisateurs et aux éditeurs.
+  ga: Bain úsáid as ainm gairid agus cumhachtach a aithníonn úsáideoirí a gcúinsí. Taispeántar an teideal sna léarscáileanna, do úsáideoirí agus do eagarthóirí.
+  hr: Koristite kratko i snažno ime koje će korisnici prepoznati u svojim okolnostima. Naslov se prikazuje u pregledima, kako korisnicima, tako i urednicima.
+  hu: Használjon rövid és erőteljes nevet, amelyet a felhasználók felismernek a körülményeikben. A cím megjelenik az áttekintésekben, mind a felhasználóknak, mind a szerkesztőknek.
+  it: Utilizzare un nome breve e potente che gli utenti riconosceranno nelle loro circostanze. Il titolo viene visualizzato nelle panoramiche, sia agli utenti che agli editori.
+  lt: Naudokite trumpą ir galingą pavadinimą, kurį vartotojai atpažins savo aplinkybėse. Pavadinimas rodomas apžvalgose, tiek vartotojams, tiek redaktoriams.
+  lv: Izmantojiet īsu un spēcīgu nosaukumu, ko lietotāji atpazīs savās apstākļos. Nosaukums tiek rādīts pārskatos, gan lietotājiem, gan redaktoriem.
+  mt: Uża isem qasir u possibbli li l-utenti jirrikonoxxu fis-sitwazzjonijiet tagħhom. It-titlu jidher fis-surveys, kemm lill-utenti kif ukoll lill-edituri.
+  pl: Użyj krótkiej i potężnej nazwy, którą użytkownicy rozpoznają w swoich okolicznościach. Tytuł jest wyświetlany w przeglądach zarówno dla użytkowników, jak i redaktorów.
+  pt: Use um nome curto e poderoso que os usuários reconhecerão em suas circunstâncias. O título é exibido nas visualizações, tanto para usuários quanto para editores.
+  ro: Utilizați un nume scurt și puternic pe care utilizatorii îl vor recunoaște în circumstanțele lor. Titlul este afișat în prezentări generale, atât utilizatorilor, cât și editorilor.
+  sk: Použite krátky a silný názov, ktorý používatelia rozpoznajú vo svojich okolnostiach. Názov sa zobrazuje v prehľadoch, ako pre používateľov, tak pre editorov.
+  sl: Uporabite kratko in močno ime, ki ga bodo uporabniki prepoznali v svojih okoliščinah. Naslov je prikazan v pregledih, tako uporabnikom kot urednikom.
+  sv: Använd ett kort och kraftfullt namn som användarna kommer att känna igen i sina omständigheter. Titeln visas i översikter, både för användare och redaktörer.
+  ga: Bain úsáid as ainm gairid agus cumhachtach a aithníonn úsáideoirí a gcúinsí. Taispeántar an teideal sna léarscáileanna, do úsáideoirí agus do eagarthóirí.
+  he: השתמש בשם קצר ועוצמתי שמשתמשים יכולים לזהות את הנסיבות שלהם. הכותרת מוצגת בסקירות, גם למשתמשים וגם לעורכים.
+
+message_help_oira_tool_description:
+  nl: De beschrijving van de tool wordt getoond in overzichten en zoekresultaten. Inhoudelijk dient de beschrijving voor de gebruikers te bevestigen dat die de juiste tool voor hen is.
+  en: The description of the tool is displayed in overviews and search results. In content, the description should confirm to the user that it is the right tool for them.
+  bg: Описанието на инструмента се показва в прегледи и резултати от търсенето. Съдържателно описанието трябва да потвърди на потребителя, че това е правилният инструмент за него.
+  cs: Popis nástroje se zobrazuje v přehledech a výsledcích vyhledávání. Obsahově by měl popis potvrdit uživateli, že je to správný nástroj pro něj.
+  da: Beskrivelsen af værktøjet vises i oversigter og søgeresultater. Indholdsmæssigt skal beskrivelsen bekræfte for brugeren, at det er det rigtige værktøj for dem.
+  de: Die Beschreibung des Tools wird in Übersichten und Suchergebnissen angezeigt. Inhaltlich sollte die Beschreibung dem Benutzer bestätigen, dass es das richtige Tool für ihn ist.
+  et: Tööriista kirjeldus kuvatakse ülevaadetes ja otsingutulemustes. Sisu poolest peaks kirjeldus kinnitama kasutajale, et see on õige tööriist neile.
+  el: Η περιγραφή του εργαλείου εμφανίζεται στις επισκοπήσεις και τα αποτελέσματα αναζήτησης. Σε περιεχόμενο, η περιγραφή πρέπει να επιβεβαιώνει στον χρήστη ότι είναι το σωστό εργαλείο για αυτόν.
+  es: La descripción de la herramienta se muestra en las vistas generales y los resultados de búsqueda. En contenido, la descripción debe confirmar al usuario que es la herramienta adecuada para él.
+  fi: Työkalun kuvaus näkyy yleiskatsauksissa ja hakutuloksissa. Sisällöllisesti kuvaus tulisi vahvistaa käyttäjälle, että se on oikea työkalu hänelle.
+  fr: La description de l'outil est affichée dans les aperçus et les résultats de recherche. Sur le plan du contenu, la description doit confirmer à l'utilisateur qu'il s'agit du bon outil pour lui.
+  ga: Taispeántar cur síos ar an uirlis sna léarscáileanna agus sna torthaí cuardaigh. Ar an ábhar, ba cheart don chur síos a dhearbhú don úsáideoir go bhfuil sé an uirlis ceart di.
+  hr: Opis alata prikazuje se u pregledima i rezultatima pretraživanja. Sadržajno, opis bi trebao potvrditi korisniku da je to pravi alat za njega.
+  hu: Az eszköz leírása megjelenik az áttekintésekben és a keresési eredményekben. Tartalmilag a leírásnak megerősítést kell adnia a felhasználónak, hogy ez a megfelelő eszköz számára.
+  it: La descrizione dello strumento viene visualizzata nelle panoramiche e nei risultati di ricerca. Sul piano del contenuto, la descrizione dovrebbe confermare all'utente che si tratta dello strumento giusto per lui.
+  lt: Įrankio aprašas rodomas peržiūrose ir paieškos rezultatuose. Turinio požiūriu aprašymas turėtų patvirtinti vartotojui, kad tai tinkamas įrankis jam.
+  lv: Rīka apraksts tiek parādīts pārskatos un meklēšanas rezultātos. Satura ziņā aprakstam vajadzētu apstiprināt lietotājam, ka tas ir pareizais rīks viņam.
+  mt: Id-deskrizzjoni tal-għodda jidher fis-sinjali u r-riżultati tat-tfittxija. F'kuntenut, id-deskrizzjoni għandha tikkonferma lill-utent li huwa l-għodda tajba għalih.
+  pl: Opis narzędzia jest wyświetlany w przeglądach i wynikach wyszukiwania. Pod względem treści, opis powinien potwierdzić użytkownikowi, że jest to odpowiednie narzędzie dla niego.
+  pt: A descrição da ferramenta é exibida nas visualizações e nos resultados de pesquisa. Em termos de conteúdo, a descrição deve confirmar ao usuário que é a ferramenta certa para ele.
+  ro: Descrierea instrumentului este afișată în prezentări generale și rezultatele căutării. Din punct de vedere al conținutului, descrierea ar trebui să confirme utilizatorului că este instrumentul potrivit pentru el.
+  sk: Popis nástroja sa zobrazuje v prehľadoch a výsledkoch vyhľadávania. Obsahovo by mal popis potvrdiť používateľovi, že je to správny nástroj pre neho.
+  sl: Opis orodja se prikaže v pregledih in rezultatih iskanja. Vsebinsko naj opis potrdi uporabniku, da je to pravo orodje zanj.
+  sv: Beskrivningen av verktyget visas i översikter och sökresultat. Innehållsmässigt bör beskrivningen bekräfta för användaren att det är rätt verktyg för dem.
+  he: תיאור הכלי מוצג בתצוגות כלליות ותוצאות חיפוש. מבחינת תוכן, התיאור צריך לאשר למשתמש שזהו הכלי הנכון עבורו.
+
+label_new_tool:
+  nl: Nieuwe tool
+  en: New tool
+  bg: Нов инструмент
+  cs: Nový nástroj
+  da: Nyt værktøj
+  de: Neues Tool
+  et: Uus tööriist
+  el: Νέο εργαλείο
+  es: Nueva herramienta
+  fi: Uusi työkalu
+  fr: Nouvel outil
+  ga: Uirlis nua
+  hr: Novi alat
+  hu: Új eszköz
+  it: Nuovo strumento
+  lt: Naujas įrankis
+  lv: Jauns rīks
+  mt: Għodda ġdida
+  pl: Nowe narzędzie
+  pt: Nova ferramenta
+  ro: Instrument nou
+  sk: Nový nástroj
+  sl: Novo orodje
+  sv: Nytt verktyg
+  he: כלי חדש
+
 message_click_on_the_plus_above_to_create_module:
-  nl: Klik op het plusteken hierboven om een nieuwe module toe te voegen.
-  en: Click on the plus above to create a new module.
+  nl: Klik op het plusteken hierboven om een module toe te voegen.
+  en: Click on the plus above to create a module.
   bg: Кликнете върху плюса отгоре, за да създадете нов модул.
   cs: Klikněte na plus nahoře pro vytvoření nového modulu.
   da: Klik på plusset ovenfor for at oprette en ny modul.
@@ -36,11 +118,11 @@ message_click_on_the_plus_above_to_create_module:
   el: Κάντε κλικ στο σύμβολο του συν, πάνω από, για να δημιουργήσετε ένα νέο πρόσθετο.
   es: Haz clic en el signo más de arriba para crear un nuevo módulo.
   fi: Napsauta yläpuolella olevaa plusmerkkiä luodaksesi uuden moduulin.
-  fr: Cliquez sur le signe plus ci-dessus pour créer un nouveau module.
+  fr: Cliquez sur le signe plus ci-dessus pour créer un module.
   ga: Cliceáil ar an plús thuas chun modúl nua a chruthú.
   hr: Kliknite na plus iznad da biste stvorili novi modul.
   hu: Kattintson a fenti pluszra egy új modul létrehozásához.
-  it: Fai clic sul segno più sopra per creare un nuovo modulo.
+  it: Fai clic sul segno più sopra per creare un modulo.
   lt: Paspauskite pliusą viršuje, kad sukurtumėte naują modulį.
   lv: Noklikšķiniet uz pluss zīmes augšpusē, lai izveidotu jaunu moduli.
   mt: Ikklikkja fuq il-plus hawn fuq biex toħloq mudulu ġdid.
