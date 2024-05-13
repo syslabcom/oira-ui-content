@@ -17,7 +17,6 @@ message_delete_module:
   lt: Jūs ketinate ištrinti šį modulį ir visą jo turinį.
   lv: Jūs esat gatavs dzēst šo moduli un visu tā saturu.
   mt: Int għandek intenzjoni li tħassar din il-modulu u kull kontenut tiegħu.
-  nl: U staat op het punt om deze module en al zijn inhoud te verwijderen.
   pl: Masz zamiar usunąć ten moduł i całą jego zawartość.
   pt: Você está prestes a excluir este módulo e todo o seu conteúdo.
   ro: Ești pe cale să ștergi acest modul și tot conținutul său.
@@ -25,6 +24,60 @@ message_delete_module:
   sl: Sprejemate se, da izbrišete ta modul in vse njegove vsebine.
   sv: Du håller på att ta bort den här modulen och allt dess innehåll.
   he: אתה עומד למחוק מודול זה ואת כל התוכן שלו.
+
+label_delete_sector:
+  nl: Sector verwijderen
+  en: Delete sector
+  bg: Изтрий сектор
+  cs: Odstranit sektor
+  da: Slet sektor
+  de: Sektor löschen
+  et: Kustuta sektor
+  el: Διαγραφή τομέα
+  es: Eliminar sector
+  fi: Poista toimiala
+  fr: Supprimer secteur
+  ga: Scrios sektor
+  hr: Izbriši sektor
+  hu: Szektor törlése
+  it: Elimina settore
+  lt: Ištrinti sektorių
+  lv: Dzēst sektoru
+  mt: Iħassar settur
+  pl: Usuń sektor
+  pt: Apagar setor
+  ro: Șterge sector
+  sk: Odstrániť sektor
+  sl: Izbriši sektor
+  sv: Ta bort sektor
+  he: מחק מקטע
+
+label_delete_sector_imp:
+  nl: Verwijder sector
+  en: Delete sector
+  bg: Изтрий сектор
+  cs: Odstranit sektor
+  da: Slet sektor
+  de: Sektor löschen
+  et: Kustuta sektor
+  el: Διαγραφή τομέα
+  es: Eliminar sector
+  fi: Poista toimiala
+  fr: Supprimer secteur
+  ga: Scrios sektor
+  hr: Izbriši sektor
+  hu: Szektor törlése
+  it: Elimina settore
+  lt: Ištrinti sektorių
+  lv: Dzēst sektoru
+  mt: Iħassar settur
+  pl: Usuń sektor
+  pt: Apagar setor
+  ro: Șterge sector
+  sk: Odstrániť sektor
+  sl: Izbriši sektor
+  sv: Ta bort sektor
+  he: מחק מקטע
 
 label_new_sector:
   nl: Nieuwe sector
@@ -45,7 +98,6 @@ label_new_sector:
   lt: Naujas sektorius
   lv: Jauns sektors
   mt: Settur ġdid
-  nl: Nieuwe sector
   pl: Nowy sektor
   pt: Novo setor
   ro: Sector nou
@@ -99,7 +151,6 @@ label_delete_module:
   lt: Ištrinti modulį
   lv: Dzēst moduli
   mt: Iħassar mudell
-  nl: Module verwijderen
   pl: Usuń moduł
   pt: Excluir módulo
   ro: Șterge modulul
@@ -127,7 +178,6 @@ label_delete_risk:
     lt: Ištrinti riziką
     lv: Dzēst risku
     mt: Iħassar riskju
-    nl: Verwijder risico
     pl: Usuń ryzyko
     pt: Apagar risco
     ro: Șterge riscul
@@ -207,7 +257,6 @@ message_delete_tool:
   lt: Jūs ketinate ištrinti šį įrankį.
   lv: Jūs drīzumā dzēsīsiet šo rīku.
   mt: Int qed tħassar dan l-għodda.
-  nl: U staat op het punt om deze tool te verwijderen.
   pl: Masz zamiar usunąć ten narzędzie.
   pt: Você está prestes a excluir esta ferramenta.
   ro: Sunteți pe cale să ștergeți această unealtă.
