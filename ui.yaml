@@ -3207,29 +3207,7 @@ are_you_sure:
   sl: Ali res želiš nadaljevati?
 are_you_sure_delete:
   en: Are you sure you want to delete this session? This action can not be reverted.
-button_add:
-  bg: Добави
-  ca: Afegir
-  cs: Přidat
-  de: Hinzufügen
-  el: επιλογή
-  en: Add
-  es: Añadir
-  fi: Lisää
-  fr: Ajouter
-  hr: Dodaj
-  hu: Hozzáadás
-  is: Bæta við
-  it: Aggiungere
-  lt: Įkelti
-  lv: Pievienot
-  mt: Żid
-  nl: Voeg toe
-  nl_BE: Toevoegen
-  'no': ''
-  pt: Adicionar
-  sk: Pridať
-  sl: Dodaj
+
 button_add_custom_risk:
   bg: Добавете обичаен риск.
   ca: Afegir un altre risc
