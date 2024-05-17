@@ -52,6 +52,60 @@ label_version_name:
   sv: Versionsnamn
   he: שם הגרסה
 
+label_duplicate_name:
+  nl: Naam duplicaat
+  en: Duplicate name
+  bg: Име на дубликат
+  cs: Název duplikátu
+  da: Duplikatnavn
+  de: Duplikatname
+  et: Dubleeri nimi
+  el: Όνομα αντιγράφου
+  es: Nombre duplicado
+  fi: Kopioi nimi
+  fr: Nom du duplicata
+  ga: Ainm cóipeála
+  hr: Naziv duplicata
+  hu: Másolat neve
+  it: Nome duplicato
+  lt: Kopijavimo pavadinimas
+  lv: Dublēšanas nosaukums
+  mt: Isem doppju
+  pl: Nazwa duplikatu
+  pt: Nome duplicado
+  ro: Nume duplicat
+  sk: Názov duplikátu
+  sl: Ime podvojitve
+  sv: Duplicerat namn
+  he: שם השכפול
+
+label_duplicate:
+  nl: Dupliceren
+  en: Duplicate
+  bg: Дублиране
+  cs: Duplikovat
+  da: Duplikér
+  de: Duplizieren
+  et: Dubleeri
+  el: Διπλασιάστε
+  es: Duplicar
+  fi: Kopioi
+  fr: Dupliquer
+  ga: Cóipeáil
+  hr: Dupliciraj
+  hu: Másolat
+  it: Duplica
+  lt: Kopijuoti
+  lv: Dublēt
+  mt: Duplika
+  pl: Zduplikuj
+  pt: Duplicar
+  ro: Duplicare
+  sk: Duplikovať
+  sl: Podvoji
+  sv: Duplicera
+  he: שכפל
+
 label_duplicate_version:
   nl: Dupliceer versie
   en: Duplicate version
@@ -132,6 +186,33 @@ message_help_version_name:
   sk: Toto je názov verzie tohto nástroja. Názov verzie je určený iba pre editorov a nikdy sa nezobrazí používateľom nástroja.
   sl: To je ime različice tega orodja. Ime različice je namenjeno samo urednikom in nikoli ne bo prikazano uporabnikom orodja.
   sv: Detta är namnet på versionen av detta verktyg. Versionsnamnet är endast för redaktörer och kommer aldrig att visas för användare av verktyget.
+
+message_help_duplicate_name:
+  en: This is the name of the new version of this tool. The name is only for editors and will never be shown to users of the tool.
+  bg: Това е името на новата версия на този инструмент. Името е само за редактори и никога няма да се показва на потребителите на инструмента.
+  cs: Toto je název nové verze tohoto nástroje. Název je určen pouze pro editory a nikdy se nezobrazí uživatelům nástroje.
+  da: Dette er navnet på den nye version af dette værktøj. Navnet er kun til redaktører og vil aldrig blive vist for brugerne af værktøjet.
+  de: Dies ist der Name der neuen Version dieses Tools. Der Name ist nur für Redakteure bestimmt und wird den Benutzern des Tools niemals angezeigt.
+  el: Αυτό είναι το όνομα της νέας έκδοσης αυτού του εργαλείου. Το όνομα είναι μόνο για επεξεργαστές και δεν θα εμφανιστεί ποτέ στους χρήστες του εργαλείου.
+  es: Este es el nombre de la nueva versión de esta herramienta. El nombre es solo para editores y nunca se mostrará a los usuarios de la herramienta.
+  et: See on uue versiooni nimi sellest tööriistast. Nimi on ainult toimetajatele ja seda ei kuvata kunagi tööriista kasutajatele.
+  fi: Tämä on uuden version nimi tästä työkalusta. Nimi on vain toimittajille eikä sitä koskaan näytetä työkalun käyttäjille.
+  fr: Ceci est le nom de la nouvelle version de cet outil. Le nom est réservé aux éditeurs et ne sera jamais affiché aux utilisateurs de l'outil.
+  ga: Is é seo ainm an leagan nua den uirlis seo. Is le h-údair amháin an t-ainm agus ní thaispeánfar do úsáideoirí an uirlis go deo.
+  he: זהו שם הגרסה החדשה של הכלי הזה. השם הוא רק לעורכים ולעולם לא יוצג למשתמשי הכלי.
+  hr: Ovo je ime nove verzije ovog alata. Ime je samo za urednike i nikada neće biti prikazano korisnicima alata.
+  hu: Ez a név az új verzió neve ennek az eszköznek. A név csak szerkesztőknek szól, és soha nem jelenik meg az eszköz felhasználóinak.
+  it: Questo è il nome della nuova versione di questo strumento. Il nome è solo per gli editori e non verrà mai mostrato agli utenti dello strumento.
+  lt: Tai yra šio įrankio naujos versijos pavadinimas. Pavadinimas skirtas tik redaktoriams ir niekada nebus rodomas įrankio naudotojams.
+  lv: Tas ir jaunās versijas nosaukums šim rīkam. Nosaukums ir tikai redaktoriem un nekad netiks rādīts rīka lietotājiem.
+  mt: Dan hu l-isem tal-verżjoni l-ġdida ta' dan l-għodda. L-isem huwa biss għall-edituri u qatt ma jidher lill-utenti tal-għodda.
+  nl: Dit is de naam van de nieuwe versie van deze tool. De naam is alleen voor redacteuren en zal nooit worden getoond aan gebruikers van de tool.
+  pl: To jest nazwa nowej wersji tego narzędzia. Nazwa jest przeznaczona tylko dla redaktorów i nigdy nie będzie wyświetlana użytkownikom narzędzia.
+  pt: Este é o nome da nova versão desta ferramenta. O nome é apenas para editores e nunca será mostrado aos usuários da ferramenta.
+  ro: Acesta este numele noii versiuni a acestei unelte. Numele este doar pentru editori și nu va fi niciodată afișat utilizatorilor uneltei.
+  sk: Toto je názov novej verzie tohto nástroja. Názov je určený iba pre editorov a nikdy sa nezobrazí používateľom nástroja.
+  sl: To je ime nove različice tega orodja. Ime je namenjeno samo urednikom in nikoli ne bo prikazano uporabnikom orodja.
+  sv: Detta är namnet på den nya versionen av detta verktyg. Namnet är endast för redaktörer och kommer aldrig att visas för användarna av verktyget.
 
 message_help_oira_tool_name:
   nl: Gebruik een korte en krachtige naam, waarin gebruikers hun omstandigheden zullen herkennen. De title wordt getoond in overzichten, zowel aan gebruikers als aan redacteuren.
