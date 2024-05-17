@@ -25,6 +25,114 @@ message_delete_sector:
   sv: Du håller på att ta bort denna sektor och alla dess relaterade verktyg.
   he: אתה עומד למחוק את הסקטור הזה ואת כל הכלים המשויכים אליו.
 
+label_version_name:
+  nl: Versienaam
+  en: Version name
+  bg: Име на версия
+  cs: Název verze
+  da: Versionsnavn
+  de: Versionsname
+  et: Versiooninimi
+  el: Όνομα έκδοσης
+  es: Nombre de la versión
+  fi: Versio nimi
+  fr: Nom de la version
+  ga: Ainm an leagan
+  hr: Naziv verzije
+  hu: Verzió neve
+  it: Nome della versione
+  lt: Versijos pavadinimas
+  lv: Versijas nosaukums
+  mt: Isem tal-verżjoni
+  pl: Nazwa wersji
+  pt: Nome da versão
+  ro: Numele versiunii
+  sk: Názov verzie
+  sl: Ime različice
+  sv: Versionsnamn
+  he: שם הגרסה
+
+label_duplicate_version:
+  nl: Dupliceer versie
+  en: Duplicate version
+  bg: Дублиране на версия
+  cs: Duplikovat verzi
+  da: Duplikér version
+  de: Version duplizieren
+  et: Dubleeri versioon
+  el: Διπλασιάστε την έκδοση
+  es: Duplicar versión
+  fi: Kopioi versio
+  fr: Dupliquer la version
+  ga: Cóipeáil leagan
+  hr: Dupliciraj verziju
+  hu: Verzió másolása
+  it: Duplica versione
+  lt: Kopijuoti versiją
+  lv: Dublēt versiju
+  mt: Duplika verżjoni
+  pl: Zduplikuj wersję
+  pt: Duplicar versão
+  ro: Duplicare versiune
+  sk: Duplikovať verziu
+  sl: Podvoji različico
+  sv: Duplicera version
+  he: שכפל גרסה
+
+label_base_for_duplicate:
+  nl: Basis voor duplicaat
+  en: Base for duplicate
+  bg: Основа за дублиране
+  cs: Základ pro duplikaci
+  da: Base for duplikat
+  de: Basis für Duplikat
+  et: Alus dubleerimiseks
+  el: Βάση για αντιγραφή
+  es: Base para duplicar
+  fi: Perusta kopiointia varten
+  fr: Base pour le duplicata
+  ga: Bunús le haghaidh cóipeáil
+  hr: Baza za dupliciranje
+  hu: Alap a másolathoz
+  it: Base per duplicato
+  lt: Bazė dubliavimui
+  lv: Bāze dublēšanai
+  mt: Bażi għad-duplikat
+  pl: Baza do duplikowania
+  pt: Base para duplicar
+  ro: Bază pentru duplicat
+  sk: Základ pre duplikát
+  sl: Osnova za podvojitev
+  sv: Bas för duplicering
+  he: בסיס לשכפול
+
+message_help_version_name:
+  en: This is the name of the version of this tool. The version name is only for editors and will never be shown to users of the tool.
+  bg: Това е името на версията на този инструмент. Името на версията е само за редактори и никога няма да се показва на потребителите на инструмента.
+  cs: Toto je název verze tohoto nástroje. Název verze je určen pouze pro editory a nikdy se nezobrazí uživatelům nástroje.
+  da: Dette er navnet på versionen af dette værktøj. Versionsnavnet er kun til redaktører og vil aldrig blive vist for brugere af værktøjet.
+  de: Dies ist der Name der Version dieses Tools. Der Versionsname ist nur für Editoren bestimmt und wird den Benutzern des Tools niemals angezeigt.
+  et: See on selle tööriista versiooni nimi. Versiooninimi on mõeldud ainult toimetajatele ega kuvata kunagi tööriista kasutajatele.
+  el: Αυτό είναι το όνομα της έκδοσης αυτού του εργαλείου. Το όνομα της έκδοσης είναι μόνο για επεξεργαστές και δεν θα εμφανιστεί ποτέ στους χρήστες του εργαλείου.
+  es: Este es el nombre de la versión de esta herramienta. El nombre de la versión es solo para editores y nunca se mostrará a los usuarios de la herramienta.
+  fi: Tämä on tämän työkalun version nimi. Versio nimi on tarkoitettu vain toimittajille eikä sitä koskaan näytetä työkalun käyttäjille.
+  fr: Il s'agit du nom de la version de cet outil. Le nom de la version est réservé aux éditeurs et ne sera jamais affiché aux utilisateurs de l'outil.
+  ga: Is é seo ainm an leagan den uirlis seo. Is do eagarthóirí amháin é ainm an leagan agus ní thaispeánfar do úsáideoirí an uirlis go deo.
+  he: זהו שם גרסה של הכלי הזה. שם הגרסה מיועד רק לעורכים ולעולם לא יוצג למשתמשים של הכלי.
+  hr: Ovo je naziv verzije ovog alata. Naziv verzije namijenjen je samo urednicima i nikada se neće prikazati korisnicima alata.
+  hu: Ez a verzió neve ennek az eszköznek. A verzió neve csak szerkesztőknek szól, és soha nem jelenik meg az eszköz felhasználóinak.
+  it: Questo è il nome della versione di questo strumento. Il nome della versione è solo per gli editori e non verrà mai mostrato agli utenti dello strumento.
+  lt: Tai yra šio įrankio versijos pavadinimas. Versijos pavadinimas skirtas tik redaktoriams ir niekada nebus rodomas įrankio naudotojams.
+  lv: Tas ir irīka versijas nosaukums. Versijas nosaukums ir paredzēts tikai redaktoriem un nekad netiks rādīts rīka lietotājiem.
+  mt: Dan huwa l-isem tal-verżjoni ta 'dan l-għodda. L-isem tal-verżjoni huwa biss għall-edituri u qatt ma jidher lill-utenti tal-għodda.
+  nl: Dit is de naam van de versie van deze tool. De versienaam is alleen voor redacteuren en wordt nooit getoond aan gebruikers van de tool.
+  pl: To jest nazwa wersji tego narzędzia. Nazwa wersji jest przeznaczona tylko dla redaktorów i nigdy nie będzie wyświetlana użytkownikom narzędzia.
+  pt: Este é o nome da versão desta ferramenta. O nome da versão destina-se apenas a editores e nunca será mostrado aos usuários da ferramenta.
+  ro: Acesta este numele versiunii acestei unelte. Numele versiunii este doar pentru editori și nu va fi niciodată afișat utilizatorilor uneltei.
+  sk: Toto je názov verzie tohto nástroja. Názov verzie je určený iba pre editorov a nikdy sa nezobrazí používateľom nástroja.
+  sl: To je ime različice tega orodja. Ime različice je namenjeno samo urednikom in nikoli ne bo prikazano uporabnikom orodja.
+  sv: Detta är namnet på versionen av detta verktyg. Versionsnamnet är endast för redaktörer och kommer aldrig att visas för användare av verktyget.
+
 message_help_oira_tool_name:
   nl: Gebruik een korte en krachtige naam, waarin gebruikers hun omstandigheden zullen herkennen. De title wordt getoond in overzichten, zowel aan gebruikers als aan redacteuren.
   en: Use a short and powerful name that users will recognize their circumstances in. The title is displayed in overviews, both to users and editors.
