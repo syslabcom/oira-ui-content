@@ -563,6 +563,33 @@ label_delete_risk_imp:
   sv: Ta bort risk
   he: מחק סיכון
 
+message_delete_version:
+  nl: U staat op het punt om deze tool te verwijderen.
+  en: You are about to delete this tool.
+  bg: Вие сте на път да изтриете този инструмент.
+  cs: Chystáte se smazat tento nástroj.
+  da: Du er ved at slette dette værktøj.
+  de: Sie sind dabei, dieses Tool zu löschen.
+  et: Olete selle tööriista kustutamiseks.
+  el: Πρόκειται να διαγράψετε αυτό το εργαλείο.
+  es: Estás a punto de eliminar esta herramienta.
+  fi: Olet poistamassa tätä työkalua.
+  fr: Vous êtes sur le point de supprimer cet outil.
+  ga: Tá tú faoi bhrú chun an uirlis seo a scriosadh.
+  hr: Vi ste na korak do brisanja ovog alata.
+  hu: Készülsz törölni ezt az eszközt.
+  it: Stai per eliminare questo strumento.
+  lt: Jūs ketinate ištrinti šį įrankį.
+  lv: Jūs esat gatavs dzēst šo rīku.
+  mt: Int qed tħassar din l-għodda.
+  pl: Masz zamiar usunąć ten narzędzie.
+  pt: Você está prestes a excluir esta ferramenta.
+  ro: Sunteți pe cale să ștergeți această unealtă.
+  sk: Chystáte sa vymazať tento nástroj.
+  sl: S tem orodjem boste izbrisali.
+  sv: Du är på väg att ta bort detta verktyg.
+  he: אתה עומד למחוק את הכלי הזה.
+
 message_delete_tool:
   nl: U staat op het punt om deze tool te verwijderen.
   en: You are about to delete this tool.
