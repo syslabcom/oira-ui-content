@@ -25,6 +25,34 @@ message_delete_sector:
   sv: Du håller på att ta bort denna sektor och alla dess relaterade verktyg.
   he: אתה עומד למחוק את הסקטור הזה ואת כל הכלים המשויכים אליו.
 
+label_legal_and_policy_references:
+  en: Legal and policy references
+  nl: Wettelijke en beleidsverwijzingen
+  de: Gesetzliche und politische Verweise
+  fr: Références légales et politiques
+  it: Riferimenti legali e politici
+  es: Referencias legales y de políticas
+  pt: Referências legais e políticas
+  pl: Odniesienia prawne i polityczne
+  sv: Juridiska och policyreferenser
+  da: Juridiske og politiske referencer
+  fi: Lainsäädännön ja politiikan viittaukset
+  cs: Právní a politické odkazy
+  el: Νομικές και πολιτικές αναφορές
+  hu: Jogi és politikai hivatkozások
+  ro: Referințe legale și politice
+  bg: Правни и политически препратки
+  hr: Pravne i političke reference
+  sk: Právne a politické odkazy
+  sl: Pravne in politične reference
+  lt: Teisinės ir politinės nuorodos
+  lv: Juridiskās un politikas atsauces
+  et: Õigus- ja poliitikaviited
+  mt: Referenzi legali u ta’ politika
+  ga: Tagairtí dlíthiúla agus polasaí
+  he: הפניות משפטיות ומדיניות
+
+
 label_version_name:
   nl: Versienaam
   en: Version name
