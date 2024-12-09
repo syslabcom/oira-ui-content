@@ -7278,29 +7278,35 @@ label_topics:
   sl: Teme
   hu: Témák
   sk: Témy
+
 label_training:
-  bg: ''
-  ca: ''
-  cs: ''
-  de: Unterweisung
-  el: ''
   en: Training
-  es: ''
-  fi: ''
-  fr: Formation
-  hr: Osposobljavanje
-  hu: Oktatás
-  is: ''
-  it: ''
-  lt: ''
-  lv: ''
-  mt: ''
   nl: Training
-  nl_BE: ''
-  'no': ''
-  pt: ''
-  sk: Odborná príprava
-  sl: ''
+  nl_be: Opleiding
+  fr: Formation
+  de: Schulung
+  it: Formazione
+  es: Formación
+  pt: Formação
+  pl: Szkolenie
+  fi: Koulutus
+  hr: Obuka
+  cs: Školení
+  da: Træning
+  mt: Taħriġ
+  sl: Usposabljanje
+  bg: Обучение
+  ro: Instruire
+  et: Koolitus
+  lv: Apmācība
+  lt: Mokymai
+  sv: Utbildning
+  sk: Školenie
+  hu: Képzés
+  el: Εκπαίδευση
+  ga: Oiliúint
+  he: הכשרה
+
 label_training_achievement_listed:
   de: Ihr Erfolg wird unter der Überschrift “Meine Unterweisungen” auf dem Dashboard
     zu sehen sein. Von dort können Sie jederzeit Ihr Zertifikat betrachten oder ausdrucken.
