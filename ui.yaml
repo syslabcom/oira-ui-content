@@ -1,4 +1,58 @@
-message_help_training:
+message_help_allow_certificates:
+  en: If this option is activated, certificates can be enabled on OiRA tools in this country.
+  nl: Als deze optie is ingeschakeld, kunnen certificaten worden geactiveerd voor OiRA-tools in dit land.
+  fr: Si cette option est activée, des certificats peuvent être activés sur les outils OiRA dans ce pays.
+  de: Wenn diese Option aktiviert ist, können Zertifikate für OiRA-Tools in diesem Land aktiviert werden.
+  it: Se questa opzione è attivata, i certificati possono essere abilitati sugli strumenti OiRA in questo paese.
+  es: Si esta opción está activada, se pueden habilitar certificados en las herramientas OiRA de este país.
+  pt: Se esta opção estiver ativada, os certificados podem ser ativados nas ferramentas OiRA deste país.
+  pl: Jeśli ta opcja jest aktywna, można włączyć certyfikaty w narzędziach OiRA w tym kraju.
+  fi: Jos tämä asetus on käytössä, OiRA-työkaluissa tässä maassa voidaan ottaa käyttöön sertifikaatit.
+  hr: Ako je ova opcija aktivirana, mogu se omogućiti certifikati za OiRA alate u ovoj zemlji.
+  cs: Pokud je tato možnost aktivována, lze v této zemi povolit certifikáty v nástrojích OiRA.
+  da: Hvis denne indstilling er aktiveret, kan certifikater aktiveres på OiRA-værktøjer i dette land.
+  mt: Jekk din l-għażla tkun attivata, iċ-ċertifikati jistgħu jiġu attivati fuq l-għodod OiRA f’dan il-pajjiż.
+  sl: Če je ta možnost omogočena, je mogoče omogočiti potrdila za orodja OiRA v tej državi.
+  bg: Ако тази опция е активирана, могат да се активират сертификати за инструментите OiRA в тази страна.
+  ro: Dacă această opțiune este activată, certificatele pot fi activate pentru instrumentele OiRA din această țară.
+  et: Kui see valik on aktiveeritud, saab selle riigi OiRA tööriistades lubada sertifikaadid.
+  lv: Ja šī opcija ir aktivēta, šajā valstī var iespējot sertifikātus OiRA rīkos.
+  lt: Jei ši parinktis įjungta, šioje šalyje OiRA įrankiuose galima įjungti sertifikatus.
+  sv: Om det här alternativet är aktiverat kan certifikat aktiveras i OiRA-verktygen i detta land.
+  sk: Ak je táto možnosť aktivovaná, v nástrojoch OiRA v tejto krajine je možné povoliť certifikáty.
+  hu: Ha ez az opció engedélyezve van, akkor ebben az országban engedélyezhetők a tanúsítványok az OiRA eszközökön.
+  el: Εάν αυτή η επιλογή είναι ενεργοποιημένη, μπορούν να ενεργοποιηθούν πιστοποιητικά στα εργαλεία OiRA αυτής της χώρας.
+  ga: Má tá an rogha seo gníomhach, is féidir deimhnithe a chumasú ar uirlisí OiRA sa tír seo.
+  he: אם אפשרות זו מופעלת, ניתן לאפשר תעודות בכלי OiRA במדינה זו.
+
+message_help_allow_consultancy:
+  en: If this option is activated, consultancy can be enabled on OiRA tools in this country.
+  nl: Als deze optie is ingeschakeld, kan adviesverlening worden geactiveerd voor OiRA-tools in dit land.
+  fr: Si cette option est activée, un service de conseil peut être activé sur les outils OiRA dans ce pays.
+  de: Wenn diese Option aktiviert ist, kann Beratung für OiRA-Tools in diesem Land freigeschaltet werden.
+  it: Se questa opzione è attivata, la consulenza può essere abilitata sugli strumenti OiRA in questo paese.
+  es: Si esta opción está activada, se puede habilitar la consultoría en las herramientas OiRA de este país.
+  pt: Se esta opção estiver ativada, a consultoria pode ser ativada nas ferramentas OiRA deste país.
+  pl: Jeśli ta opcja jest aktywna, doradztwo może zostać włączone w narzędziach OiRA w tym kraju.
+  fi: Jos tämä asetus on käytössä, OiRA-työkaluissa tässä maassa voidaan ottaa käyttöön neuvontapalvelut.
+  hr: Ako je ova opcija aktivirana, može se omogućiti savjetovanje za OiRA alate u ovoj zemlji.
+  cs: Pokud je tato možnost aktivována, lze v této zemi povolit konzultace v nástrojích OiRA.
+  da: Hvis denne indstilling er aktiveret, kan konsulentbistand aktiveres på OiRA-værktøjer i dette land.
+  mt: Jekk din l-għażla tkun attivata, is-servizzi ta’ konsulenza jistgħu jiġu attivati fuq l-għodod OiRA f’dan il-pajjiż.
+  sl: Če je ta možnost omogočena, je mogoče omogočiti svetovanje za orodja OiRA v tej državi.
+  bg: Ако тази опция е активирана, може да се активира консултантска дейност за инструментите OiRA в тази страна.
+  ro: Dacă această opțiune este activată, consultanța poate fi activată pentru instrumentele OiRA din această țară.
+  et: Kui see valik on aktiveeritud, saab selle riigi OiRA tööriistades lubada nõustamisteenuse.
+  lv: Ja šī opcija ir aktivēta, šajā valstī var iespējot konsultāciju pakalpojumus OiRA rīkos.
+  lt: Jei ši parinktis įjungta, šioje šalyje OiRA įrankiuose galima įjungti konsultavimo paslaugas.
+  sv: Om det här alternativet är aktiverat kan konsulttjänster aktiveras i OiRA-verktygen i detta land.
+  sk: Ak je táto možnosť aktivovaná, v nástrojoch OiRA v tejto krajine je možné povoliť konzultačné služby.
+  hu: Ha ez az opció engedélyezve van, akkor ebben az országban engedélyezhető a tanácsadási funkció az OiRA eszközökön.
+  el: Εάν αυτή η επιλογή είναι ενεργοποιημένη, μπορεί να ενεργοποιηθεί η παροχή συμβουλευτικών υπηρεσιών στα εργαλεία OiRA αυτής της χώρας.
+  ga: Má tá an rogha seo gníomhach, is féidir comhairliúchán a chumasú ar uirlisí OiRA sa tír seo.
+  he: אם אפשרות זו מופעלת, ניתן לאפשר ייעוץ בכלי OiRA במדינה זו.
+
+message_help_allow_training:
   en: If this option is activated, an online training can be enabled on OiRA tools in this country.
   nl: Als deze optie is ingeschakeld, kan online training worden geactiveerd voor OiRA-tools in dit land.
   fr: Si cette option est activée, une formation en ligne peut être activée sur les outils OiRA dans ce pays.
