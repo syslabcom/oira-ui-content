@@ -1,3 +1,30 @@
+message_help_training:
+  en: If this option is activated, an online training can be enabled on OiRA tools in this country.
+  nl: Als deze optie is ingeschakeld, kan online training worden geactiveerd voor OiRA-tools in dit land.
+  fr: Si cette option est activée, une formation en ligne peut être activée sur les outils OiRA dans ce pays.
+  de: Wenn diese Option aktiviert ist, kann ein Online-Training für OiRA-Tools in diesem Land freigeschaltet werden.
+  it: Se questa opzione è attivata, è possibile abilitare una formazione online sugli strumenti OiRA in questo paese.
+  es: Si esta opción está activada, se puede habilitar una formación en línea en las herramientas OiRA de este país.
+  pt: Se esta opção estiver ativada, pode ser ativada uma formação online nas ferramentas OiRA deste país.
+  pl: Jeśli ta opcja jest aktywna, można włączyć szkolenie online w narzędziach OiRA w tym kraju.
+  fi: Jos tämä asetus on käytössä, OiRA-työkaluissa tässä maassa voidaan ottaa käyttöön verkkokoulutus.
+  hr: Ako je ova opcija aktivirana, može se omogućiti online obuka za OiRA alate u ovoj zemlji.
+  cs: Pokud je tato možnost aktivována, lze v této zemi povolit online školení v nástrojích OiRA.
+  da: Hvis denne indstilling er aktiveret, kan onlineundervisning aktiveres på OiRA-værktøjer i dette land.
+  mt: Jekk din l-għażla tkun attivata, taħriġ onlajn jistaʼ jiġi attivat fuq l-għodod OiRA f’dan il-pajjiż.
+  sl: Če je ta možnost omogočena, je mogoče omogočiti spletno usposabljanje za orodja OiRA v tej državi.
+  bg: Ако тази опция е активирана, може да се активира онлайн обучение за инструментите OiRA в тази страна.
+  ro: Dacă această opțiune este activată, poate fi activată o instruire online pentru instrumentele OiRA din această țară.
+  et: Kui see valik on aktiveeritud, saab selle riigi OiRA tööriistades lubada veebipõhise koolituse.
+  lv: Ja šī opcija ir aktivēta, šajā valstī var iespējot tiešsaistes apmācību OiRA rīkos.
+  lt: Jei ši parinktis įjungta, šioje šalyje OiRA įrankiuose galima įjungti internetinį mokymą.
+  sv: Om det här alternativet är aktiverat kan en onlineträning aktiveras i OiRA-verktygen i detta land.
+  sk: Ak je táto možnosť aktivovaná, v nástrojoch OiRA v tejto krajine je možné povoliť online školenie.
+  hu: Ha ez az opció engedélyezve van, akkor ebben az országban engedélyezhető az online képzés az OiRA eszközökön.
+  el: Εάν αυτή η επιλογή είναι ενεργοποιημένη, μπορεί να ενεργοποιηθεί μια διαδικτυακή εκπαίδευση στα εργαλεία OiRA αυτής της χώρας.
+  ga: Má tá an rogha seo gníomhach, is féidir oiliúint ar líne a chumasú ar uirlisí OiRA sa tír seo.
+  he: אם אפשרות זו מופעלת, ניתן לאפשר הכשרה מקוונת בכלי OiRA במדינה זו.
+
 label_information_section:
   en: Information section
   nl: Informatiesectie
