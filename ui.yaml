@@ -1,3 +1,165 @@
+message_help_certificate_explanatory_sentence:
+  en: A short explanation that is shown to the user after reaching the initial threshold. You can use this to point to an external website that provides more information.
+  nl: Een korte uitleg die aan de gebruiker wordt getoond nadat de initiële drempel is bereikt. U kunt dit gebruiken om te verwijzen naar een externe website met meer informatie.
+  fr: Une brève explication affichée à l’utilisateur après avoir atteint le seuil initial. Vous pouvez l’utiliser pour rediriger vers un site externe fournissant plus d’informations.
+  de: Eine kurze Erklärung, die dem Benutzer nach Erreichen der Anfangsschwelle angezeigt wird. Sie können dies nutzen, um auf eine externe Website mit weiteren Informationen zu verweisen.
+  it: Una breve spiegazione mostrata all’utente dopo il raggiungimento della soglia iniziale. Puoi usarla per indirizzare a un sito esterno con ulteriori informazioni.
+  es: Una breve explicación que se muestra al usuario tras alcanzar el umbral inicial. Puede utilizarse para enlazar con un sitio web externo con más información.
+  pt: Uma breve explicação apresentada ao utilizador após atingir o limite inicial. Pode usá-la para apontar para um site externo com mais informações.
+  pl: Krótkie wyjaśnienie wyświetlane użytkownikowi po osiągnięciu początkowego progu. Można je wykorzystać do wskazania zewnętrznej strony internetowej z dodatkowymi informacjami.
+  fi: Lyhyt selitys, joka näytetään käyttäjälle, kun alkukynnys on saavutettu. Tämän avulla voit ohjata käyttäjän ulkoiselle verkkosivustolle, josta saa lisätietoja.
+  hr: Kratko objašnjenje koje se prikazuje korisniku nakon što postigne početni prag. Možete ga koristiti za upućivanje na vanjsku web stranicu s dodatnim informacijama.
+  cs: Krátké vysvětlení zobrazené uživateli po dosažení počátečního prahu. Můžete jej použít k odkazu na externí web s dalšími informacemi.
+  da: En kort forklaring, som vises til brugeren efter opnåelse af startgrænsen. Du kan bruge den til at henvise til et eksternt websted med flere oplysninger.
+  mt: Spjegazzjoni qasira li tintwera lill-utent wara li jintlaħaq il-limitu inizjali. Tistaʼ tużaha biex tipponta lejn websajt esterna li tipprovdi aktar informazzjoni.
+  sl: Kratka razlaga, prikazana uporabniku po doseženem začetnem pragu. Uporabite jo lahko za preusmeritev na zunanjo spletno stran z dodatnimi informacijami.
+  bg: Кратко обяснение, което се показва на потребителя след достигане на началния праг. Може да се използва за насочване към външен уебсайт с допълнителна информация.
+  ro: O scurtă explicație afișată utilizatorului după atingerea pragului inițial. Puteți folosi acest text pentru a trimite către un site extern cu mai multe informații.
+  et: Lühike selgitus, mis kuvatakse kasutajale pärast algtaseme saavutamist. Seda saab kasutada viitena välisele veebilehele, kus on rohkem teavet.
+  lv: Īss paskaidrojums, kas tiek parādīts lietotājam pēc sākotnējā sliekšņa sasniegšanas. To var izmantot, lai norādītu uz ārēju tīmekļa vietni ar papildu informāciju.
+  lt: Trumpas paaiškinimas, kuris rodomas naudotojui pasiekus pradinį slenkstį. Galite jį naudoti norėdami nukreipti į išorinę svetainę su daugiau informacijos.
+  sv: En kort förklaring som visas för användaren efter att ha nått den inledande tröskeln. Den kan användas för att länka till en extern webbplats med mer information.
+  sk: Krátke vysvetlenie zobrazené používateľovi po dosiahnutí počiatočného prahu. Môžete ho použiť na odkazovanie na externú webovú stránku s ďalšími informáciami.
+  hu: Rövid magyarázat, amely a felhasználónak a kezdeti küszöbérték elérése után jelenik meg. Használható külső weboldalra való hivatkozáshoz, ahol további információ található.
+  el: Μια σύντομη επεξήγηση που εμφανίζεται στον χρήστη μετά την επίτευξη του αρχικού ορίου. Μπορείτε να τη χρησιμοποιήσετε για να παραπέμψετε σε έναν εξωτερικό ιστότοπο με περισσότερες πληροφορίες.
+  ga: Míniú gairid a thaispeántar don úsáideoir tar éis dóibh an tairseach tosaigh a bhaint amach. Is féidir leat é a úsáid chun nasc a dhéanamh le suíomh gréasáin seachtrach a sholáthraíonn tuilleadh eolais.
+  he: הסבר קצר שמוצג למשתמש לאחר שהגיע לסף הראשוני. ניתן להשתמש בו כדי להפנות לאתר חיצוני המספק מידע נוסף.
+
+label_certificate_explanatory_sentence:
+  en: Certificate explanatory sentence
+  nl: Verklarende zin certificaat
+  fr: Phrase explicative du certificat
+  de: Erläuterungssatz zum Zertifikat
+  it: Frase esplicativa del certificato
+  es: Frase explicativa del certificado
+  pt: Frase explicativa do certificado
+  pl: Objaśniające zdanie certyfikatu
+  fi: Sertifikaatin selittävä lause
+  hr: Objašnjenje certifikata
+  cs: Vysvětlující věta certifikátu
+  da: Forklarende sætning til certifikatet
+  mt: Sentenza esplicattiva taċ-ċertifikat
+  sl: Pojasnilni stavek potrdila
+  bg: Обяснително изречение за сертификата
+  ro: Fraza explicativă a certificatului
+  et: Sertifikaadi selgitav lause
+  lv: Sertifikāta skaidrojošais teikums
+  lt: Sertifikato paaiškinamasis sakinys
+  sv: Förklarande mening till certifikatet
+  sk: Vysvetľujúca veta certifikátu
+  hu: Tanúsítvány magyarázó mondata
+  el: Επεξηγηματική πρόταση του πιστοποιητικού
+  ga: Abairt mhínitheach an teastais
+  he: משפט הסבר לתעודה
+
+message_help_certificate_completion_threshhold:
+  en: After a session completion rate is greater than this limit the user will earn a certificate.
+  nl: Nadat de voltooiingsgraad van een sessie deze drempel overschrijdt, ontvangt de gebruiker een certificaat.
+  fr: Une fois que le taux d’achèvement d’une session dépasse ce seuil, l’utilisateur recevra un certificat.
+  de: Wenn die Abschlussrate einer Sitzung diesen Schwellenwert überschreitet, erhält der Benutzer ein Zertifikat.
+  it: Dopo che il tasso di completamento di una sessione supera questa soglia, l’utente riceverà un certificato.
+  es: Una vez que la tasa de finalización de una sesión supere este umbral, el usuario obtendrá un certificado.
+  pt: Após a taxa de conclusão de uma sessão ultrapassar este limite, o utilizador receberá um certificado.
+  pl: Gdy wskaźnik ukończenia sesji przekroczy ten próg, użytkownik otrzyma certyfikat.
+  fi: Kun istunnon suoritusaste ylittää tämän kynnyksen, käyttäjä saa todistuksen.
+  hr: Nakon što stopa završetka sesije premaši ovu granicu, korisnik će dobiti certifikat.
+  cs: Po překročení této hodnoty dokončení relace uživatel obdrží certifikát.
+  da: Når gennemførelsesgraden for en session overstiger denne grænse, modtager brugeren et certifikat.
+  mt: Wara li r-rata ta’ tlestija tas-sessjoni tkun ogħla minn dan il-limitu, l-utent jirċievi ċertifikat.
+  sl: Ko stopnja dokončanja seje preseže ta prag, bo uporabnik prejel potrdilo.
+  bg: След като процентът на завършване на сесията надвиши този праг, потребителят ще получи сертификат.
+  ro: După ce rata de finalizare a unei sesiuni depășește acest prag, utilizatorul va primi un certificat.
+  et: Kui seansi lõpetamise määr ületab selle piiri, saab kasutaja tunnistuse.
+  lv: Kad sesijas pabeigšanas rādītājs pārsniedz šo slieksni, lietotājs saņems sertifikātu.
+  lt: Kai sesijos užbaigimo rodiklis viršija šią ribą, vartotojas gaus pažymėjimą.
+  sv: När en sessions slutförandegrad överstiger denna gräns, får användaren ett certifikat.
+  sk: Keď miera dokončenia relácie presiahne túto hranicu, používateľ získa certifikát.
+  hu: Ha az ülés teljesítési aránya meghaladja ezt a küszöbértéket, a felhasználó tanúsítványt kap.
+  el: Όταν το ποσοστό ολοκλήρωσης μιας συνεδρίας υπερβαίνει αυτό το όριο, ο χρήστης θα λάβει πιστοποιητικό.
+  ga: Nuair a sháraíonn ráta críochnaithe seisiúin an tairseach seo, gheobhaidh an t-úsáideoir teastas.
+  he: לאחר ששיעור ההשלמה של ההפעלה יעלה על סף זה, המשתמש יקבל תעודה.
+
+message_help_certificate_initial_threshhold:
+  en: After a session completion rate is greater than this limit, the user will be informed about the possibility to earn a certificate.
+  nl: Nadat de voltooiingsgraad van een sessie deze drempel overschrijdt, wordt de gebruiker geïnformeerd over de mogelijkheid om een certificaat te behalen.
+  fr: Une fois que le taux d’achèvement d’une session dépasse ce seuil, l’utilisateur sera informé de la possibilité d’obtenir un certificat.
+  de: Wenn die Abschlussrate einer Sitzung diesen Schwellenwert überschreitet, wird der Benutzer über die Möglichkeit informiert, ein Zertifikat zu erhalten.
+  it: Dopo che il tasso di completamento di una sessione supera questa soglia, l’utente verrà informato della possibilità di ottenere un certificato.
+  es: Una vez que la tasa de finalización de una sesión supere este umbral, se informará al usuario sobre la posibilidad de obtener un certificado.
+  pt: Após a taxa de conclusão de uma sessão ultrapassar este limite, o utilizador será informado da possibilidade de obter um certificado.
+  pl: Gdy wskaźnik ukończenia sesji przekroczy ten próg, użytkownik zostanie poinformowany o możliwości uzyskania certyfikatu.
+  fi: Kun istunnon suoritusaste ylittää tämän kynnyksen, käyttäjälle ilmoitetaan mahdollisuudesta saada todistus.
+  hr: Nakon što stopa završetka sesije premaši ovu granicu, korisnik će biti obaviješten o mogućnosti stjecanja certifikata.
+  cs: Po překročení této hodnoty dokončení relace bude uživatel informován o možnosti získání certifikátu.
+  da: Når gennemførelsesgraden for en session overstiger denne grænse, informeres brugeren om muligheden for at opnå et certifikat.
+  mt: Wara li r-rata ta’ tlestija tas-sessjoni tkun ogħla minn dan il-limitu, l-utent jiġi informat dwar il-possibbiltà li jikseb ċertifikat.
+  sl: Ko stopnja dokončanja seje preseže ta prag, bo uporabnik obveščen o možnosti pridobitve potrdila.
+  bg: След като процентът на завършване на сесията надвиши този праг, потребителят ще бъде информиран за възможността да получи сертификат.
+  ro: După ce rata de finalizare a unei sesiuni depășește acest prag, utilizatorul va fi informat despre posibilitatea de a obține un certificat.
+  et: Kui seansi lõpetamise määr ületab selle piiri, teavitatakse kasutajat võimalusest saada tunnistus.
+  lv: Kad sesijas pabeigšanas rādītājs pārsniedz šo slieksni, lietotājs tiks informēts par iespēju iegūt sertifikātu.
+  lt: Kai sesijos užbaigimo rodiklis viršija šią ribą, vartotojas bus informuotas apie galimybę gauti pažymėjimą.
+  sv: När en sessions slutförandegrad överstiger denna gräns, informeras användaren om möjligheten att erhålla ett certifikat.
+  sk: Keď miera dokončenia relácie presiahne túto hranicu, používateľ bude informovaný o možnosti získať certifikát.
+  hu: Ha az ülés teljesítési aránya meghaladja ezt a küszöbértéket, a felhasználó tájékoztatást kap a tanúsítvány megszerzésének lehetőségéről.
+  el: Όταν το ποσοστό ολοκλήρωσης μιας συνεδρίας υπερβαίνει αυτό το όριο, ο χρήστης θα ενημερωθεί για τη δυνατότητα απόκτησης πιστοποιητικού.
+  ga: Nuair a sháraíonn ráta críochnaithe seisiúin an tairseach seo, cuirfear an t-úsáideoir ar an eolas faoi fhéidearthacht teastas a ghnóthú.
+  he: לאחר ששיעור ההשלמה של ההפעלה יעלה על סף זה, המשתמש יקבל הודעה על האפשרות לקבל תעודה.
+
+label_certificate_completion_threshold:
+  en: Certificate completion threshold
+  nl: Drempelwaarde voor voltooiing certificaat
+  fr: Seuil de validation du certificat
+  de: Abschlussschwelle für Zertifikat
+  it: Soglia di completamento per il certificato
+  es: Umbral de finalización del certificado
+  pt: Limite de conclusão do certificado
+  pl: Próg ukończenia certyfikatu
+  fi: Sertifikaatin valmistumiskynnys
+  hr: Prag završetka za certifikat
+  cs: Prahová hodnota pro dokončení certifikátu
+  da: Fuldførelsesgrænse for certifikat
+  mt: Limitu ta’ tlestija taċ-ċertifikat
+  sl: Prag za pridobitev potrdila
+  bg: Праг за завършване на сертификат
+  ro: Prag de finalizare a certificatului
+  et: Sertifikaadi lõpetamise künnis
+  lv: Sertifikāta pabeigšanas slieksnis
+  lt: Sertifikato užbaigimo slenkstis
+  sv: Sluttröskel för certifikat
+  sk: Hranica dokončenia certifikátu
+  hu: Tanúsítvány teljesítési küszöbértéke
+  el: Όριο ολοκλήρωσης για το πιστοποιητικό
+  ga: Tairseach chríochnaithe an deimhnithe
+  he: סף להשלמת התעודה
+
+label_certificate_initial_threshold:
+  en: Certificate initial threshold
+  nl: Initiële drempelwaarde voor certificaat
+  fr: Seuil initial pour le certificat
+  de: Anfangsschwelle für Zertifikat
+  it: Soglia iniziale per il certificato
+  es: Umbral inicial del certificado
+  pt: Limite inicial do certificado
+  pl: Początkowy próg dla certyfikatu
+  fi: Sertifikaatin alkukynnys
+  hr: Početni prag za certifikat
+  cs: Počáteční práh pro certifikát
+  da: Startgrænse for certifikat
+  mt: Limitu inizjali taċ-ċertifikat
+  sl: Začetni prag za potrdilo
+  bg: Начален праг за сертификат
+  ro: Pragul inițial pentru certificat
+  et: Tunnistuse alglävi
+  lv: Sākotnējais slieksnis sertifikātam
+  lt: Pradinis sertifikato slenkstis
+  sv: Inledande tröskel för certifikat
+  sk: Počiatočný prah pre certifikát
+  hu: Tanúsítvány kezdeti küszöbértéke
+  el: Αρχικό όριο για το πιστοποιητικό
+  ga: Tairseach tosaigh an deimhnithe
+  he: סף ראשוני לתעודה
+
 message_help_allow_certificates:
   en: If this option is activated, certificates can be enabled on OiRA tools in this country.
   nl: Als deze optie is ingeschakeld, kunnen certificaten worden geactiveerd voor OiRA-tools in dit land.
