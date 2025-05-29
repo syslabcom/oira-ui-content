@@ -1,3 +1,489 @@
+label_information_section:
+  en: Information section
+  nl: Informatiesectie
+  fr: Section d’information
+  de: Informationsabschnitt
+  it: Sezione informativa
+  es: Sección de información
+  pt: Secção de informação
+  pl: Sekcja informacyjna
+  fi: Tieto-osio
+  hr: Informativni odjeljak
+  cs: Informační sekce
+  da: Informationssektion
+  mt: Taqsima taʼ informazzjoni
+  sl: Informacijski razdelek
+  bg: Информационен раздел
+  ro: Secțiunea de informații
+  et: Infosektsioon
+  lv: Informācijas sadaļa
+  lt: Informacijos skiltis
+  sv: Informationsavsnitt
+  sk: Informačná sekcia
+  hu: Információs szakasz
+  el: Ενότητα πληροφοριών
+  ga: Rannóg eolais
+  he: מקטע מידע
+
+message_help_available_reports:
+  en: Select which types of reports will be made available to users.
+  nl: Selecteer welke rapporttypen beschikbaar gesteld worden aan de gebruikers.
+  fr: Sélectionnez quels types de rapports seront mis à la disposition des utilisateurs.
+  de: Wählen Sie aus, welche Berichtstypen den Nutzern zur Verfügung gestellt werden.
+  it: Seleziona quali tipi di report saranno messi a disposizione degli utenti.
+  es: Selecciona qué tipos de informes estarán disponibles para los usuarios.
+  pt: Selecione quais tipos de relatórios estarão disponíveis para os utilizadores.
+  pl: Wybierz, które typy raportów będą dostępne dla użytkowników.
+  fi: Valitse, mitkä raporttityypit tarjotaan käyttäjille.
+  hr: Odaberite koje vrste izvješća će biti dostupne korisnicima.
+  cs: Vyberte, které typy zpráv budou uživatelům zpřístupněny.
+  da: Vælg hvilke rapporttyper der skal være tilgængelige for brugerne.
+  mt: Agħżel liema tipi taʼ rapporti se jkunu disponibbli għall-utenti.
+  sl: Izberite, katere vrste poročil bodo na voljo uporabnikom.
+  bg: Изберете какви видове отчети ще бъдат достъпни за потребителите.
+  ro: Selectați ce tipuri de rapoarte vor fi disponibile pentru utilizatori.
+  et: Vali, millised aruannetüübid tehakse kasutajatele kättesaadavaks.
+  lv: Izvēlies, kuri pārskatu veidi būs pieejami lietotājiem.
+  lt: Pasirinkite, kokie ataskaitų tipai bus prieinami naudotojams.
+  sv: Välj vilka rapporttyper som ska göras tillgängliga för användarna.
+  sk: Vyberte, ktoré typy správ budú k dispozícii používateľom.
+  hu: Válassza ki, hogy milyen jelentéstípusok legyenek elérhetők a felhasználók számára.
+  el: Επιλέξτε ποιοι τύποι αναφορών θα είναι διαθέσιμοι στους χρήστες.
+  ga: Roghnaigh cé na cineálacha tuarascálacha a chuirfear ar fáil d’úsáideoirí.
+  he: בחר אילו סוגי דוחות יהיו זמינים למשתמשים.
+
+message_help_compact_report_options:
+  en: Select which optional elements are used in the compact report.
+  nl: Selecteer welke optionele elementen worden opgenomen in het compacte rapport.
+  fr: Sélectionnez quels éléments optionnels sont inclus dans le rapport compact.
+  de: Wählen Sie aus, welche optionalen Elemente im kompakten Bericht verwendet werden.
+  it: Seleziona quali elementi opzionali includere nel rapporto compatto.
+  es: Selecciona qué elementos opcionales se incluirán en el informe compacto.
+  pt: Selecione quais elementos opcionais são utilizados no relatório compacto.
+  pl: Wybierz, które opcjonalne elementy mają być uwzględnione w skróconym raporcie.
+  fi: Valitse, mitkä valinnaiset osat sisällytetään tiivistettyyn raporttiin.
+  hr: Odaberite koji će se opcionalni elementi koristiti u sažetom izvješću.
+  cs: Vyberte, které volitelné prvky budou použity ve zkrácené zprávě.
+  da: Vælg hvilke valgfrie elementer der skal medtages i den kompakte rapport.
+  mt: Agħżel liema elementi fakultattivi jiġu inklużi fir-rapport kompatt.
+  sl: Izberite, kateri izbirni elementi bodo vključeni v strnjeno poročilo.
+  bg: Изберете кои незадължителни елементи да бъдат включени в съкратения доклад.
+  ro: Selectați care elemente opționale vor fi utilizate în raportul compact.
+  et: Vali, millised valikulised elemendid kaasatakse lühiraportisse.
+  lv: Izvēlies, kuri papildu elementi tiks iekļauti kompaktajā ziņojumā.
+  lt: Pasirinkite, kurie pasirinktiniai elementai bus naudojami glaustame pranešime.
+  sv: Välj vilka valfria delar som ska användas i den kompakta rapporten.
+  sk: Vyberte, ktoré voliteľné prvky budú použité v skrátenej správe.
+  hu: Válassza ki, mely választható elemek szerepeljenek a tömör jelentésben.
+  el: Επιλέξτε ποια προαιρετικά στοιχεία θα συμπεριληφθούν στην συνοπτική αναφορά.
+  ga: Roghnaigh cé na heilimintí roghnacha a úsáidfear sa tuarascáil chomhdhlúite.
+  he: בחר אילו רכיבים אופציונליים ייכללו בדוח המקוצר.
+
+label_include_legal_and_policy_references:
+  nl: Juridische en beleidsverwijzingen opnemen
+  en: Include legal and policy references
+  bg: Включете правни и политически препратки
+  cs: Zahrnout právní a politické odkazy
+  da: Medtag juridiske og politiske referencer
+  de: Rechtliche und politische Verweise einbeziehen
+  el: Συμπερίληψη νομικών και πολιτικών αναφορών
+  es: Incluir referencias legales y de políticas
+  et: Kaasa õiguslikud ja poliitilised viited
+  fi: Sisällytä oikeudelliset ja poliittiset viittaukset
+  fr: Inclure les références juridiques et politiques
+  ga: Cuir tagairtí dlíthiúla agus beartais san áireamh
+  hr: Uključi pravne i političke reference
+  hu: Jogi és szakpolitikai hivatkozások beillesztése
+  it: Includi riferimenti legali e politici
+  lt: Įtraukti teisines ir politikos nuorodas
+  lv: Iekļaut juridiskās un politikas atsauces
+  mt: Inkludi referenzi legali u ta’ politika
+  pl: Uwzględnij odniesienia prawne i polityczne
+  pt: Incluir referências legais e de políticas
+  ro: Includeți referințe legale și de politici
+  sk: Zahrnúť právne a politické odkazy
+  sl: Vključi pravne in politične reference
+  sv: Inkludera juridiska och politiska referenser
+  he: כלול הפניות משפטיות ומדיניות
+
+label_include_responsible_person_and_date:
+  nl: Verantwoordelijke persoon en datum opnemen
+  en: Include responsible person and date
+  bg: Включете отговорното лице и датата
+  cs: Zahrnout odpovědnou osobu a datum
+  da: Medtag ansvarlig person og dato
+  de: Verantwortliche Person und Datum einbeziehen
+  el: Συμπερίληψη υπεύθυνου ατόμου και ημερομηνίας
+  es: Incluir persona responsable y fecha
+  et: Kaasa vastutav isik ja kuupäev
+  fi: Sisällytä vastuuhenkilö ja päivämäärä
+  fr: Inclure la personne responsable et la date
+  ga: Cuir an duine freagrach agus an dáta san áireamh
+  hr: Uključi odgovornu osobu i datum
+  hu: Felelős személy és dátum beillesztése
+  it: Includi persona responsabile e data
+  lt: Įtraukti atsakingą asmenį ir datą
+  lv: Iekļaut atbildīgo personu un datumu
+  mt: Inkludi persuna responsabbli u data
+  pl: Uwzględnij osobę odpowiedzialną i datę
+  pt: Incluir pessoa responsável e data
+  ro: Includeți persoana responsabilă și data
+  sk: Zahrnúť zodpovednú osobu a dátum
+  sl: Vključi odgovorno osebo in datum
+  sv: Inkludera ansvarig person och datum
+  he: כלול אדם אחראי ותאריך
+
+label_include_measures:
+  nl: Maatregelen opnemen
+  en: Include measures
+  bg: Включете мерки
+  cs: Zahrnout opatření
+  da: Medtag foranstaltninger
+  de: Maßnahmen einbeziehen
+  el: Συμπερίληψη μέτρων
+  es: Incluir medidas
+  et: Kaasa meetmed
+  fi: Sisällytä toimenpiteet
+  fr: Inclure les mesures
+  ga: Cuir bearta san áireamh
+  hr: Uključi mjere
+  hu: Intézkedések beillesztése
+  it: Includi misure
+  lt: Įtraukti priemones
+  lv: Iekļaut pasākumus
+  mt: Inkludi miżuri
+  pl: Uwzględnij środki
+  pt: Incluir medidas
+  ro: Includeți măsurile
+  sk: Zahrnúť opatrenia
+  sl: Vključi ukrepe
+  sv: Inkludera åtgärder
+  he: כלול אמצעים
+
+label_include_notes:
+  nl: Notities opnemen
+  en: Include notes
+  bg: Включете бележки
+  cs: Zahrnout poznámky
+  da: Medtag noter
+  de: Notizen einbeziehen
+  el: Συμπερίληψη σημειώσεων
+  es: Incluir notas
+  et: Kaasa märkused
+  fi: Sisällytä muistiinpanot
+  fr: Inclure les notes
+  ga: Cuir nótaí san áireamh
+  hr: Uključi bilješke
+  hu: Jegyzetek beillesztése
+  it: Includi note
+  lt: Įtraukti pastabas
+  lv: Iekļaut piezīmes
+  mt: Inkludi noti
+  pl: Uwzględnij notatki
+  pt: Incluir notas
+  ro: Includeți notițele
+  sk: Zahrnúť poznámky
+  sl: Vključi opombe
+  sv: Inkludera anteckningar
+  he: כלול הערות
+
+label_include_risk_descriptions:
+  nl: Risicobeschrijvingen opnemen
+  en: Include risk descriptions
+  bg: Включете описания на рисковете
+  cs: Zahrnout popisy rizik
+  da: Medtag risikobeskrivelser
+  de: Risikobeschreibungen einbeziehen
+  el: Συμπερίληψη περιγραφών κινδύνων
+  es: Incluir descripciones de riesgos
+  et: Kaasa riskikirjeldused
+  fi: Sisällytä riskikuvaukset
+  fr: Inclure les descriptions des risques
+  ga: Cuir tuairiscí riosca san áireamh
+  hr: Uključi opise rizika
+  hu: Kockázatleírások beillesztése
+  it: Includi descrizioni dei rischi
+  lt: Įtraukti rizikų aprašymus
+  lv: Iekļaut risku aprakstus
+  mt: Inkludi deskrizzjonijiet tar-riskju
+  pl: Uwzględnij opisy ryzyka
+  pt: Incluir descrições de riscos
+  ro: Includeți descrierile riscurilor
+  sk: Zahrnúť opisy rizík
+  sl: Vključi opise tveganj
+  sv: Inkludera riskbeskrivningar
+  he: כלול תיאורי סיכונים
+
+label_compact_report_options:
+  nl: Opties compact rapport
+  en: Compact report options
+  bg: Опции за компактен доклад
+  cs: Možnosti kompaktní zprávy
+  da: Indstillinger for kompakt rapport
+  de: Optionen für kompakten Bericht
+  el: Επιλογές συμπαγούς αναφοράς
+  es: Opciones de informe compacto
+  et: Kompaktaruande valikud
+  fi: Tiivis raportin asetukset
+  fr: Options du rapport compact
+  ga: Roghanna tuairisce chomhbhrúite
+  hr: Opcije kompaktnog izvješća
+  hu: Kompakt jelentés beállításai
+  it: Opzioni rapporto compatto
+  lt: Kompaktiškos ataskaitos parinktys
+  lv: Kompaktā ziņojuma opcijas
+  mt: Għażliet tar-rapport kompatt
+  pl: Opcje raportu kompaktowego
+  pt: Opções de relatório compacto
+  ro: Opțiuni raport compactat
+  sk: Možnosti kompaktného výkazu
+  sl: Možnosti kompaktnega poročila
+  sv: Alternativ för kompakt rapport
+  he: אפשרויות דוח קומפקטי
+
+label_compact_report:
+  nl: Compact rapport
+  en: Compact report
+  bg: Компактен доклад
+  cs: Kompaktní zpráva
+  da: Kompakt rapport
+  de: Kompakter Bericht
+  el: Συμπαγής αναφορά
+  es: Informe compacto
+  et: Kompaktne aruanne
+  fi: Tiivis raportti
+  fr: Rapport compact
+  ga: Tuarascáil chomhbhrúite
+  hr: Kompaktno izvješće
+  hu: Kompakt jelentés
+  it: Rapporto compatto
+  lt: Kompaktiška ataskaita
+  lv: Kompakts ziņojums
+  mt: Rapport kompatt
+  pl: Raport kompaktowy
+  pt: Relatório compacto
+  ro: Raport compactat
+  sk: Kompaktná správa
+  sl: Kompaktno poročilo
+  sv: Kompakt rapport
+  he: דוח קומפקטי
+
+label_full_report:
+  nl: Volledig rapport
+  en: Full report
+  bg: Пълен доклад
+  cs: Plná zpráva
+  da: Fuld rapport
+  de: Vollständiger Bericht
+  el: Πλήρης αναφορά
+  es: Informe completo
+  et: Täielik aruanne
+  fi: Täysi raportti
+  fr: Rapport complet
+  ga: Tuarascáil iomlán
+  hr: Cjelovito izvješće
+  hu: Teljes jelentés
+  it: Rapporto completo
+  lt: Pilna ataskaita
+  lv: Pilns ziņojums
+  mt: Rapport sħiħ
+  pl: Pełny raport
+  pt: Relatório completo
+  ro: Raport completat
+  sk: Plná správa
+  sl: Celotno poročilo
+  sv: Fullständig rapport
+  he: דוח מלא
+
+label_action_plan:
+  nl: Actieplan
+  en: Action plan
+  bg: План за действие
+  cs: Akční plán
+  da: Handlingsplan
+  de: Aktionsplan
+  el: Σχέδιο δράσης
+  es: Plan de acción
+  et: Tegevusplaan
+  fi: Toimintasuunnitelma
+  fr: Plan d'action
+  ga: Plean gníomhaíochta
+  hr: Akcijski plan
+  hu: Akcióterv
+  it: Piano d'azione
+  lt: Veiksmų planas
+  lv: Rīcības plāns
+  mt: Pjan ta' azzjoni
+  pl: Plan działania
+  pt: Plano de ação
+  ro: Plan de acțiune
+  sk: Akčný plán
+  sl: Načrt ukrepanja
+  sv: Handlingsplan
+  he: תכנית פעולה
+
+label_overview_of_risks:
+  nl: Overzicht van risico's
+  en: Overview of risks
+  bg: Преглед на рисковете
+  cs: Přehled rizik
+  da: Oversigt over risici
+  de: Übersicht über Risiken
+  el: Επισκόπηση κινδύνων
+  es: Resumen de riesgos
+  et: Riskide ülevaade
+  fi: Riskien yleiskatsaus
+  fr: Vue d'ensemble des risques
+  ga: Forbhreathnú ar rioscaí
+  hr: Pregled rizika
+  hu: Kockázatok áttekintése
+  it: Panoramica dei rischi
+  lt: Rizikų apžvalga
+  lv: Risku pārskats
+  mt: Għarfien tar-riskji
+  pl: Przegląd ryzyk
+  pt: Visão geral dos riscos
+  ro: Prezentare generală a riscurilor
+  sk: Prehľad rizík
+  sl: Pregled tveganj
+  sv: Översikt över risker
+  he: סקירה של סיכונים
+
+label_overview_of_measures: 
+  nl: Overzicht van maatregelen
+  en: Overview of measures
+  bg: Преглед на мерките
+  cs: Přehled opatření
+  da: Oversigt over foranstaltninger
+  de: Übersicht über Maßnahmen
+  el: Επισκόπηση μέτρων
+  es: Resumen de medidas
+  et: Meetmete ülevaade
+  fi: Toimenpiteiden yleiskatsaus
+  fr: Vue d'ensemble des mesures
+  ga: Forbhreathnú ar beartaí
+  hr: Pregled mjera
+  hu: Intézkedések áttekintése
+  it: Panoramica delle misure
+  lt: Priemonių apžvalga
+  lv: Pasākumu pārskats
+  mt: Għarfien tal-miżuri
+  pl: Przegląd środków zaradczych
+  pt: Visão geral das medidas
+  ro: Prezentare generală a măsurilor
+  sk: Prehľad opatrení
+  sl: Pregled ukrepov
+  sv: Översikt över åtgärder
+  he: סקירה של אמצעים
+
+label_available_reports:
+  nl: Beschikbare rapporten
+  en: Available reports
+  bg: Налични доклади
+  cs: Dostupné zprávy
+  da: Tilgængelige rapporter
+  de: Verfügbare Berichte
+  el: Διαθέσιμες αναφορές
+  es: Informes disponibles
+  et: Saadaolevad aruanded
+  fi: Saatavilla olevat raportit
+  fr: Rapports disponibles
+  ga: Tuairiscí ar fáil
+  hr: Dostupna izvješća
+  hu: Elérhető jelentések
+  it: Rapporti disponibili
+  lt: Galimos ataskaitos
+  lv: Pieejamie ziņojumi
+  mt: Rapporti disponibbli
+  pl: Dostępne raporty
+  pt: Relatórios disponíveis
+  ro: Rapoarte disponibile
+  sk: Dostupné správy
+  sl: Razpoložljiva poročila
+  sv: Tillgängliga rapporter
+  he: דוחות זמינים
+
+message_help_force_open_sections:
+  en: Indicate whether and which sections should be open by default. Research shows that users are more likely to complete a risk assessment promptly when sections are initially closed. Users tend to open the parts they need themselves. When a user opens or closes a section, this preference is saved locally in the browser. This way, the application automatically adapts to the user’s behaviour.
+  nl: Geef aan of en welke secties bij aanvang geopend moeten zijn. Uit onderzoek blijkt dat gebruikers eerder geneigd zijn een risicoanalyse spoedig te voltooien wanneer de secties aanvankelijk gesloten zijn. Gebruikers openen doorgaans zelf de onderdelen die zij op dat moment nodig hebben. Wanneer een gebruiker een sectie opent of sluit, wordt deze voorkeur lokaal in de browser opgeslagen. Zo past het gedrag van de applicatie zich automatisch aan de gebruikswijze van de individuele gebruiker aan.
+  fr: Indiquez si et quelles sections doivent être ouvertes par défaut. Des recherches montrent que les utilisateurs sont plus enclins à finaliser une évaluation des risques lorsque les sections sont initialement fermées. Les utilisateurs ouvrent généralement eux-mêmes les parties dont ils ont besoin. Lorsqu’un utilisateur ouvre ou ferme une section, cette préférence est enregistrée localement dans le navigateur. L’application s’adapte ainsi automatiquement à la manière d’utiliser de chaque utilisateur.
+  de: Geben Sie an, ob und welche Abschnitte zu Beginn geöffnet sein sollen. Untersuchungen zeigen, dass Benutzer eine Gefährdungsbeurteilung eher abschließen, wenn die Abschnitte zunächst geschlossen sind. Nutzer öffnen in der Regel die Abschnitte, die sie benötigen, selbst. Wenn ein Benutzer einen Abschnitt öffnet oder schließt, wird diese Präferenz lokal im Browser gespeichert. So passt sich die Anwendung automatisch dem Verhalten des einzelnen Nutzers an.
+  it: Indica se e quali sezioni devono essere aperte all'avvio. Le ricerche dimostrano che gli utenti sono più propensi a completare una valutazione dei rischi se le sezioni sono inizialmente chiuse. Gli utenti tendono ad aprire autonomamente le sezioni di cui hanno bisogno. Quando un utente apre o chiude una sezione, questa preferenza viene salvata localmente nel browser. In questo modo, l’applicazione si adatta automaticamente al comportamento dell’utente.
+  es: Indica si y qué secciones deben estar abiertas al iniciar. Las investigaciones muestran que los usuarios son más propensos a completar una evaluación de riesgos si las secciones están inicialmente cerradas. Normalmente los usuarios abren por sí mismos las partes que necesitan. Cuando un usuario abre o cierra una sección, esta preferencia se guarda localmente en el navegador. Así, la aplicación se adapta automáticamente al comportamiento del usuario.
+  pt: Indique se e quais secções devem estar abertas no início. Estudos mostram que os utilizadores têm maior probabilidade de concluir uma avaliação de riscos quando as secções estão inicialmente fechadas. Os utilizadores tendem a abrir por si mesmos as partes de que necessitam. Quando um utilizador abre ou fecha uma secção, essa preferência é guardada localmente no navegador. Assim, a aplicação adapta-se automaticamente ao comportamento do utilizador.
+  pl: Określ, czy i które sekcje powinny być otwarte na początku. Badania pokazują, że użytkownicy chętniej kończą ocenę ryzyka, gdy sekcje są początkowo zamknięte. Użytkownicy zwykle sami otwierają potrzebne im części. Gdy użytkownik otworzy lub zamknie sekcję, ta preferencja jest zapisywana lokalnie w przeglądarce. Aplikacja automatycznie dostosowuje się do sposobu korzystania przez użytkownika.
+  fi: Määritä, mitkä osiot tulisi avata oletusarvoisesti. Tutkimukset osoittavat, että käyttäjät todennäköisemmin suorittavat riskinarvioinnin loppuun, kun osiot ovat aluksi suljettuina. Käyttäjät avaavat yleensä itse tarvitsemansa osiot. Kun käyttäjä avaa tai sulkee osion, tämä asetus tallennetaan paikallisesti selaimeen. Näin sovellus mukautuu automaattisesti käyttäjän toimintaan.
+  hr: Odredite koje sekcije trebaju biti otvorene na početku. Istraživanja pokazuju da su korisnici skloniji dovršiti procjenu rizika kada su sekcije inicijalno zatvorene. Korisnici obično sami otvaraju dijelove koji su im potrebni. Kada korisnik otvori ili zatvori sekciju, ta se postavka lokalno sprema u pregledniku. Na taj način aplikacija se automatski prilagođava ponašanju korisnika.
+  cs: Určete, které sekce by měly být ve výchozím nastavení otevřené. Výzkumy ukazují, že uživatelé mají větší pravděpodobnost dokončení hodnocení rizik, když jsou sekce zpočátku zavřené. Uživatelé obvykle sami otevírají části, které potřebují. Když uživatel otevře nebo zavře sekci, tato preference se uloží lokálně v prohlížeči. Tímto způsobem se aplikace automaticky přizpůsobuje chování uživatele.
+  da: Angiv, om og hvilke sektioner der skal være åbne som standard. Forskning viser, at brugere er mere tilbøjelige til at fuldføre en risikovurdering, når sektionerne er lukkede fra starten. Brugere åbner normalt selv de dele, de har brug for. Når en bruger åbner eller lukker en sektion, gemmes denne præference lokalt i browseren. På denne måde tilpasser applikationen sig automatisk til brugerens adfærd.
+  mt: Indika jekk u liema sezzjonijiet għandhom ikunu miftuħa b’mod awtomatiku. Riċerka turi li l-utenti huma aktar probabbli li jlestu valutazzjoni tar-riskju meta s-sezzjonijiet ikunu inizjalment magħluqa. L-utenti għandhom it-tendenza li jiftħu huma stess il-partijiet li għandhom bżonn. Meta utent jiftaħ jew jagħlaq sezzjoni, din il-preferenza tinħażen lokalment fil-browser. B’dan il-mod, l-applikazzjoni tadatta awtomatikament għall-imġieba tal-utent.
+  sl: Določite, ali in katere sekcije naj bodo privzeto odprte. Raziskave kažejo, da uporabniki pogosteje dokončajo oceno tveganja, če so sekcije sprva zaprte. Uporabniki običajno sami odprejo dele, ki jih potrebujejo. Ko uporabnik odpre ali zapre sekcijo, se ta nastavitev shrani lokalno v brskalniku. Tako se aplikacija samodejno prilagodi uporabnikovemu vedenju.
+  bg: Посочете дали и кои секции трябва да бъдат отворени по подразбиране. Изследвания показват, че потребителите по-вероятно ще завършат оценката на риска, когато секциите са първоначално затворени. Потребителите обикновено сами отварят необходимите им части. Когато потребител отвори или затвори секция, това предпочитание се запазва локално в браузъра. По този начин приложението автоматично се адаптира към поведението на потребителя.
+  ro: Indicați dacă și care secțiuni ar trebui să fie deschise în mod implicit. Cercetările arată că utilizatorii sunt mai predispuși să finalizeze o evaluare a riscurilor atunci când secțiunile sunt inițial închise. Utilizatorii tind să deschidă singuri părțile de care au nevoie. Când un utilizator deschide sau închide o secțiune, această preferință este salvată local în browser. Astfel, aplicația se adaptează automat comportamentului utilizatorului.
+  et: Määrake, kas ja millised jaotised peaksid vaikimisi olema avatud. Uuringud näitavad, et kasutajad on tõenäolisemalt valmis riskihindamise lõpule viima, kui jaotised on algselt suletud. Kasutajad avavad tavaliselt ise vajalikud osad. Kui kasutaja avab või sulgeb jaotise, salvestatakse see eelistus lokaalselt brauseris. Nii kohandub rakendus automaatselt kasutaja käitumisega.
+  lv: Norādiet, vai un kuras sadaļas jābūt atvērtām pēc noklusējuma. Pētījumi liecina, ka lietotāji, visticamāk, pabeigs riska novērtējumu, ja sadaļas sākotnēji ir aizvērtas. Lietotāji parasti paši atver nepieciešamās daļas. Kad lietotājs atver vai aizver sadaļu, šī izvēle tiek lokāli saglabāta pārlūkprogrammā. Tādējādi lietotne automātiski pielāgojas lietotāja uzvedībai.
+  lt: Nurodykite, ar ir kurios skiltys turėtų būti atidarytos pagal numatytuosius nustatymus. Tyrimai rodo, kad vartotojai labiau linkę užbaigti rizikos vertinimą, kai skiltys iš pradžių yra uždarytos. Vartotojai paprastai patys atidaro reikiamas dalis. Kai vartotojas atidaro ar uždaro skiltį, ši nuostata išsaugoma vietoje naršyklėje. Taip programa automatiškai prisitaiko prie vartotojo elgesio.
+  sv: Ange om och vilka sektioner som ska vara öppna som standard. Forskning visar att användare är mer benägna att slutföra en riskbedömning när sektionerna initialt är stängda. Användare öppnar vanligtvis själva de delar de behöver. När en användare öppnar eller stänger en sektion sparas denna inställning lokalt i webbläsaren. På så sätt anpassar sig applikationen automatiskt till användarens beteende.
+  sk: Určite, či a ktoré sekcie by mali byť predvolene otvorené. Výskumy ukazujú, že používatelia sú viac naklonení dokončiť hodnotenie rizík, keď sú sekcie spočiatku zatvorené. Používatelia si zvyčajne sami otvárajú časti, ktoré potrebujú. Keď používateľ otvorí alebo zatvorí sekciu, táto preferencia sa uloží lokálne v prehliadači. Týmto spôsobom sa aplikácia automaticky prispôsobí správaniu používateľa.
+  hu: Adja meg, hogy mely szakaszok legyenek alapértelmezetten nyitva. Kutatások szerint a felhasználók nagyobb valószínűséggel fejezik be a kockázatértékelést, ha a szakaszok kezdetben zárva vannak. A felhasználók általában maguk nyitják meg a szükséges részeket. Amikor egy felhasználó megnyit vagy bezár egy szakaszt, ez a beállítás helyileg kerül mentésre a böngészőben. Így az alkalmazás automatikusan alkalmazkodik a felhasználó viselkedéséhez.
+  el: Υποδείξτε εάν και ποιες ενότητες πρέπει να είναι ανοιχτές από προεπιλογή. Έρευνες δείχνουν ότι οι χρήστες είναι πιο πιθανό να ολοκληρώσουν μια αξιολόγηση κινδύνου όταν οι ενότητες είναι αρχικά κλειστές. Οι χρήστες τείνουν να ανοίγουν μόνοι τους τα μέρη που χρειάζονται. Όταν ένας χρήστης ανοίγει ή κλείνει μια ενότητα, αυτή η προτίμηση αποθηκεύεται τοπικά στον περιηγητή. Με αυτόν τον τρόπο, η εφαρμογή προσαρμόζεται αυτόματα στη συμπεριφορά του χρήστη.
+  ga: Léirigh cé acu agus cé na rannóga ba chóir a bheith oscailte de réir réamhshocraithe. Léiríonn taighde go bhfuil seans níos mó ann go gcríochnóidh úsáideoirí measúnú riosca nuair a bhíonn na rannóga dúnta ar dtús. Is gnách do na húsáideoirí na codanna a theastaíonn uathu a oscailt iad féin. Nuair a osclaíonn nó a dhúnann úsáideoir rannóg, sábháiltear an rogha seo go háitiúil sa bhrabhsálaí. Ar an mbealach seo, oiriúnóidh an feidhmchlár go huathoibríoch do iompar an úsáideora.
+  he: ציין האם ואילו מקטעים צריכים להיות פתוחים כברירת מחדל. מחקרים מראים שמשתמשים נוטים יותר להשלים הערכת סיכונים כאשר המקטעים סגורים בתחילה. המשתמשים פותחים לרוב בעצמם את החלקים הדרושים להם. כאשר משתמש פותח או סוגר מקטע, העדפה זו נשמרת באופן מקומי בדפדפן. כך מתאימה האפליקציה את עצמה אוטומטית להרגלי השימוש של המשתמש.
+
+label_country_configuration:
+  bg: Конфигуриране на държава
+  cs: Nastavení země
+  da: Landekonfiguration
+  de: Länderkonfiguration
+  el: Διαμόρφωση χώρας
+  en: Country configuration
+  es: Configuración de país
+  et: Riigi seadistamine
+  fi: Maan asetukset
+  fr: Configuration du pays
+  ga: Cumraíocht tíre
+  hr: Konfiguracija zemlje
+  hu: Országbeállítás
+  it: Configurazione paese
+  lt: Šalies konfigūracija
+  lv: Valsts konfigurācija
+  mt: Konfigurazzjoni tal-pajjiż
+  nl: Landconfiguratie
+  pl: Konfiguracja kraju
+  pt: Configuração do país
+  ro: Configurare țară
+  sk: Konfigurácia krajiny
+  sl: Konfiguracija države
+  sv: Landskonfiguration
+  he: הגדרת מדינה
+
+label_force_open_sections:
+  bg: Принудително отваряне на секции
+  cs: Vynutit otevření sekcí
+  da: Tving sektioner åbne
+  de: Abschnitte zwangsweise öffnen
+  el: Εξαναγκασμένο άνοιγμα ενοτήτων
+  en: Force open sections
+  es: Forzar apertura de secciones
+  et: Ava sektsioonid sunniviisiliselt
+  fi: Pakota osiot auki
+  fr: Forcer l'ouverture des sections
+  ga: Foráil ar oscailt na rannóg
+  hr: Prisilno otvori odjeljke
+  hu: Szakaszok kényszerített megnyitása
+  it: Forza apertura sezioni
+  lt: Priverstinai atverti skyrius
+  lv: Piespiedu atvērt sadaļas
+  mt: Iftaħ is-sezzjonijiet bil-forza
+  nl: Secties geforceerd openen
+  pl: Wymuś otwarcie sekcji
+  pt: Forçar abertura de secções
+  ro: Forțează deschiderea secțiunilor
+  sk: Vynútiť otvorenie sekcií
+  sl: Prisilno odpri razdelke
+  sv: Tvinga öppna sektioner
+  he: פתיחת מקטעים בכפייה
+
 message_delete_sector:
   nl: U staat op het punt om deze sector en alle bijbehorende tools te verwijderen.
   en: You are about to delete this sector and all its associated tools.
