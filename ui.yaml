@@ -1,3 +1,30 @@
+label_message_warning_force_open:
+  en: Bear in mind that forcibly opening the information section may reduce the likelihood that users will notice the other sections and may also decrease the chances of them completing the risk assessment.
+  nl: Houd er rekening mee dat het geforceerd openen van de informatiesectie de kans verkleint dat gebruikers de andere secties opmerken, en ook de kans verkleint dat zij de risicoanalyse afronden.
+  fr: Gardez à l’esprit que forcer l’ouverture de la section d’information peut réduire la probabilité que les utilisateurs remarquent les autres sections et peut également diminuer les chances qu’ils terminent l’évaluation des risques.
+  de: Bedenken Sie, dass das erzwungene Öffnen des Informationsabschnitts die Wahrscheinlichkeit verringern kann, dass Benutzer die anderen Abschnitte bemerken, und auch die Wahrscheinlichkeit verringern kann, dass sie die Risikobewertung abschließen.
+  it: Tieni presente che l’apertura forzata della sezione informativa può ridurre la probabilità che gli utenti notino le altre sezioni e può anche diminuire la probabilità che completino la valutazione dei rischi.
+  es: Tenga en cuenta que forzar la apertura de la sección de información puede reducir la probabilidad de que los usuarios noten las demás secciones y también puede disminuir las probabilidades de que completen la evaluación de riesgos.
+  pt: Tenha em mente que forçar a abertura da secção de informação pode reduzir a probabilidade de os utilizadores notarem as outras secções e também pode diminuir as hipóteses de completarem a avaliação de riscos.
+  pl: Pamiętaj, że wymuszone otwarcie sekcji informacyjnej może zmniejszyć prawdopodobieństwo, że użytkownicy zauważą inne sekcje, a także może zmniejszyć szanse na ukończenie oceny ryzyka.
+  fi: Muista, että tietosivun pakotettu avaaminen voi vähentää todennäköisyyttä, että käyttäjät huomaavat muut osiot, ja se voi myös vähentää riskiarvion loppuun saattamisen todennäköisyyttä.
+  hr: Imajte na umu da prisilno otvaranje informativnog odjeljka može smanjiti vjerojatnost da korisnici primijete ostale odjeljke i također može smanjiti šanse da dovrše procjenu rizika.
+  cs: Mějte na paměti, že vynucené otevření informační sekce může snížit pravděpodobnost, že si uživatelé všimnou ostatních sekcí, a také může snížit šanci na dokončení hodnocení rizik.
+  da: Husk, at tvungen åbning af informationsafsnittet kan mindske sandsynligheden for, at brugerne bemærker de andre afsnit, og det kan også mindske chancen for, at de gennemfører risikovurderingen.
+  mt: Żomm f’moħħok li l-ftuħ sfurzat tat-taqsima tal-informazzjoni jistaʼ jnaqqas il-probabbiltà li l-utenti jinnotaw it-taqsimiet l-oħra u jistaʼ wkoll inaqqas iċ-ċansijiet li jlestu l-valutazzjoni tar-riskju.
+  sl: Ne pozabite, da lahko prisilno odpiranje informacijskega razdelka zmanjša verjetnost, da bodo uporabniki opazili druge razdelke, in tudi zmanjša možnost, da zaključijo oceno tveganja.
+  bg: Имайте предвид, че принудителното отваряне на информационния раздел може да намали вероятността потребителите да забележат останалите раздели, както и шансовете им да завършат оценката на риска.
+  ro: Rețineți că deschiderea forțată a secțiunii de informații poate reduce probabilitatea ca utilizatorii să observe celelalte secțiuni și poate, de asemenea, reduce șansele de a finaliza evaluarea riscurilor.
+  et: Pea meeles, et teabeosa sunniviisiline avamine võib vähendada tõenäosust, et kasutajad märkavad teisi sektsioone, ja võib samuti vähendada võimalust, et nad viivad riskihindamise lõpule.
+  lv: Ņemiet vērā, ka piespiedu informācijas sadaļas atvēršana var samazināt iespēju, ka lietotāji pamanīs citas sadaļas, kā arī samazināt iespēju, ka viņi pabeigs riska novērtējumu.
+  lt: Atminkite, kad priverstinis informacijos skyriaus atidarymas gali sumažinti tikimybę, kad naudotojai pastebės kitus skyrius, ir taip pat gali sumažinti tikimybę, kad jie baigs rizikos vertinimą.
+  sv: Tänk på att tvångsöppning av informationsavsnittet kan minska sannolikheten att användare märker de andra avsnitten och även minska sannolikheten att de slutför riskbedömningen.
+  sk: Majte na pamäti, že vynútené otvorenie informačnej sekcie môže znížiť pravdepodobnosť, že si používatelia všimnú ostatné sekcie, a tiež môže znížiť šancu na dokončenie hodnotenia rizík.
+  hu: Ne feledje, hogy ha az információs szakaszt kényszerítetten megnyitjuk, az csökkentheti annak valószínűségét, hogy a felhasználók észreveszik a többi részt, és ezzel együtt csökkenhet annak esélye is, hogy befejezik a kockázatértékelést.
+  el: Λάβετε υπόψη ότι το υποχρεωτικό άνοιγμα της ενότητας πληροφοριών ενδέχεται να μειώσει την πιθανότητα να παρατηρήσουν οι χρήστες τις άλλες ενότητες και να μειώσει τις πιθανότητες να ολοκληρώσουν την εκτίμηση κινδύνου.
+  ga: Coinnigh i gcuimhne go bhféadfadh sé go laghdódh oscailt éigeantach na rannóige faisnéise an seans go dtabharfaidh úsáideoirí faoi deara na rannóga eile agus an seans go gcríochnóidh siad an measúnú riosca.
+  he: יש לזכור כי פתיחה כפויה של מקטע המידע עשויה להפחית את הסיכוי שהמשתמשים ישימו לב לקטעים האחרים ואף תפחית את הסיכוי שישלימו את הערכת הסיכונים.
+  
 message_help_certificate_explanatory_sentence:
   en: A short explanation that is shown to the user after reaching the initial threshold. You can use this to point to an external website that provides more information.
   nl: Een korte uitleg die aan de gebruiker wordt getoond nadat de initiële drempel is bereikt. U kunt dit gebruiken om te verwijzen naar een externe website met meer informatie.
