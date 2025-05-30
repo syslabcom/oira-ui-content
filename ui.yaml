@@ -1,3 +1,57 @@
+label_create_new_version:
+  en: Create a new version
+  nl: Een nieuwe versie aanmaken
+  fr: Créer une nouvelle version
+  de: Neue Version erstellen
+  it: Crea nuova versione
+  es: Crear nueva versión
+  pt: Criar nova versão
+  pl: Utwórz nową wersję
+  fi: Luo uusi versio
+  hr: Stvori novu verziju
+  cs: Vytvořit novou verzi
+  da: Opret ny version
+  mt: Oħloq verżjoni ġdida
+  sl: Ustvari novo različico
+  bg: Създаване на нова версия
+  ro: Creare versiune nouă
+  et: Loo uus versioon
+  lv: Izveidot jaunu versiju
+  lt: Sukurti naują versiją
+  sv: Skapa ny version
+  sk: Vytvoriť novú verziu
+  hu: Új verzió létrehozása
+  el: Δημιουργία νέας έκδοσης
+  ga: Cruthaigh leagan nua
+  he: יצירת גרסה חדשה
+
+label_new_version: 
+  en: New version
+  nl: Nieuwe versie
+  fr: Nouvelle version
+  de: Neue Version
+  it: Nuova versione
+  es: Nueva versión
+  pt: Nova versão
+  pl: Nowa wersja
+  fi: Uusi versio
+  hr: Nova verzija
+  cs: Nová verze
+  da: Ny version
+  mt: Verżjoni ġdida
+  sl: Nova različica
+  bg: Нова версия
+  ro: Versiune nouă
+  et: Uus versioon
+  lv: Jauna versija
+  lt: Nauja versija
+  sv: Ny version
+  sk: Nová verzia
+  hu: Új verzió
+  el: Νέα έκδοση
+  ga: Leagan nua
+  he: גרסה חדשה
+
 label_message_warning_force_open:
   en: Bear in mind that forcibly opening the information section may reduce the likelihood that users will notice the other sections and may also decrease the chances of them completing the risk assessment.
   nl: Houd er rekening mee dat het geforceerd openen van de informatiesectie de kans verkleint dat gebruikers de andere secties opmerken, en ook de kans verkleint dat zij de risicoanalyse afronden.
