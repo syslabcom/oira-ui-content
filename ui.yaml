@@ -1,8 +1,116 @@
+message_update_oira_tool:
+  en: Are you sure you want to update the published OiRA Tool? This will update the published version with all your changes.
+  nl: Weet u zeker dat u het gepubliceerde OiRA-instrument wilt bijwerken? Dit zal de gepubliceerde versie bijwerken met al uw wijzigingen.
+  fr: Êtes-vous sûr de vouloir mettre à jour l’outil OiRA publié ? Cela mettra à jour la version publiée avec toutes vos modifications.
+  de: Sind Sie sicher, dass Sie das veröffentlichte OiRA-Tool aktualisieren möchten? Dadurch wird die veröffentlichte Version mit allen Änderungen aktualisiert.
+  it: Sei sicuro di voler aggiornare lo strumento OiRA pubblicato? Questo aggiornerà la versione pubblicata con tutte le tue modifiche.
+  es: ¿Está seguro de que desea actualizar la herramienta OiRA publicada? Esto actualizará la versión publicada con todos sus cambios.
+  pt: Tem a certeza de que pretende atualizar a ferramenta OiRA publicada? Isto irá atualizar a versão publicada com todas as suas alterações.
+  pl: Czy na pewno chcesz zaktualizować opublikowane narzędzie OiRA? Spowoduje to zaktualizowanie opublikowanej wersji wszystkimi zmianami.
+  fi: Haluatko varmasti päivittää julkaistun OiRA-työkalun? Tämä päivittää julkaistun version kaikilla tekemilläsi muutoksilla.
+  hr: Jeste li sigurni da želite ažurirati objavljeni OiRA alat? Ovo će ažurirati objavljenu verziju sa svim vašim izmjenama.
+  cs: Opravdu chcete aktualizovat zveřejněný nástroj OiRA? Tím aktualizujete zveřejněnou verzi o všechny vaše změny.
+  da: Er du sikker på, at du vil opdatere det offentliggjorte OiRA-værktøj? Dette opdaterer den offentliggjorte version med alle dine ændringer.
+  mt: Int żgur li trid taġġorna l-għodda OiRA ppubblikata? Dan jaġġorna l-verżjoni ppubblikata bl-bidliet kollha tiegħek.
+  sl: Ste prepričani, da želite posodobiti objavljeno orodje OiRA? S tem bo objavljena različica posodobljena z vsemi vašimi spremembami.
+  bg: Сигурни ли сте, че искате да актуализирате публикувания инструмент OiRA? Това ще актуализира публикуваната версия с всички ваши промени.
+  ro: Sunteți sigur că doriți să actualizați instrumentul OiRA publicat? Acest lucru va actualiza versiunea publicată cu toate modificările dumneavoastră.
+  et: Kas olete kindel, et soovite avaldatud OiRA-tööriista värskendada? See värskendab avaldatud versiooni kõigi teie muudatustega.
+  lv: Vai tiešām vēlaties atjaunināt publicēto OiRA rīku? Tas atjauninās publicēto versiju ar visām jūsu izmaiņām.
+  lt: Ar tikrai norite atnaujinti paskelbtą OiRA priemonę? Tai atnaujins paskelbtą versiją su visais jūsų pakeitimais.
+  sv: Är du säker på att du vill uppdatera det publicerade OiRA-verktyget? Detta uppdaterar den publicerade versionen med alla dina ändringar.
+  sk: Naozaj chcete aktualizovať zverejnený nástroj OiRA? Tým sa aktualizuje zverejnená verzia so všetkými vašimi zmenami.
+  hu: Biztosan frissíteni szeretnéd a közzétett OiRA eszközt? Ez frissíti a közzétett verziót az összes módosításoddal.
+  el: Είστε βέβαιοι ότι θέλετε να ενημερώσετε το δημοσιευμένο εργαλείο OiRA; Αυτό θα ενημερώσει την δημοσιευμένη έκδοση με όλες τις αλλαγές σας.
+  ga: An bhfuil tú cinnte gur mian leat an uirlis OiRA fhoilsithe a nuashonrú? Nuashonróidh sé seo an leagan foilsithe le do chuid athruithe ar fad.
+  he: האם אתה בטוח שברצונך לעדכן את כלי OiRA שפורסם? פעולה זו תעדכן את הגרסה שפורסמה עם כל השינויים שביצעת.
+
+label_change_configuration:
+  en: Change configuration
+  nl: Wijzig configuratie
+  fr: Modifier la configuration
+  de: Konfiguration ändern
+  it: Modifica configurazione
+  es: Cambiar configuración
+  pt: Alterar configuração
+  pl: Zmień konfigurację
+  fi: Muuta asetuksia
+  hr: Promijeni konfiguraciju
+  cs: Změnit nastavení
+  da: Skift konfiguration
+  mt: Ibdel il-konfigurazzjoni
+  sl: Spremeni konfiguracijo
+  bg: Промяна на конфигурацията
+  ro: Schimbare configurație
+  et: Muuda seadistusi
+  lv: Mainīt konfigurāciju
+  lt: Keisti konfigūraciją
+  sv: Ändra konfiguration
+  sk: Zmeniť nastavenia
+  hu: Konfiguráció módosítása
+  el: Αλλαγή διαμόρφωσης
+  ga: Athraigh cumraíocht
+  he: שינוי תצורה
+
+label_preview_selected_version:
+  en: Preview selected version
+  nl: Voorbeeld van geselecteerde versie
+  fr: Aperçu de la version sélectionnée
+  de: Vorschau der ausgewählten Version
+  it: Anteprima della versione selezionata
+  es: Vista previa de la versión seleccionada
+  pt: Pré-visualizar versão selecionada
+  pl: Podgląd wybranej wersji
+  fi: Esikatsele valittua versiota
+  hr: Pregled odabrane verzije
+  cs: Náhled vybrané verze
+  da: Forhåndsvisning af valgt version
+  mt: Previżjoni tal-verżjoni magħżula
+  sl: Predogled izbrane različice
+  bg: Преглед на избраната версия
+  ro: Previzualizare versiune selectată
+  et: Valitud versiooni eelvaade
+  lv: Izvēlētās versijas priekšskatījums
+  lt: Pasirinktos versijos peržiūra
+  sv: Förhandsgranska vald version
+  sk: Náhľad vybranej verzie
+  hu: Kiválasztott verzió előnézete
+  el: Προεπισκόπηση επιλεγμένης έκδοσης
+  ga: Réamhamharc ar leagan roghnaithe
+  he: תצוגה מקדימה של הגרסה שנבחרה
+
+label_update_published_version:
+  en: Update published version
+  nl: Gepubliceerde versie bijwerken
+  fr: Mettre à jour la version publiée
+  de: Veröffentlichten Version aktualisieren
+  it: Aggiorna versione pubblicata
+  es: Actualizar versión publicada
+  pt: Atualizar versão publicada
+  pl: Zaktualizuj opublikowaną wersję
+  fi: Päivitä julkaistu versio
+  hr: Ažuriraj objavljenu verziju
+  cs: Aktualizovat publikovanou verzi
+  da: Opdatér offentliggjort version
+  mt: Aġġorna verżjoni ppubblikata
+  sl: Posodobi objavljeno različico
+  bg: Актуализиране на публикуваната версия
+  ro: Actualizați versiunea publicată
+  et: Uuenda avaldatud versioon
+  lv: Atjaunināt publicēto versiju
+  lt: Atnaujinti paskelbtą versiją
+  sv: Uppdatera publicerad version
+  sk: Aktualizovať publikovanú verziu
+  hu: Frissítse a közzétett verziót
+  el: Ενημέρωση δημοσιευμένης έκδοσης
+  ga: Nuashonraigh leagan foilsithe
+  he: עדכון גרסה שפורסמה
+
 label_update_published_version_imp:
   en: Update published version
   nl: Werk gepubliceerde versie bij
   fr: Mettre à jour la version publiée
-  de: Veröffentlichten Stand aktualisieren
+  de: Veröffentlichten Version aktualisieren
   it: Aggiorna versione pubblicata
   es: Actualizar versión publicada
   pt: Atualizar versão publicada
