@@ -1,3 +1,57 @@
+label_update_published_version_imp:
+  en: Update published version
+  nl: Werk gepubliceerde versie bij
+  fr: Mettre à jour la version publiée
+  de: Veröffentlichten Stand aktualisieren
+  it: Aggiorna versione pubblicata
+  es: Actualizar versión publicada
+  pt: Atualizar versão publicada
+  pl: Zaktualizuj opublikowaną wersję
+  fi: Päivitä julkaistu versio
+  hr: Ažuriraj objavljenu verziju
+  cs: Aktualizovat publikovanou verzi
+  da: Opdatér offentliggjort version
+  mt: Aġġorna verżjoni ppubblikata
+  sl: Posodobi objavljeno različico
+  bg: Актуализиране на публикуваната версия
+  ro: Actualizați versiunea publicată
+  et: Uuenda avaldatud versioon
+  lv: Atjaunināt publicēto versiju
+  lt: Atnaujinti paskelbtą versiją
+  sv: Uppdatera publicerad version
+  sk: Aktualizovať publikovanú verziu
+  hu: Frissítse a közzétett verziót
+  el: Ενημέρωση δημοσιευμένης έκδοσης
+  ga: Nuashonraigh leagan foilsithe
+  he: עדכון גרסה שפורסמה
+
+label_base_for_version:
+  en: Base for version
+  nl: Basis voor versie
+  fr: Base pour la version
+  de: Basis für Version
+  it: Base per la versione
+  es: Base para la versión
+  pt: Base para a versão
+  pl: Podstawa dla wersji
+  fi: Perusta versiolle
+  hr: Osnova za verziju
+  cs: Základ pro verzi
+  da: Basis for version
+  mt: Bażi għall-verżjoni
+  sl: Osnova za različico
+  bg: База за версията
+  ro: Bază pentru versiune
+  et: Versiooni alus
+  lv: Bāze versijai
+  lt: Bazė versijai
+  sv: Bas för versionen
+  sk: Základ pre verziu
+  hu: Alap a verzióhoz
+  el: Βάση για την έκδοση
+  ga: Bunús leagan amach
+  he: בסיס לגרסה
+
 label_create_new_version:
   en: Create a new version
   nl: Een nieuwe versie aanmaken
