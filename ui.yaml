@@ -1,3 +1,219 @@
+label_simplified_two_critera:
+  en: Simplified, two criteria
+  nl: Vereenvoudigd, twee criteria
+  fr: Simplifié, deux critères
+  de: Vereinfacht, zwei Kriterien
+  it: Semplificato, due criteri
+  es: Simplificado, dos criterios
+  pt: Simplificado, dois critérios
+  pl: Uproszczony, dwa kryteria
+  fi: Yksinkertaistettu, kaksi kriteeriä
+  hr: Pojednostavljeno, dva kriterija
+  cs: Zjednodušené, dvě kritéria
+  da: Forenklet, to kriterier
+  mt: Semplifikat, żewġ kriterji
+  sl: Poenostavljeno, dva kriterija
+  bg: Опростен, два критерия
+  ro: Simplificat, două criterii
+  et: Lihtsustatud, kaks kriteeriumi
+  lv: Vienkāršots, divi kritēriji
+  lt: Supaprastintas, du kriterijai
+  sv: Förenklat, två kriterier
+  sk: Zjednodušené, dve kritériá
+  hu: Egyszerűsített, két kritérium
+  el: Απλοποιημένο, δύο κριτήρια
+  ga: Simplí, dhá chritéar
+  he: פשוט, שני קריטריונים
+
+label_standard_three_criteria:
+  en: Standard, three criteria
+  nl: Standaard, drie criterea
+  fr: Standard, trois critères
+  de: Standard, drei Kriterien
+  it: Standard, tre criteri
+  es: Estándar, tres criterios
+  pt: Padrão, três critérios
+  pl: Standard, trzy kryteria
+  fi: Vakio, kolme kriteeriä
+  hr: Standard, tri kriterija
+  cs: Standard, tři kritéria
+  da: Standard, tre kriterier
+  mt: Standard, tliet kriterji
+  sl: Standard, trije kriteriji
+  bg: Стандарт, три критерия
+  ro: Standard, trei criterii
+  et: Standard, kolm kriteeriumi
+  lv: Standarts, trīs kritēriji
+  lt: Standartas, trys kriterijai
+  sv: Standard, tre kriterier
+  sk: Štandard, tri kritériá
+  hu: Alapértelmezett, három kritérium
+  el: Πρότυπο, τρία κριτήρια
+  ga: Caighdeán, trí chritéar
+  he: סטנדרט, שלושה קריטריונים
+
+label_evaluation_algorithm:
+  en: Evaluation algorithm
+  nl: Evaluatie-algoritme
+  fr: Algorithme d'évaluation
+  de: Bewertungsalgorithmus
+  it: Algoritmo di valutazione
+  es: Algoritmo de evaluación
+  pt: Algoritmo de avaliação
+  pl: Algorytm oceny
+  fi: Arviointialgoritmi
+  hr: Algoritam procjene
+  cs: Algoritmus hodnocení
+  da: Evalueringsalgoritme
+  mt: Algoritmu tal-evalwazzjoni
+  sl: Algoritem ocenjevanja
+  bg: Алгоритъм за оценка
+  ro: Algoritm de evaluare
+  et: Hinnangualgoritm
+  lv: Novērtēšanas algoritms
+  lt: Vertinimo algoritmas
+  sv: Utvärderingsalgoritm
+  sk: Hodnotiaci algoritmus
+  hu: Értékelési algoritmus
+  el: Αλγόριθμος αξιολόγησης
+  ga: Algartam measúnachta
+  he: אלגוריתם הערכה
+
+label_revision:
+  en: Revision
+  nl: Revisie
+  fr: Révision
+  de: Revision
+  it: Revisione
+  es: Revisión
+  pt: Revisão
+  pl: Rewizja
+  fi: Tarkistus
+  hr: Revizija
+  cs: Revize
+  da: Revision
+  mt: Rivista
+  sl: Revizija
+  bg: Ревизия
+  ro: Revizie
+  et: Ülevaatus
+  lv: Pārskatīšana
+  lt: Peržiūra
+  sv: Revision
+  sk: Revízia
+  hu: Felülvizsgálat
+  el: Αναθεώρηση
+  ga: Athbhreithniú
+  he: גרסה
+
+label_start_from_scratch:
+  en: Start from scratch
+  nl: Nieuwe, lege tool
+  fr: Commencer à zéro
+  de: Von Grund auf neu beginnen
+  it: Iniziare da zero
+  es: Comenzar desde cero
+  pt: Começar do zero
+  pl: Zacznij od zera
+  fi: Aloita alusta
+  hr: Početi od nule
+  cs: Začít od začátku
+  da: Starte fra bunden
+  mt: Ibda minn xejn
+  sl: Začni iz ničesar
+  bg: Започнете от нулата
+  ro: Începe de la zero
+  et: Alusta nullist
+  lv: Sākt no nulles
+  lt: Pradėti nuo nulio
+  sv: Börja från början
+  sk: Začať od začiatku
+  hu: Kezdés a nulláról
+  el: Ξεκινήστε από την αρχή
+  ga: Tosaigh ó thús
+  he: להתחיל מאפס
+
+label_base_on_an_existing_tool:
+  en: Base on an existing tool
+  nl: Basis op een bestaand instrument
+  fr: Base sur un outil existant
+  de: Auf einem bestehenden Werkzeug basieren
+  it: Basato su uno strumento esistente
+  es: Basado en una herramienta existente
+  pt: Basear-se numa ferramenta existente
+  pl: Oparty na istniejącym narzędziu
+  fi: Perustuu olemassa olevaan työkaluun
+  hr: Temeljeno na postojećem alatu
+  cs: Založeno na existujícím nástroji
+  da: Baseret på et eksisterende værktøj
+  mt: Bbażi fuq għodda eżistenti
+  sl: Na podlagi obstoječega orodja
+  bg: Базирано на съществуващ инструмент
+  ro: Bazat pe un instrument existent
+  et: Põhineb olemasoleval tööriistal
+  lv: Balstīts uz esošu rīku
+  lt: Pagrįsta esamu įrankiu
+  sv: Baserat på ett befintligt verktyg
+  sk: Založené na existujúcom nástroji
+  hu: Egy meglévő eszközre építve
+  el: Βασισμένο σε υπάρχον εργαλείο
+  ga: Bunaithe ar uirlis atá ann cheana féin
+  he: מבוסס על כלי קיים
+
+label_starting_point:
+  en: Starting point
+  nl: Startpunt
+  fr: Point de départ
+  de: Ausgangspunkt
+  it: Punto di partenza
+  es: Punto de partida
+  pt: Ponto de partida
+  pl: Punkt wyjścia
+  fi: Lähtöpiste
+  hr: Polazišna točka
+  cs: Výchozí bod
+  da: Udgangspunkt
+  mt: Punt ta' tibdida
+  sl: Izhodišče
+  bg: Изходна точка
+  ro: Punct de plecare
+  et: Alguspunkt
+  lv: Sākumpunkts
+  lt: Pradžios taškas
+  sv: Utgångspunkt
+  sk: Východiskový bod
+  hu: Kiindulópont
+  el: Σημείο εκκίνησης
+  ga: Túsphointe
+  he: נקודת התחלה
+
+label_tool_to_use_as_a_base:
+  en: Tool to use as a base
+  nl: Instrument om als basis te gebruiken
+  fr: Outil à utiliser comme base
+  de: Werkzeug als Grundlage verwenden
+  it: Strumento da usare come base
+  es: Herramienta para usar como base
+  pt: Ferramenta para usar como base
+  pl: Narzędzie do użycia jako podstawa
+  fi: Työkalu, jota käytetään pohjana
+  hr: Alat za korištenje kao osnova
+  cs: Nástroj k použití jako základ
+  da: Værktøj at bruge som grundlag
+  mt: Għodda biex tintuża bħala bażi
+  sl: Orodje za uporabo kot osnova
+  bg: Инструмент за използване като основа
+  ro: Instrument de utilizat ca bază
+  et: Tööriist, mida kasutada alusena
+  lv: Rīks, ko izmantot kā pamatu
+  lt: Priemonė, kurią naudoti kaip pagrindą
+  sv: Verktyg att använda som grund
+  sk: Nástroj na použitie ako základ
+  hu: Eszköz, amely alapként szolgál
+  el: Εργαλείο για χρήση ως βάση
+  ga: Uirlis le húsáid mar bhunús
+  he: כלי לשימוש כבסיס
+
 message_update_oira_tool:
   en: Are you sure you want to update the published OiRA Tool? This will update the published version with all your changes.
   nl: Weet u zeker dat u het gepubliceerde OiRA-instrument wilt bijwerken? Dit zal de gepubliceerde versie bijwerken met al uw wijzigingen.
