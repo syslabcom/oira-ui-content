@@ -1,3 +1,30 @@
+label_module_solution_texts:
+  en: Module solution texts
+  nl: Oplossingen voor modules
+  fr: Textes de solution des modules
+  de: Modullösungen
+  it: Testi di soluzione del modulo
+  es: Textos de solución del módulo
+  pt: Textos de solução do módulo
+  pl: Teksty rozwiązań modułu
+  fi: Moduulin ratkaisutekstit
+  hr: Tekstovi rješenja modula
+  cs: Texty řešení modulu
+  da: Modul løsnings tekster
+  mt: Testi tas-soluzzjonijiet tal-modulu
+  sl: Besedila rešitev modula
+  bg: Текстове за решения на модула
+  ro: Texte de soluție pentru modul
+  et: Mooduli lahenduse tekstid
+  lv: Moduļa risinājuma teksti
+  lt: Modulio sprendimo tekstai
+  sv: Modulens lösningstexter
+  sk: Texty riešení modulu
+  hu: Modul megoldási szövegek
+  el: Κείμενα λύσεων ενότητας
+  ga: Téacsanna réitigh modúl
+  he: טקסטים של פתרונות מודול
+
 label_legal_and_policy_references:
   en: Legal and policy references
   nl: Juridische en beleidsverwijzingen
@@ -7396,11 +7423,69 @@ label_measure:
   'no': ''
   he: אמצע
 
+label_solutions:
+  en: Solutions
+  nl: Oplossingen
+  de: Lösungen
+  fr: Solutions
+  es: Soluciones
+  fi: Ratkaisut
+  hr: Rješenja
+  hu: Megoldások
+  it: Soluzioni
+  lt: Sprendimai
+  lv: Risinājumi
+  mt: Soluzzjonijiet
+  nl_BE: Oplossingen
+  'no': ''
+  pt: Soluções
+  sk: Riešenia
+  sl: Rešitve
+  label_solutions:
+  es: Soluciones
+  it: Soluzioni
+  pt: Soluções
+  sv: Lösningar
+  da: Løsninger
+  fi: Ratkaisut
+  hr: Rješenja
+  hu: Megoldások
+  lt: Sprendimai
+  lv: Risinājumi
+  mt: Soluzzjonijiet
+  nl_BE: Oplossingen
+  'no': Løsninger
+  sk: Riešenia
+  sl: Rešitve
+
 label_measures:
   en: Measures
   nl: Maatregelen
   de: Maßnahmen
   fr: Mesures
+  es: Medidas
+  it: Misure
+  pt: Medidas
+  sv: Åtgärder
+  da: Foranstaltninger
+  fi: Toimenpiteet
+  et: Meetmed
+  lv: Pasākumi
+  lt: Priemonės
+  mt: Miżuri
+  ga: Míreanna
+  el: Μέτρα
+  bg: Мерки
+  ro: Măsuri
+  hu: Intézkedések
+  cs: Opatření
+  sk: Opatrenia
+  sl: Ukrepi
+  hr: Mjere
+  pl: Środki
+  nl_BE: Maatregelen
+  he: אמצעים
+
 label_extra_add_measure:
   bg: Добави мерки
   ca: Afegir altres mesures
