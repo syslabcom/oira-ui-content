@@ -1,3 +1,192 @@
+label_legal_and_policy_references:
+  en: Legal and policy references
+  nl: Juridische en beleidsverwijzingen
+  fr: Références juridiques et politiques
+  de: Rechtliche und politische Verweise
+  it: Riferimenti legali e normativi
+  es: Referencias legales y políticas
+  pt: Referências legais e políticas
+  pl: Odniesienia prawne i polityczne
+  fi: Oikeudelliset ja poliittiset viittaukset
+  hr: Pravni i politički referenci
+  cs: Právní a politické odkazy
+  da: Juridiske og politiske referencer
+  mt: Referenzi legali u politiċi
+  sl: Pravni in politični sklici
+  bg: Правни и политически референции
+  ro: Referințe legale și politice
+  et: Õiguslikud ja poliitilised viidatud
+  lv: Juridiskie un politiskie atsauces
+  lt: Teisiniai ir politiniai nuorodos
+  sv: Juridiska och politiska referenser
+  sk: Právne a politické odkazy
+  hu: Jogi és politikai hivatkozások
+  el: Νομικές και πολιτικές αναφορές
+  ga: Tagairtí dlíthiúla agus polaitiúla
+  he: הפניות משפטיות ופוליטיות
+  
+label_export_etranslate_compatible_xml:
+  en: Export in eTranslate compatible XML
+  nl: Exporteer in eTranslate-compatibele XML
+  fr: Exporter au format XML compatible avec eTranslate
+  de: Im eTranslate-kompatiblen XML-Format exportieren
+  it: Esporta in XML compatibile con eTranslate
+  es: Exportar en XML compatible con eTranslate
+  pt: Exportar em XML compatível com eTranslate
+  pl: Eksportuj w formacie XML zgodnym z eTranslate
+  fi: Vie eTranslate-yhteensopivassa XML-muodossa
+  hr: Izvezi u eTranslate-kompatibilnom XML formatu
+  cs: Exportovat ve formátu XML kompatibilním s eTranslate
+  da: Eksportér i eTranslate-kompatibelt XML-format
+  mt: Esporta f'XML kompatibbli ma' eTranslate
+  sl: Izvozi v XML-ju, ki je združljiv z eTranslate
+  bg: Експортиране в XML, съвместим с eTranslate
+  ro: Exportați în XML compatibil cu eTranslate
+  et: Ekspordi eTranslate-iga ühilduvasse XML-i
+  lv: Eksportēt eTranslate saderīgā XML formātā
+  lt: Eksportuoti į XML, suderinamą su eTranslate
+  sv: Exportera i eTranslate-kompatibel XML
+  sk: Exportovať v eTranslate kompatibilnom XML formáte
+  hu: Exportálás eTranslate-kompatibilis XML-be
+  el: Εξαγωγή σε XML συμβατό με eTranslate
+  ga: Easpórtáil i XML atá comhoiriúnach le eTranslate
+  he: ייצוא ל-XML תואם eTranslate
+
+label_export_additional_plain_text_file:
+  en: Export additional plain text file
+  nl: Exporteer extra plattetekstbestand
+  fr: Exporter un fichier texte brut supplémentaire
+  de: Zusätzliche Nur-Text-Datei exportieren
+  it: Esporta file di testo semplice aggiuntivo
+  es: Exportar archivo de texto sin formato adicional
+  pt: Exportar arquivo de texto simples adicional
+  pl: Eksportuj dodatkowy plik tekstowy
+  fi: Vie lisätiedosto tavallisena tekstinä
+  hr: Izvezi dodatnu običnu tekstualnu datoteku
+  cs: Exportovat další prostý textový soubor
+  da: Eksportér yderligere almindelig tekstfil
+  mt: Esporta fajl ta' test sempliċi addizzjonali
+  sl: Izvozi dodatno navadno besedilno datoteko
+  bg: Експортиране на допълнителен обикновен текстов файл
+  ro: Exportați fișier text simplu suplimentar
+  et: Ekspordi täiendav lihttekstifail
+  lv: Eksportēt papildu vienkārša teksta failu
+  lt: Eksportuoti papildomą paprasto teksto failą
+  sv: Exportera ytterligare vanlig textfil
+  sk: Exportovať ďalší obyčajný textový súbor
+  hu: További egyszerű szövegfájl exportálása
+  el: Εξαγωγή πρόσθετου αρχείου απλού κειμένου
+  ga: Easpórtáil comhad téacs plean breise
+  he: ייצוא קובץ טקסט רגיל נוסף
+
+label_tool_summary:
+  en: Tool summary
+  nl: Samenvatting van de tool
+  fr: Résumé de l'outil
+  de: Zusammenfassung des Tools
+  it: Riepilogo dello strumento
+  es: Resumen de la herramienta
+  pt: Resumo da ferramenta
+  pl: Podsumowanie narzędzia
+  fi: Työkalun yhteenveto
+  hr: Sažetak alata
+  cs: Shrnutí nástroje
+  da: Værktøjsoversigt
+  mt: Sommarju tal-għodda
+  sl: Povzetek orodja
+  bg: Резюме на инструмента
+  ro: Rezumatul instrumentului
+  et: Tööriista kokkuvõte
+  lv: Rīka kopsavilkums
+  lt: Įrankio santrauka
+  sv: Verktygsöversikt
+  sk: Zhrnutie nástroja
+  hu: Eszköz összefoglaló
+  el: Περίληψη εργαλείου
+  ga: Achoimre an uirlis
+  he: סיכום הכלי
+
+label_module_summaries:
+  en: Module summaries
+  nl: Samenvattingen van modules
+  fr: Résumés des modules
+  de: Modulzusammenfassungen
+  it: Riepiloghi dei moduli
+  es: Resúmenes de módulos
+  pt: Resumos dos módulos
+  pl: Podsumowania modułów
+  fi: Moduulien yhteenvedot
+  hr: Sažeci modula
+  cs: Shrnutí modulů
+  da: Moduloversigter
+  mt: Sommarji tal-moduli
+  sl: Povzetki modulov
+  bg: Резюмета на модулите
+  ro: Rezumate ale modulelor
+  et: Moodulite kokkuvõtted
+  lv: Moduļu kopsavilkumi
+  lt: Modulių santraukos
+  sv: Modulöversikter
+  sk: Zhrnutia modulov
+  hu: Modul összefoglalók
+  el: Περίληψη ενοτήτων
+  ga: Achoimreacha modúl
+  he: סיכומי מודולים
+
+label_module_summary:
+  en: Module summary
+  nl: Samenvatting van de module
+  fr: Résumé du module
+  de: Modulzusammenfassung
+  it: Riepilogo del modulo
+  es: Resumen del módulo
+  pt: Resumo do módulo
+  pl: Podsumowanie modułu
+  fi: Moduulin yhteenveto
+  hr: Sažetak modula
+  cs: Shrnutí modulu
+  da: Moduloversigt
+  mt: Sommarju tal-modulu
+  sl: Povzetek modula
+  bg: Резюме на модула
+  ro: Rezumatul modulului
+  et: Mooduli kokkuvõte
+  lv: Moduļa kopsavilkums
+  lt: Modulio santrauka
+  sv: Modulöversikt
+  sk: Zhrnutie modulu
+  hu: Modul összefoglaló
+  el: Περίληψη ενότητας
+  ga: Achoimre an mhodúil
+  he: סיכום המודול
+
+label_included_items:
+  en: Included items
+  nl: Inbegrepen items
+  fr: Éléments inclus
+  de: Eingeschlossene Elemente
+  it: Elementi inclusi
+  es: Elementos incluidos
+  pt: Itens incluídos
+  pl: Elementy zawarte
+  fi: Mukana olevat kohteet
+  hr: Uključeni elementi
+  cs: Zahrnuté položky
+  da: Inkluderede elementer
+  mt: Elementi inklużi
+  sl: Vključeni elementi
+  bg: Включени елементи
+  ro: Elemente incluse
+  et: Kaasa arvatud elemendid
+  lv: Iekļautie vienumi
+  lt: Įtraukti elementai
+  sv: Inkluderade objekt
+  sk: Zahrnuté položky
+  hu: Tartalmazott elemek
+  el: Συμπεριλαμβανόμενα στοιχεία
+  ga: Rudaí san áireamh
+  he: פריטים כלולים
+
 label_export_for_translation:
   en: Export for translation
   nl: Exporteer voor vertaling
