@@ -1,3 +1,30 @@
+label_export_for_translation:
+  en: Export for translation
+  nl: Exporteer voor vertaling
+  fr: Exporter pour traduction
+  de: Exportieren für Übersetzung
+  it: Esporta per traduzione
+  es: Exportar para traducción
+  pt: Exportar para tradução
+  pl: Eksportuj do tłumaczenia
+  fi: Vie käännöstä varten
+  hr: Izvezi za prevođenje
+  cs: Exportovat pro překlad
+  da: Eksportér til oversættelse
+  mt: Esporta għall-traduzzjoni
+  sl: Izvozi za prevod
+  bg: Експортиране за превод
+  ro: Export pentru traducere
+  et: Ekspordi tõlkimiseks
+  lv: Eksportēt tulkošanai
+  lt: Eksportuoti vertimui
+  sv: Exportera för översättning
+  sk: Exportovať na preklad
+  hu: Exportálás fordításhoz
+  el: Εξαγωγή για μετάφραση
+  ga: Easpórtáil le haghaidh aistriúcháin
+  he: ייצוא לתרגום
+
 label_simplified_two_critera:
   en: Simplified, two criteria
   nl: Vereenvoudigd, twee criteria
