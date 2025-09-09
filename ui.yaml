@@ -1,3 +1,138 @@
+label_xml:
+  en: XML
+  nl: XML
+  fr: XML
+  de: XML
+  it: XML
+  es: XML
+  pt: XML
+  pl: XML
+  fi: XML
+  hr: XML
+  cs: XML
+  da: XML
+  mt: XML
+  sl: XML
+  bg: XML
+  ro: XML
+  et: XML
+  lv: XML
+  lt: XML
+  sv: XML
+  sk: XML
+  hu: XML
+  el: XML
+  ga: XML
+  he: XML
+
+label_plain_text:
+  bg: Обикновен текст
+  cs: Prostý text
+  da: Almindelig tekst
+  de: Nur-Text
+  el: Απλό κείμενο
+  en: Plain text
+  es: Texto sin formato
+  et: Lihttekst
+  fi: Tavallinen teksti
+  fr: Texte brut
+  ga: Téacs simplí
+  he: טקסט רגיל
+  hr: Običan tekst
+  hu: Egyszerű szöveg
+  it: Testo semplice
+  lt: Paprastas tekstas
+  lv: Vienkāršs teksts
+  mt: Test sempliċi
+  nl: Platte tekst
+  pl: Tekst zwykły
+  pt: Texto simples
+  ro: Text simplu
+  sk: Prostý text
+  sl: Navadno besedilo
+  sv: Vanlig text
+
+label_xml_plus_plain_text_file:
+  en: XML plus plain text file
+  nl: XML plus plattetekstbestand
+  fr: Fichier XML plus texte brut
+  de: XML plus Nur-Text-Datei
+  it: File XML più file di testo semplice
+  es: Archivo XML más archivo de texto sin formato
+  pt: Ficheiro XML mais ficheiro de texto simples
+  pl: Plik XML plus plik tekstowy
+  fi: XML plus tavallinen tekstiedosto
+  hr: XML plus obična tekstualna datoteka
+  cs: XML plus prostý textový soubor
+  da: XML plus almindelig tekstfil
+  mt: XML plus fajl ta' test sempliċi
+  sl: XML plus navadna besedilna datoteka
+  bg: XML плюс обикновен текстов файл
+  ro: XML plus fișier text simplu
+  et: XML pluss lihttekstifail
+  lv: XML plus vienkārša teksta fails
+  lt: XML plius paprasto teksto failas
+  sv: XML plus vanlig textfil
+  sk: XML plus obyčajný textový súbor
+  hu: XML plus egyszerű szövegfájl
+  el: XML συν αρχείο απλού κειμένου
+  ga: XML móide comhad téacs plean
+  he: XML בתוספת קובץ טקסט רגיל
+
+label_xml_etranslate_compatible:
+  en: XML eTranslate compatible
+  nl: XML, eTranslate-compatibel
+  fr: XML compatible eTranslate
+  de: XML eTranslate-kompatibel
+  it: XML compatibile con eTranslate
+  es: XML compatible con eTranslate
+  pt: XML compatível com eTranslate
+  pl: XML zgodny z eTranslate
+  fi: XML, joka on yhteensopiva eTranslaten kanssa
+  hr: XML kompatibilan s eTranslateom
+  cs: XML kompatibilní s eTranslate
+  da: XML eTranslate-kompatibelt
+  mt: XML kompatibbli ma' eTranslate
+  sl: XML, ki je združljiv z eTranslate
+  bg: XML, съвместим с eTranslate
+  ro: XML compatibil cu eTranslate
+  et: XML, mis on ühilduv eTranslatega
+  lv: XML, kas saderīgs ar eTranslate
+  lt: XML, suderinamas su eTranslate
+  sv: XML som är kompatibel med eTranslate
+  sk: XML kompatibilný s eTranslate
+  hu: XML, amely kompatibilis az eTranslate programmal
+  el: XML συμβατό με το eTranslate
+  ga: XML comhoiriúnach le eTranslate
+  he: XML תואם ל-eTranslate
+
+label_xml_only:
+  en: XML only
+  nl: Alleen XML
+  fr: XML uniquement
+  de: Nur XML
+  it: Solo XML
+  es: Solo XML
+  pt: Apenas XML
+  pl: Tylko XML
+  fi: Vain XML
+  hr: Samo XML
+  cs: Pouze XML
+  da: Kun XML
+  mt: XML biss
+  sl: Samo XML
+  bg: Само XML
+  ro: Doar XML
+  et: Ainult XML
+  lv: Tik XML
+  lt: Tik XML
+  sv: Endast XML
+  sk: Iba XML
+  hu: Csak XML
+  el: Μόνο XML
+  ga: Níl ach XML
+  he: רק XML
+
 label_module_solution_texts:
   en: Module solution texts
   nl: Oplossingen voor modules
