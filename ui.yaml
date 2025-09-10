@@ -542,7 +542,7 @@ label_base_on_an_existing_tool:
   en: Base on an existing tool
   nl: Basis op een bestaand instrument
   fr: Base sur un outil existant
-  de: Auf einem bestehenden Werkzeug basieren
+  de: Auf einem bestehenden Tool basieren
   it: Basato su uno strumento esistente
   es: Basado en una herramienta existente
   pt: Basear-se numa ferramenta existente
@@ -596,7 +596,7 @@ label_tool_to_use_as_a_base:
   en: Tool to use as a base
   nl: Instrument om als basis te gebruiken
   fr: Outil à utiliser comme base
-  de: Werkzeug als Grundlage verwenden
+  de: Tool als Grundlage verwenden
   it: Strumento da usare come base
   es: Herramienta para usar como base
   pt: Ferramenta para usar como base
@@ -2244,7 +2244,7 @@ label_delete_tool:
   bg: Изтрий инструмента
   cs: Smazat nástroj
   da: Slet værktøj
-  de: Werkzeug löschen
+  de: Tool löschen
   et: Kustuta tööriist
   el: Διαγραφή εργαλείου
   es: Eliminar herramienta
@@ -2271,7 +2271,7 @@ label_delete_tool_imp:
   bg: Изтрий инструмента
   cs: Smazat nástroj
   da: Slet værktøj
-  de: Werkzeug löschen
+  de: Tool löschen
   et: Kustuta tööriist
   el: Διαγραφή εργαλείου
   es: Eliminar herramienta
@@ -3418,7 +3418,7 @@ label_tool_notification_title:
   en: Tool notification title
   nl: Titel van melding voor dit gereedschap
   fr: Titre de la notification de l'outil
-  de: Werkzeugbenachrichtigungstitel
+  de: Toolbenachrichtigungstitel
   it: Titolo della notifica dello strumento
   es: Título de la notificación de la herramienta
   pt: Título da notificação da ferramenta
@@ -3443,7 +3443,7 @@ label_tool_notification_message:
   en: Tool notification message
   nl: Melding voor dit gereedschap
   fr: Message de la notification de l'outil
-  de: Werkzeugbenachrichtigungsnachricht
+  de: Toolbenachrichtigungsnachricht
   it: Messaggio della notifica dello strumento
   es: Mensaje de la notificación de la herramienta
   pt: Mensagem da notificação da ferramenta
@@ -6704,7 +6704,7 @@ label_tool:
   en: Tool
   nl: Instrument
   fr: Outil
-  de: Werkzeug
+  de: Tool
   it: Strumento
   es: Herramienta
   pt: Ferramenta
@@ -6876,7 +6876,7 @@ label_youve_earned_a_certificate_for_this_tool:
   bg: Вие сте спечелили сертификат за този инструмент
   ca: Heu guanyat un certificat per a aquesta eina
   cs: Získali jste certifikát pro tento nástroj
-  de: Sie haben ein Zertifikat für dieses Werkzeug erworben
+  de: Sie haben ein Zertifikat für dieses Tool erworben
   el: Κερδίσατε ένα πιστοποιητικό για αυτό το εργαλείο
   en: You've earned a certificate for this tool
   es: Has ganado un certificado para esta herramienta
@@ -7071,7 +7071,7 @@ label_certificate_for_conducting:
   bg: За провеждане на оценка на риска с инструмента
   ca: Per a realitzar una avaluació de riscos amb l'eina
   cs: Pro provedení hodnocení rizik s nástrojem
-  de: Für die Durchführung einer Risikobewertung mit dem Werkzeug
+  de: Für die Durchführung einer Risikobewertung mit dem Tool
   el: Για τη διεξαγωγή αξιολόγησης κινδύνου με το εργαλείο
   en: For conducting a risk assessment with the tool
   es: Para realizar una evaluación de riesgos con la herramienta
@@ -10315,7 +10315,7 @@ title_byline:
   bg: OiRA - Онлайн интерактивна оценка на риска
   ca: 'OiRA: avaluació de riscos interactiva en línia'
   cs: OiRA - Online interaktivní vyhodnocení rizik
-  de: OiRA – Online interactive Risk Assessment – das interaktive Online-Werkzeug
+  de: OiRA – Online interactive Risk Assessment – das interaktive Online-Tool
     zur Gefährdungsbeurteilung
   el: OiRA - Online διαδραστική Αξιολόγηση Κινδύνων
   en: Online Interactive Risk Assessment
