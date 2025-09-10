@@ -1,3 +1,57 @@
+label_import_tool_imp:
+  bg: Импортиране на инструмент
+  cs: Import nástroje
+  da: Importer værktøj
+  de: Tool importieren
+  el: Εισαγωγή εργαλείου
+  en: Import tool
+  es: Importar herramienta
+  et: Impordi tööriist
+  fi: Tuo työkalu
+  fr: Importer un outil
+  ga: Uirlis iompórtála
+  he: ייבוא כלי
+  hr: Uvoz alata
+  hu: Eszköz importálása
+  it: Importa strumento
+  lt: Įrankio importavimas
+  lv: Importēt rīku
+  mt: Għodda tal-importazzjoni
+  nl: Importeer tool
+  pl: Importuj narzędzie
+  pt: Importar ferramenta
+  ro: Importă instrumentul
+  sk: Import nástroja
+  sl: Uvozi orodje
+  sv: Importera verktyg
+
+message_tool_import:
+  bg: Функционалността за импортиране на инструменти може да се използва например за импортиране на инструмент, който е експортиран от друга страна. По този начин създавате копие на оригиналния инструмент, който след това можете да редактирате сами.
+  cs: Funkce importu nástrojů může být použita například k importu nástroje, který byl exportován z jiné země. Tím vytvoříte kopii původního nástroje, kterou pak můžete sami upravovat.
+  da: Værktøjsimportfunktionen kan for eksempel bruges til at importere et værktøj, der er eksporteret fra et andet land. Du opretter dermed en kopi af det originale værktøj, som du derefter selv kan redigere.
+  de: Die Tool-Import-Funktionalität kann beispielsweise verwendet werden, um ein Tool zu importieren, das aus einem anderen Land exportiert wurde. Damit erstellen Sie eine Kopie des ursprünglichen Tools, das Sie anschließend selbst bearbeiten können.
+  el: Η λειτουργικότητα εισαγωγής εργαλείων μπορεί να χρησιμοποιηθεί για παράδειγμα για την εισαγωγή ενός εργαλείου που έχει εξαχθεί από άλλη χώρα. Με αυτόν τον τρόπο δημιουργείτε ένα αντίγραφο του αρχικού εργαλείου, το οποίο μπορείτε στη συνέχεια να επεξεργαστείτε μόνοι σας.
+  en: The tool import functionality can be used, for example, to import a tool that has been exported from another country. You thereby create a copy of the original tool, which you can then edit yourself.
+  es: La funcionalidad de importación de herramientas puede utilizarse, por ejemplo, para importar una herramienta que ha sido exportada desde otro país. De esta manera, creas una copia de la herramienta original, que luego puedes editar tú mismo.
+  et: Tööriista importimise funktsionaalsust saab kasutada näiteks tööriista importimiseks, mis on eksporditud teisest riigist. Sellega loote originaaltööriista koopia, mida saate seejärel ise redigeerida.
+  fi: Työkalun tuontitoimintoa voidaan käyttää esimerkiksi sellaisen työkalun tuomiseen, joka on viety toisesta maasta. Näin luot kopion alkuperäisestä työkalusta, jota voit sitten itse muokata.
+  fr: La fonctionnalité d'importation d'outils peut être utilisée, par exemple, pour importer un outil qui a été exporté d'un autre pays. Vous créez ainsi une copie de l'outil original, que vous pouvez ensuite modifier vous-même.
+  ga: Is féidir an fheidhmiúlacht iompórtála uirlisí a úsáid, mar shampla, chun uirlis a iompórtáil a onnmhairiodh ó thír eile. Cruthaíonn tú cóip den uirlis bhunaidh dá bhrí sin, ar féidir leat í a chur in eagar ansin tú féin.
+  he: פונקציונליות ייבוא הכלים יכולה לשמש, למשל, לייבא כלי שיוצא ממדינה אחרת. בכך אתה יוצר עותק של הכלי המקורי, שתוכל לערוך אותו בעצמך.
+  hr: Funkcionalnost uvoza alata može se koristiti, na primjer, za uvoz alata koji je izvezen iz druge zemlje. Time stvarate kopiju originalnog alata koju zatim možete sami uređivati.
+  hu: Az eszköz import funkciója használható például egy másik országból exportált eszköz importálására. Ezzel létrehozza az eredeti eszköz másolatát, amelyet aztán maga szerkeszthet.
+  it: La funzionalità di importazione degli strumenti può essere utilizzata, ad esempio, per importare uno strumento che è stato esportato da un altro paese. In questo modo si crea una copia dello strumento originale, che è possibile poi modificare autonomamente.
+  lt: Įrankių importo funkcionalumas gali būti naudojamas, pavyzdžiui, įrankiui, kuris buvo eksportuotas iš kitos šalies, importuoti. Taip sukuriate originalaus įrankio kopiją, kurią galite redaguoti patys.
+  lv: Rīku importa funkcionalitāti var izmantot, piemēram, lai importētu rīku, kas ir eksportēts no citas valsts. Tādējādi jūs izveidojat oriģinālā rīka kopiju, ko pēc tam varat rediģēt paši.
+  mt: Il-funzjonalità tal-importazzjoni tal-għodod tista' tintuża, pereżempju, biex timporta għodda li ġiet esportata minn pajjiż ieħor. B'hekk toħloq kopja tal-għodda oriġinali, li mbagħad tista' teditja int stess.
+  nl: De functionaliteit voor het importeren van tools kan bijvoorbeeld worden gebruikt om een tool te importeren die is geëxporteerd vanuit een ander land. U creëert hiermee een kopie van de oorspronkelijke tool, die u vervolgens zelf kunt bewerken.
+  pl: Funkcjonalność importu narzędzi może być używana na przykład do importowania narzędzia, które zostało wyeksportowane z innego kraju. W ten sposób tworzysz kopię oryginalnego narzędzia, którą następnie możesz samodzielnie edytować.
+  pt: A funcionalidade de importação de ferramentas pode ser usada, por exemplo, para importar uma ferramenta que foi exportada de outro país. Desta forma, cria uma cópia da ferramenta original, que pode depois editar você mesmo.
+  ro: Funcționalitatea de import a instrumentelor poate fi utilizată, de exemplu, pentru a importa un instrument care a fost exportat dintr-o altă țară. Astfel creați o copie a instrumentului original, pe care o puteți edita apoi singur.
+  sk: Funkcia importu nástrojov môže byť použitá napríklad na import nástroja, ktorý bol exportovaný z inej krajiny. Tým vytvoríte kópiu pôvodného nástroja, ktorú potom môžete sami upravovať.
+  sl: Funkcionalnost uvoza orodij se lahko uporablja, na primer, za uvoz orodja, ki je bilo izvoženo iz druge države. S tem ustvarite kopijo originalnega orodja, ki jo lahko nato sami urejate.
+  sv: Verktygets importfunktionalitet kan användas till exempel för att importera ett verktyg som har exporterats från ett annat land. Därmed skapar du en kopia av det ursprungliga verktyget, som du sedan kan redigera själv.
+
 message_tool_export_import:
   bg: Функционалността за експорт и импорт на инструменти може да се използва за изпращане на инструмент към агенция за превод, но също и за експортиране и повторен импорт за използване в друга страна.
   cs: Funkce exportu a importu nástroje může být použita k odeslání nástroje překladatelské agentuře, ale také k exportu a opětovnému importu pro použití v jiné zemi.
