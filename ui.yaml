@@ -1,3 +1,30 @@
+message_tool_export_import:
+  bg: Функционалността за експорт и импорт на инструменти може да се използва за изпращане на инструмент към агенция за превод, но също и за експортиране и повторен импорт за използване в друга страна.
+  cs: Funkce exportu a importu nástroje může být použita k odeslání nástroje překladatelské agentuře, ale také k exportu a opětovnému importu pro použití v jiné zemi.
+  da: Værktøjets eksport- og importfunktionalitet kan bruges til at sende et værktøj til et oversættelsesbureau, men også til at eksportere det og importere det igen til brug i et andet land.
+  de: Die Export- und Importfunktionalität für Tools kann verwendet werden, um ein Tool an eine Übersetzungsagentur zu senden, aber auch um es zu exportieren und erneut zu importieren für die Verwendung in einem anderen Land.
+  el: Η λειτουργικότητα εξαγωγής και εισαγωγής εργαλείων μπορεί να χρησιμοποιηθεί για την αποστολή ενός εργαλείου σε μεταφραστικό γραφείο, αλλά και για την εξαγωγή και επανεισαγωγή του για χρήση σε άλλη χώρα.
+  en: The tool export and import functionality can be used to send a tool to a translation agency, but also to export it and import it again for use in another country.
+  es: La funcionalidad de exportación e importación de herramientas se puede utilizar para enviar una herramienta a una agencia de traducción, pero también para exportarla e importarla nuevamente para su uso en otro país.
+  et: Tööriista ekspordi- ja impordifunktsionaalsust saab kasutada tööriista saatmiseks tõlkebüroole, aga ka selle eksportimiseks ja uuesti importimiseks kasutamiseks teises riigis.
+  fi: Työkalun vienti- ja tuontitoimintoa voidaan käyttää työkalun lähettämiseen käännöstoimistolle, mutta myös sen viemiseen ja uudelleen tuomiseen käytettäväksi toisessa maassa.
+  fr: La fonctionnalité d'exportation et d'importation d'outils peut être utilisée pour envoyer un outil à une agence de traduction, mais aussi pour l'exporter et l'importer à nouveau pour une utilisation dans un autre pays.
+  ga: Is féidir an fheidhmiúlacht onnmhairí agus iompórtála uirlis a úsáid chun uirlis a sheoladh chuig gníomhaireacht aistriúcháin, ach freisin chun í a onnmhairiú agus a hiompórtáil arís le húsáid i dtír eile.
+  he: פונקציונליות ייצוא וייבוא הכלים יכולה לשמש לשליחת כלי לסוכנות תרגום, אך גם לייצא אותו ולייבא אותו שוב לשימוש במדינה אחרת.
+  hr: Funkcionalnost izvoza i uvoza alata može se koristiti za slanje alata agenciji za prijevod, ali i za izvoz i ponovni uvoz za korištenje u drugoj zemlji.
+  hu: Az eszköz export és import funkciója használható egy eszköz fordítóügynökséghez való küldésére, de arra is, hogy exportálja és újra importálja egy másik országban való használatra.
+  it: La funzionalità di esportazione e importazione degli strumenti può essere utilizzata per inviare uno strumento a un'agenzia di traduzione, ma anche per esportarlo e importarlo nuovamente per l'uso in un altro paese.
+  lt: Įrankių eksporto ir importo funkcionalumas gali būti naudojamas įrankiui siųsti vertimo agentūrai, bet taip pat jo eksportavimui ir pakartotiniam importavimui naudojimui kitoje šalyje.
+  lv: Rīku eksporta un importa funkcionalitāti var izmantot, lai nosūtītu rīku tulkošanas aģentūrai, bet arī lai to eksportētu un atkārtoti importētu lietošanai citā valstī.
+  mt: Il-funzjonalità tal-esportazzjoni u l-importazzjoni tal-għodod tista' tintuża biex tibgħat għodda lil aġenzija tat-traduzzjoni, iżda wkoll biex tesportaha u timportaha mill-ġdid għall-użu f'pajjiż ieħor.
+  nl: De export- en importfunctionaliteit van het instrument kan worden gebruikt om een instrument naar een vertaalbureau te sturen, maar ook om het te exporteren en opnieuw te importeren voor gebruik in een ander land.
+  pl: Funkcjonalność eksportu i importu narzędzi może być używana do wysyłania narzędzia do agencji tłumaczeniowej, ale także do eksportowania go i ponownego importowania do użytku w innym kraju.
+  pt: A funcionalidade de exportação e importação de ferramentas pode ser usada para enviar uma ferramenta para uma agência de tradução, mas também para exportá-la e importá-la novamente para uso em outro país.
+  ro: Funcționalitatea de export și import a instrumentelor poate fi utilizată pentru a trimite un instrument la o agenție de traducere, dar și pentru a-l exporta și importa din nou pentru utilizare în altă țară.
+  sk: Funkcia exportu a importu nástrojov môže byť použitá na odoslanie nástroja prekladateľskej agentúre, ale aj na jeho export a opätovný import na použitie v inej krajine.
+  sl: Funkcionalnost izvoza in uvoza orodij se lahko uporablja za pošiljanje orodja prevajalski agenciji, pa tudi za izvoz in ponoven uvoz za uporabo v drugi državi.
+  sv: Verktygets export- och importfunktionalitet kan användas för att skicka ett verktyg till en översättningsbyrå, men också för att exportera det och importera det igen för användning i ett annat land.
+
 label_xml:
   en: XML
   nl: XML
