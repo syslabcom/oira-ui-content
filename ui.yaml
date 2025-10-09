@@ -1,3 +1,27 @@
+message_unpublish:
+  en: Unpublishing a tool will remove it from public view. The tool will still be available in your account, and you can republish it at any time.
+  nl: Het depubliceren van een tool zorgt ervoor dat deze niet langer openbaar zichtbaar is. De tool blijft echter beschikbaar in uw account en u kunt deze op elk moment opnieuw publiceren.
+  fr: La désactivation de la publication d'un outil le supprimera de la vue publique. L'outil sera toujours disponible dans votre compte et vous pourrez le republier à tout moment.
+  de: Das Zurücknehmen der Veröffentlichung eines Tools entfernt es aus der öffentlichen Ansicht. Das Tool ist weiterhin in Ihrem Konto verfügbar und Sie können es jederzeit erneut veröffentlichen.
+  it: La rimozione della pubblicazione di uno strumento lo rimuoverà dalla visualizzazione pubblica. Lo strumento sarà comunque disponibile nel tuo account e potrai ripubblicarlo in qualsiasi momento.
+  es: La anulación de la publicación de una herramienta la eliminará de la vista pública. La herramienta seguirá estando disponible en tu cuenta y podrás volver a publicarla en cualquier momento.
+  pt: A despublicação de uma ferramenta irá removê-la da vista pública. A ferramenta continuará disponível na sua conta e poderá republicá-la a qualquer momento.
+  pl: Anulowanie publikacji narzędzia spowoduje jego usunięcie z widoku publicznego. Narzędzie będzie nadal dostępne na Twoim koncie i możesz je ponownie opublikować w dowolnym momencie.
+  fi: Työkalun julkaisun peruuttaminen poistaa sen julkisesta näkymästä. Työkalu on edelleen käytettävissä tililläsi, ja voit julkaista sen uudelleen milloin tahansa.
+  hr: Poništavanje objavljivanja alata uklonit će ga iz javnog prikaza. Alat će i dalje biti dostupan na vašem računu i možete ga ponovno objaviti u bilo kojem trenutku.
+  cs: Zrušení publikování nástroje jej odstraní z veřejného zobrazení. Nástroj bude stále k dispozici ve vašem účtu a můžete jej kdykoli znovu publikovat.
+  da: Ophævelse af offentliggørelsen af et værktøj fjerner det fra offentlig visning. Værktøjet vil stadig være tilgængeligt på din konto, og du kan genoffentliggøre det når som helst.
+  et: Tööriista avaldamise tühistamine eemaldab selle avalikust vaateväljast. Tööriist on endiselt teie kontol saadaval ja saate selle igal ajal uuesti avaldada.
+  lv: Rīka publicēšanas atcelšana to noņems no publiskās apskates. Rīks joprojām būs pieejams jūsu kontā, un jūs to varat jebkurā laikā atkārtoti publicēt.
+  lt: Įrankio paskelbimo atšaukimas pašalins jį iš viešojo rodinio. Įrankis vis tiek bus prieinamas jūsų paskyroje, ir jūs jį bet kada galėsite vėl paskelbti.
+  sl: Preklic objave orodja ga bo odstranil iz javnega pogleda. Orodje bo še vedno na voljo v vašem računu in ga boste lahko kadar koli znova objavili.
+  sv: Att avpublicera ett verktyg tar bort det från allmän visning. Verktyget kommer fortfarande att vara tillgängligt på ditt konto och du kan publicera det igen när som helst.
+  sk: Zrušenie zverejnenia nástroja ho odstráni z verejného zobrazenia. Nástroj bude naďalej k dispozícii vo vašom účte a môžete ho kedykoľvek znova zverejniť.
+  hu: Az eszköz közzétételének visszavonása eltávolítja azt a nyilvános nézetből. Az eszköz továbbra is elérhető lesz a fiókjában, és bármikor újra közzéteheti.
+  el: Η απόσυρση της δημοσίευσης ενός εργαλείου θα το αφαιρέσει από την δημόσια προβολή. Το εργαλείο θα εξακολουθεί να είναι διαθέσιμο στον λογαριασμό σας και μπορείτε να το δημοσιεύσετε ξανά ανά πάσα στιγμή.  
+  ga: Bainfear uirlis as radharc poiblí má chealófar a fhoilsiú. Beidh an t-uirlis fós ar fáil i do chuntas, agus is féidir leat í a fhoilsiú arís am ar bith.
+  he: ביטול פרסום כלי יסיר אותו מהתצוגה הציבורית. הכלי עדיין יהיה זמין בחשבונך, ותוכל לפרסם אותו מחדש בכל עת.
+
 label_import_tool_imp:
   bg: Импортиране на инструмент
   cs: Import nástroje
