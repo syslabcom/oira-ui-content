@@ -18,7 +18,7 @@ message_unpublish:
   sv: Att avpublicera ett verktyg tar bort det från allmän visning. Verktyget kommer fortfarande att vara tillgängligt på ditt konto och du kan publicera det igen när som helst.
   sk: Zrušenie zverejnenia nástroja ho odstráni z verejného zobrazenia. Nástroj bude naďalej k dispozícii vo vašom účte a môžete ho kedykoľvek znova zverejniť.
   hu: Az eszköz közzétételének visszavonása eltávolítja azt a nyilvános nézetből. Az eszköz továbbra is elérhető lesz a fiókjában, és bármikor újra közzéteheti.
-  el: Η απόσυρση της δημοσίευσης ενός εργαλείου θα το αφαιρέσει από την δημόσια προβολή. Το εργαλείο θα εξακολουθεί να είναι διαθέσιμο στον λογαριασμό σας και μπορείτε να το δημοσιεύσετε ξανά ανά πάσα στιγμή.  
+  el: Η απόσυρση της δημοσίευσης ενός εργαλείου θα το αφαιρέσει από την δημόσια προβολή. Το εργαλείο θα εξακολουθεί να είναι διαθέσιμο στον λογαριασμό σας και μπορείτε να το δημοσιεύσετε ξανά ανά πάσα στιγμή.
   ga: Bainfear uirlis as radharc poiblí má chealófar a fhoilsiú. Beidh an t-uirlis fós ar fáil i do chuntas, agus is féidir leat í a fhoilsiú arís am ar bith.
   he: ביטול פרסום כלי יסיר אותו מהתצוגה הציבורית. הכלי עדיין יהיה זמין בחשבונך, ותוכל לפרסם אותו מחדש בכל עת.
 
@@ -291,7 +291,7 @@ label_legal_and_policy_references:
   el: Νομικές και πολιτικές αναφορές
   ga: Tagairtí dlíthiúla agus polaitiúla
   he: הפניות משפטיות ופוליטיות
-  
+
 label_export_etranslate_compatible_xml:
   en: Export in eTranslate compatible XML
   nl: Exporteer in eTranslate-compatibele XML
@@ -886,7 +886,7 @@ label_create_new_version:
   ga: Cruthaigh leagan nua
   he: יצירת גרסה חדשה
 
-label_new_version: 
+label_new_version:
   en: New version
   nl: Nieuwe versie
   fr: Nouvelle version
@@ -939,7 +939,7 @@ label_message_warning_force_open:
   el: Λάβετε υπόψη ότι το υποχρεωτικό άνοιγμα της ενότητας πληροφοριών ενδέχεται να μειώσει την πιθανότητα να παρατηρήσουν οι χρήστες τις άλλες ενότητες και να μειώσει τις πιθανότητες να ολοκληρώσουν την εκτίμηση κινδύνου.
   ga: Coinnigh i gcuimhne go bhféadfadh sé go laghdódh oscailt éigeantach na rannóige faisnéise an seans go dtabharfaidh úsáideoirí faoi deara na rannóga eile agus an seans go gcríochnóidh siad an measúnú riosca.
   he: יש לזכור כי פתיחה כפויה של מקטע המידע עשויה להפחית את הסיכוי שהמשתמשים ישימו לב לקטעים האחרים ואף תפחית את הסיכוי שישלימו את הערכת הסיכונים.
-  
+
 message_help_certificate_explanatory_sentence:
   en: A short explanation that is shown to the user after reaching the initial threshold. You can use this to point to an external website that provides more information.
   nl: Een korte uitleg die aan de gebruiker wordt getoond nadat de initiële drempel is bereikt. U kunt dit gebruiken om te verwijzen naar een externe website met meer informatie.
@@ -1534,7 +1534,7 @@ label_overview_of_risks:
   sv: Översikt över risker
   he: סקירה של סיכונים
 
-label_overview_of_measures: 
+label_overview_of_measures:
   nl: Overzicht van maatregelen
   en: Overview of measures
   bg: Преглед на мерките
@@ -2553,7 +2553,7 @@ label_general_approach:
   mt: Approċċ ġenerali
   he: "גישה כללית"
 
-label_level_of_expertise: 
+label_level_of_expertise:
   en: Level of expertise
   nl: Deskundigheidsniveau
   fr: Niveau d'expertise
@@ -2732,7 +2732,7 @@ label_optional_module:
   mt: Modulu opzjonali
 
 message_author_training_question_answer_order_notice:
-  en: "During the training, the questions will be arranged in a randomised order. Furthermore, the answers for each question will also be presented in a random sequence for enhanced learning engagement."
+  en: "After the training, the questions will be arranged in a randomised order. Furthermore, the answers for each question will also be presented in a random sequence for enhanced learning engagement."
   fr: "Pendant la formation, les questions seront organisées dans un ordre aléatoire. De plus, les réponses à chaque question seront également présentées dans une séquence aléatoire pour améliorer l'engagement d'apprentissage."
   de: "Während des Trainings werden die Fragen in einer zufälligen Reihenfolge angeordnet. Darüber hinaus werden die Antworten auf jede Frage auch in einer zufälligen Sequenz präsentiert, um die Lernbeteiligung zu verbessern."
   es: "Durante el entrenamiento, las preguntas se organizarán en un orden aleatorio. Además, las respuestas para cada pregunta también se presentarán en una secuencia aleatoria para mejorar el compromiso con el aprendizaje."
@@ -2907,7 +2907,7 @@ label_add_question:
   et: Lisa küsimus
   mt: Żid mistoqsija
 
-label_enable_training:  
+label_enable_training:
   en: Enable training
   nl: Training inschakelen
   fr: Activer la formation
@@ -2964,7 +2964,7 @@ message_add_questions_to_the_training_from_the_sidebar:
   sk: Môžete pridať otázky do školenia v časti školenia. Sekcia školenia je dostupná z bočnej lišty po uložení nastavení.
   sl: V razdelek za usposabljanje lahko dodate vprašanja v razdelek za usposabljanje. Razdelek za usposabljanje je dostopen s stranske vrstice po shranjevanju nastavitev.
   he: ניתן להוסיף שאלות לאימון בסעיף האימון. סעיף האימון נגיש מסרגל הצד לאחר שמירת ההגדרות.
-  
+
 label_integrated:
   en: Integrated
   nl: Geïntegreerd
@@ -3115,7 +3115,7 @@ label_criteria_not_specific_for_tool:
   et: Kriteeriumid ei ole selle tööriista jaoks spetsiifilised
   mt: Il-kriterji mhumiex speċifiċi għal dan l-għodda
 
-label_enabled: 
+label_enabled:
   en: Enabled
   nl: Ingeschakeld
   fr: Activé
@@ -3140,7 +3140,7 @@ label_enabled:
   et: Sisse lülitatud
   mt: Attivat
 
-label_disabled: 
+label_disabled:
   en: Disabled
   nl: Uitgeschakeld
   fr: Désactivé
@@ -3165,7 +3165,7 @@ label_disabled:
   et: Välja lülitatud
   mt: Disattivat
 
-label_style: 
+label_style:
   en: Style
   nl: Stijl
   fr: Style
@@ -3190,7 +3190,7 @@ label_style:
   et: Stiil
   mt: Stil
 
-label_logo: 
+label_logo:
   en: Logo
   nl: Logo
   fr: Logo
@@ -3215,7 +3215,7 @@ label_logo:
   et: Logo
   mt: Logo
 
-label_questions: 
+label_questions:
   en: Questions
   nl: Vragen
   fr: Questions
@@ -3439,7 +3439,7 @@ label_severity:
   lv: Smagums
   et: Tõsidus
   mt: Severità
-  
+
 label_lead_image_caption:
   en: Lead image caption
   nl: Bijschrift hoofdafbeelding
@@ -3819,8 +3819,8 @@ label_classic_oira_tool_with_positive_and_negative_statements:
   mt: Għodda OiRA klassika b'afirmazzjonijiet pożittivi u negattivi
   ga: Uirlis OiRA clasaice le dearbhuithe dearfacha agus diúltacha
   he: כלי OiRA קלאסי עם הצהרות חיוביות ושליליות
-  
-label_type_of_oira_tool: 
+
+label_type_of_oira_tool:
   nl: Type of OiRA tool
   en: Type OiRA tool
   fr: Type d'outil OiRA
@@ -4406,7 +4406,7 @@ label_invite_imp:
   fr: Inviter
   he: להזמין
   nl: Nodig uit
-  
+
 label_invite:
   de: Einladen
   en: Invite
@@ -4446,7 +4446,7 @@ message_find_consultant:
   de: Finden Sie einen OSH-Berater, den Sie kontaktieren oder zu Ihrer Organisation hinzufügen möchten, um Unterstützung zu leisten.
   nl: Zoek een OSH-adviseur waarmee u contact wilt opnemen of die u aan uw organisatie wilt toevoegen om ondersteuning te bieden.
 message_member_see_all:
-  en: Members can view and edit all risk assessments of the organisation. 
+  en: Members can view and edit all risk assessments of the organisation.
   fr: Les membres peuvent afficher et modifier toutes les évaluations des risques de l'organisation.
   de: Mitglieder können alle Risikobewertungen der Organisation einsehen und bearbeiten.
   nl: Leden kunnen alle risicobeoordelingen van de organisatie bekijken en bewerken.
@@ -4491,7 +4491,7 @@ message_request_validation:
   fr: Cliquez sur 'Envoyer la demande de validation' pour demander au consultant OSH sélectionné d'examiner et de valider votre évaluation des risques.
   de: Klicken Sie auf „Validierungsanfrage senden“, um den ausgewählten OSH-Berater zu bitten, Ihre Risikobewertung zu überprüfen und zu validieren.
 message_warning_locking_after_validation:
-  en: After your consultant has validated this risk assessment, it will be locked. Should you want to edit the risk assessment again, then you may always make a duplicate of this assessment at a later time.  
+  en: After your consultant has validated this risk assessment, it will be locked. Should you want to edit the risk assessment again, then you may always make a duplicate of this assessment at a later time.
   nl: Nadat uw adviseur deze risicobeoordeling heeft gevalideerd, wordt deze vergrendeld. Mocht u de risicobeoordeling opnieuw willen bewerken, dan kunt u op een later tijdstip altijd een duplicaat van deze beoordeling maken.
   fr: Une fois que votre consultant aura validé cette évaluation des risques, elle sera verrouillée. Si vous souhaitez modifier à nouveau l'évaluation des risques, vous pouvez toujours faire une copie de cette évaluation ultérieurement.
   de: Nachdem Ihr Berater diese Risikobewertung validiert hat, wird sie gesperrt. Sollten Sie die Gefährdungsbeurteilung erneut bearbeiten wollen, so können Sie diese jederzeit zu einem späteren Zeitpunkt duplizieren.
@@ -4535,8 +4535,8 @@ label_role_administrator:
   nl: Beheerder
   fr: Administrateur
   de: Administrator
-message_role_administrator: 
-  en: Administrators can create, edit and remove user accounts. Administrators can also make risk assessments and edit existing ones, lock risk assessments, create trainings and take trainings. 
+message_role_administrator:
+  en: Administrators can create, edit and remove user accounts. Administrators can also make risk assessments and edit existing ones, lock risk assessments, create trainings and take trainings.
   nl: Beheerders kunnen gebruikersaccounts maken, bewerken en verwijderen. Beheerders kunnen ook risicobeoordelingen maken en bestaande bewerken, risicobeoordelingen vergrendelen, trainingen maken en trainingen volgen.
   fr: Les administrateurs peuvent créer, modifier et supprimer des comptes d'utilisateurs. Les administrateurs peuvent également effectuer des évaluations des risques et modifier celles qui existent déjà, verrouiller les évaluations des risques, créer des formations et suivre des formations.
   de: Administratoren können Benutzerkonten erstellen, bearbeiten und entfernen. Administratoren können außerdem Risikobewertungen erstellen und vorhandene bearbeiten, Risikobewertungen sperren, Schulungen erstellen und an Schulungen teilnehmen.
@@ -4546,7 +4546,7 @@ label_role_manager:
   fr: Gestionnair/décideur
   de: Manager/Policymaker
 message_role_manager:
-  en: Managers/Policy makers can make and edit risk assessments, lock risk assessments, create trainings and take trainings. 
+  en: Managers/Policy makers can make and edit risk assessments, lock risk assessments, create trainings and take trainings.
   nl: Managers/Beleidsmakers kunnen risicobeoordelingen maken en bewerken, risicobeoordelingen vergrendelen, trainingen maken en trainingen volgen.
   fr: Les gestionnaires/décideurs politiques peuvent effectuer et modifier des évaluations des risques, verrouiller les évaluations des risques, créer des formations et suivre des formations.
   de: Manager/Policymaker können Risikobewertungen erstellen und bearbeiten, Risikobewertungen sperren, Schulungen erstellen und an Schulungen teilnehmen.
@@ -4556,7 +4556,7 @@ label_role_consultant:
   fr: Consultant
   de: Berater
 message_role_consultant:
-  en: Consultants can make and edit risk assessments, validate and approve risk assessments and create trainings. 
+  en: Consultants can make and edit risk assessments, validate and approve risk assessments and create trainings.
   nl: Adviseurs kunnen risicobeoordelingen maken en bewerken, risicobeoordelingen valideren en goedkeuren en trainingen creëren.
   fr: Les consultants peuvent effectuer et modifier des évaluations des risques, valider et approuver les évaluations des risques et créer des formations.
   de: Berater können Risikobewertungen erstellen und bearbeiten, Risikobewertungen validieren und genehmigen und Schulungen erstellen.
@@ -4566,10 +4566,10 @@ label_role_editor:
   fr: Éditeur
   de: Editor
 message_role_editor:
-  en: 
-  nl: 
-  fr: 
-  de: 
+  en:
+  nl:
+  fr:
+  de:
 label_role_member:
   en: Member
   nl: Lid
@@ -4592,7 +4592,7 @@ label_permission_level_basic:
   fr: Basique
   nl: Basis
 message_permission_level_basic:
-  en: User can only take trainings. 
+  en: User can only take trainings.
 label_permission_level_edit:
   en: Edit
   de: Bearbeiten
@@ -4615,12 +4615,12 @@ label_permission_level_validate:
 label_retract_validation:
   en: Retract validation
   nl: Validatie intrekken
-  de: Validierung zurückziehen 
+  de: Validierung zurückziehen
   fr: Rétracter la validation
 label_retract_validation_imp:
   en: Retract validation
   nl: Trek validatie in
-  de: Validierung zurückziehen 
+  de: Validierung zurückziehen
   fr: Rétracter la validation
 message_permission_level_validate:
   en: User can take trainings, view and edit all risk assessments and validate risk assessments.
@@ -4638,9 +4638,9 @@ label_email_invite_user_subject:
   de: Bestätigen Sie die OiRA-Mitgliedschaft für ‘${organisation}’
   nl: OiRA-lidmaatschap bevestigen aan ‘${organisation}’
 message_email_invite_user_body:
-  en: I hereby invite you to join our organisation on OiRA. Once you’ve accepted your membership, we can collaborate on risk assessments. \n\n Please log in or register via the link below and accept your membership. This link will stay valid for 5 days. 
+  en: I hereby invite you to join our organisation on OiRA. Once you’ve accepted your membership, we can collaborate on risk assessments. \n\n Please log in or register via the link below and accept your membership. This link will stay valid for 5 days.
 message_invite_user:
-  en: When you click ‘Invite by e-mail’, your e-mail client will open with a new e-mail with a link in it that people can use to join your organisation. The link is valid for five days and you may send it to as many people as you would like to join your organisation. 
+  en: When you click ‘Invite by e-mail’, your e-mail client will open with a new e-mail with a link in it that people can use to join your organisation. The link is valid for five days and you may send it to as many people as you would like to join your organisation.
   nl: Als je op ‘Uitnodigen per e-mail’ klikt, opent je e-mailclient met een nieuwe e-mail met daarin een link waarmee mensen lid kunnen worden van je organisatie. De link is vijf dagen geldig en u kunt hem naar zoveel mensen sturen als u wilt om lid te worden van uw organisatie.
   fr: Lorsque vous cliquez sur "Inviter par e-mail", votre client de messagerie s'ouvre avec un nouvel e-mail contenant un lien que les personnes peuvent utiliser pour rejoindre votre organisation. Le lien est valable cinq jours et vous pouvez l'envoyer à autant de personnes que vous souhaitez rejoindre votre organisation.
   de: Wenn Sie auf „Einladen per E-Mail“ klicken, öffnet sich Ihr E-Mail-Client mit einer neuen E-Mail mit einem darin enthaltenen Link, über den Personen Ihrer Organisation beitreten können. Der Link ist fünf Tage lang gültig und Sie können ihn an so viele Personen senden, wie Sie Ihrer Organisation beitreten möchten.
@@ -4665,16 +4665,16 @@ message_unlock_or_duplicate:
   fr: Si vous souhaitez continuer à travailler sur une copie de cette évaluation, par exemple pour faire un rapport sur une nouvelle année, vous pouvez utiliser l'option 'Dupliquer'. La duplication fera une copie complète de votre évaluation qui sera déverrouillée.
   nl: Als je verder wilt werken aan een kopie van deze aanslag, bijvoorbeeld om te rapporteren over een nieuw jaar, dan kun je de optie 'Dupliceren' gebruiken. Door te dupliceren maakt u een volledige kopie van uw beoordeling die wordt ontgrendeld.
 message_unlock_ra:
-  en: When you unlock this risk assessment, it will loose its validated status. You can still request for re-validation at a later time. 
+  en: When you unlock this risk assessment, it will loose its validated status. You can still request for re-validation at a later time.
   nl: Wanneer u deze risicobeoordeling ontgrendelt, verliest deze zijn gevalideerde status. U kunt op een later tijdstip nog steeds een herbevestiging aanvragen.
   fr: Lorsque vous déverrouillez cette évaluation des risques, elle perd son statut validé. Vous pouvez toujours demander une reconfirmation à une date ultérieure.
   de: Wenn Sie diese Risikobewertung entsperren, verliert sie ihren validierten Status. Sie können zu einem späteren Zeitpunkt immer noch eine Rückbestätigung anfordern.
 message_possible_extra_cost:
-  nl: Er kunnen extra kosten in rekening gebracht worden door uw adviseur. 
+  nl: Er kunnen extra kosten in rekening gebracht worden door uw adviseur.
   en: Additional costs may be charged by your consultant.
   fr: Des frais supplémentaires peuvent être facturés par votre consultant.
   de: Zusätzliche Kosten können von Ihrem Berater in Rechnung gestellt werden.
-  
+
 message_unlock_and_invalidate_by_consultant:
   de: Sie sind dabei, diese Risikobewertung zu entwerten und zu entsperren. Wenn Sie nur einige Korrekturen vornehmen möchten, vergessen Sie nicht, sie erneut zu validieren, wenn Sie fertig sind.
   en: You are about to invalidate and unlock this risk assessment. If you only want to make some corrections, then don't forget to re-validate when you're ready.
@@ -4682,7 +4682,7 @@ message_unlock_and_invalidate_by_consultant:
   he: אתה עומד לבטל ולשחרר את ההערכה הסיכונית הזו. אם אתה רוצה רק לעשות כמה תיקונים, אל תשכח לאמת מחדש כאשר אתה מוכן.
   nl: U staat op het punt om deze risicobeoordeling ongeldig te maken en te ontgrendelen. Als u slechts enkele correcties wilt aanbrengen, vergeet dan niet opnieuw te valideren wanneer u klaar bent.
 
-message_training: 
+message_training:
   fr: 'Note: This is a preview. Please use the power point for training.'
   en: 'Note: This is a preview. Please use the power point for training.'
   nl: 'Opgelet: Dit is een voorvertoning. Gebruik de PowerPoint voor trainingsdoeleinden.'
@@ -4803,7 +4803,7 @@ label_default_view:
   he: תצוגה רגילה
 
 message_name_is_used_for:
-  en: Filling out your names makes for a more personalised user experience for you and you co-workers. Your name will appear in automated e-mails and various screens throughout the application. 
+  en: Filling out your names makes for a more personalised user experience for you and you co-workers. Your name will appear in automated e-mails and various screens throughout the application.
   de: Das Ausfüllen Ihrer Namen sorgt für eine personalisiertere Benutzererfahrung für Sie und Ihre Kollegen. Ihr Name erscheint in automatisierten E-Mails und verschiedenen Bildschirmen in der gesamten Anwendung.
   fr: Remplir vos noms permet une expérience utilisateur plus personnalisée pour vous et vos collègues. Votre nom apparaîtra dans les e-mails automatisés et divers écrans tout au long de l'application.
   nl: Het invullen van uw namen zorgt voor een meer gepersonaliseerde gebruikerservaring voor u en uw collega's. Uw naam verschijnt in geautomatiseerde e-mails en op verschillende schermen in de applicatie.
@@ -4831,7 +4831,7 @@ label_remove_document:
   en: Remove document
   fr: Supprimer le document
   de: Dokument entfernen
-  
+
 message_remove_document:
   en: You are about to remove this document. This action is irreversable.
   nl: U staat op het punt dit document te verwijderen. Deze handeling is onomkeerbaar.
@@ -6630,7 +6630,7 @@ label_all_ra_types:
   en: All types of risk assessments
 label_all_types:
   de: Alle Typen
-  en: All types 
+  en: All types
   nl: Alle soorten
   fr: Tous les types
 label_locking:
@@ -6660,7 +6660,7 @@ label_locked:
   fr: Verrouillé
 label_all:
   de: All
-  en: All 
+  en: All
   nl: Alle
   fr: Tout
 label_almost_done:
@@ -6767,7 +6767,7 @@ label_automatic_language:
   en: Automatic (Based on browser language)
   fr: Automatique (basé sur la langue du navigateur)
   nl: Automatisch (Gebaseerd op de browsertaal)
-  
+
 label_tools:
   ca: Eines
   cs: Nástroje
@@ -6971,7 +6971,7 @@ label_youve_earned_a_certificate_for_this_tool:
   nl_BE: U heeft een certificaat verdiend voor dit instrument
   pt: Ganhou um certificado para esta ferramenta
   sk: Získali ste certifikát pre tento nástroj
-  sl: Pridobili ste certifikat za to orodje 
+  sl: Pridobili ste certifikat za to orodje
 label_certificate_benefits:
   bg: С този сертификат можете да кандидатствате за намаление на ставките по застраховката
   ca: Amb aquest certificat, podeu sol·licitar una reducció de les primes de l'assegurança
@@ -7015,7 +7015,7 @@ label_certificate_learn_more_about_the_benefits:
   nl_BE: Meer informatie over de voordelen…
   pt: Saiba mais sobre os benefícios…
   sk: Viac informácií o výhodách…
-  sl: Več informacij o prednostih…  
+  sl: Več informacij o prednostih…
 label_certificate_view:
   bg: Преглед на сертификата
   ca: Veure el certificat
@@ -7123,7 +7123,7 @@ label_certificate_company_identification_number:
   nl: Bedrijfsidentificatienummer
   nl_BE: Ondernemingsnummer
   pt: Número de identificação da empresa
-  sl: Identifikacijska številka podjetja  
+  sl: Identifikacijska številka podjetja
 label_certificate_contact_name:
   bg: Име на контакт
   ca: Nom de contacte
@@ -8908,7 +8908,7 @@ label_subscriptions:
   en: Subscriptions
   fr: Abonnements
   nl: Abonnementen
-label_type: 
+label_type:
   en: Type
   nl: Type
   de: Typ
