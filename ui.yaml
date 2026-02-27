@@ -2931,6 +2931,7 @@ label_enable_training:
   lv: Iespējot apmācību
   et: Luba koolitus
   mt: Attiva t-taħriġ
+  he: הפעלת ההכשרה  
 
 message_add_questions_to_the_training_from_the_sidebar:
   en: You may add questions to the training in the training section. The training section can be accessed from the sidebar after saving the settings.
@@ -3748,32 +3749,6 @@ label_handling_of_measures_text:
   mt: Il-livell tal-test tal-miżuri
   ga: Riarachán téacs na mbonn
   he: טיפול בטקסט האמצעים
-
-label_enable_training:
-  nl: Inschakelen van training
-  en: Enable training
-  fr: Activer la formation
-  de: Training aktivieren
-  it: Abilita addestramento
-  es: Habilitar entrenamiento
-  pt: Ativar treinamento
-  pl: Włącz trening
-  sv: Aktivera träning
-  da: Aktivér træning
-  fi: Ota koulutus käyttöön
-  cs: Povolit trénink
-  el: Ενεργοποίηση εκπαίδευσης
-  hu: Képzés engedélyezése
-  ro: Activare instruire
-  bg: Активиране на обучение
-  hr: Omogući obuku
-  sk: Povoliť tréning
-  sl: Omogoči usposabljanje
-  lt: Įgalinti mokymą
-  lv: Iespējot apmācību
-  et: Koolituse lubamine
-  mt: Ipermessa l-istħarriġ
-  ga: Cumasaigh traenáil
 
 label_oira_tool_where_measures_that_are_already_in_place_can_be_defined:
   nl: OiRA tool waar "maatregelen die al van kracht zijn" kunnen worden gedefinieerd
