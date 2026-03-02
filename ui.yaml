@@ -1,3 +1,111 @@
+label_answer_3:
+  en: Answer 3
+  nl: Antwoord 3
+  fr: Réponse 3
+  de: Antwort 3
+  it: Risposta 3
+  es: Respuesta 3
+  pt: Resposta 3
+  pl: Odpowiedź 3
+  fi: Vastaus 3
+  hr: Odgovor 3
+  cs: Odpověď 3
+  da: Svar 3
+  mt: Tweġiba 3
+  sl: Odgovor 3
+  bg: Отговор 3
+  ro: Răspunsul 3
+  et: Vastus 3
+  lv: Atbilde 3
+  lt: Atsakymas 3
+  sv: Svar 3
+  sk: Odpoveď 3
+  hu: Válasz 3
+  el: Απάντηση 3
+  ga: Freagra 3
+  he: תשובה 3 
+
+label_answer_2:
+  en: Answer 2
+  nl: Antwoord 2
+  fr: Réponse 2
+  de: Antwort 2
+  it: Risposta 2
+  es: Respuesta 2
+  pt: Resposta 2
+  pl: Odpowiedź 2
+  fi: Vastaus 2
+  hr: Odgovor 2
+  cs: Odpověď 2
+  da: Svar 2
+  mt: Tweġiba 2
+  sl: Odgovor 2
+  bg: Отговор 2
+  ro: Răspunsul 2
+  et: Vastus 2
+  lv: Atbilde 2
+  lt: Atsakymas 2
+  sv: Svar 2
+  sk: Odpoveď 2
+  hu: Válasz 2
+  el: Απάντηση 2
+  ga: Freagra 2
+  he: תשובה 2
+
+label_answer_1:
+  en: Answer 1
+  nl: Antwoord 1
+  fr: Réponse 1
+  de: Antwort 1
+  it: Risposta 1
+  es: Respuesta 1
+  pt: Resposta 1
+  pl: Odpowiedź 1
+  fi: Vastaus 1
+  hr: Odgovor 1
+  cs: Odpověď 1
+  da: Svar 1
+  mt: Tweġiba 1
+  sl: Odgovor 1
+  bg: Отговор 1
+  ro: Răspunsul 1
+  et: Vastus 1
+  lv: Atbilde 1
+  lt: Atsakymas 1
+  sv: Svar 1
+  sk: Odpoveď 1
+  hu: Válasz 1
+  el: Απάντηση 1
+  ga: Freagra 1
+  he: תשובה 1
+
+label_answers:
+  en: Answers
+  nl: Antwoorden
+  fr: Réponses
+  de: Antworten
+  it: Risposte
+  es: Respuestas
+  pt: Respostas
+  pl: Odpowiedzi
+  fi: Vastaukset
+  hr: Odgovori
+  cs: Odpovědi
+  da: Svar
+  mt: Tweġibiet
+  sl: Odgovori
+  bg: Отговори
+  ro: Răspunsuri
+  et: Vastused
+  lv: Atbildes
+  lt: Atsakymai
+  sv: Svar
+  sk: Odpovědi
+  hu: Válaszok
+  el: Απαντήσεις
+  ga: Freagraí
+  he: תשובות
+
 message_unpublish:
   en: Unpublishing a tool will remove it from public view. The tool will still be available in your account, and you can republish it at any time.
   nl: Het depubliceren van een tool zorgt ervoor dat deze niet langer openbaar zichtbaar is. De tool blijft echter beschikbaar in uw account en u kunt deze op elk moment opnieuw publiceren.
