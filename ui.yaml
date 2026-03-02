@@ -1,3 +1,30 @@
+message_answer_will_be_randomised:
+  en: During the training, the order of the answers will be randomised for each question.
+  nl: Tijdens de training zal de volgorde van de antwoorden voor elke vraag worden gerandomiseerd.
+  fr: Pendant la formation, l'ordre des réponses sera randomisé pour chaque question.
+  de: Während der Schulung wird die Reihenfolge der Antworten für jede Frage randomisiert.
+  it: Durante la formazione, l'ordine delle risposte sarà randomizzato per ogni domanda.
+  es: Durante la capacitación, el orden de las respuestas se aleatorizará para cada pregunta.
+  pt: Durante o treinamento, a ordem das respostas será randomizada para cada pergunta.
+  pl: Podczas szkolenia kolejność odpowiedzi będzie losowa dla każdego pytania.
+  fi: Koulutuksen aikana vastausten järjestys satunnaistetaan jokaiselle kysymykselle.
+  hr: Tijekom obuke, redoslijed odgovora će biti nasumičan za svako pitanje.
+  cs: Během školení bude pořadí odpovědí pro každou otázku náhodné.
+  da: Under træningen vil rækkefølgen af svarene blive tilfældigt for hver spørgsmål.
+  mt: Matul it-taħriġ, l-ordni tal-mistoqsijiet se tkun randomizzata għal kull mistoqsija.
+  sl: Med usposabljanjem bo vrstni red odgovorov naključen za vsako vprašanje.
+  bg: По време на обучението редът на отговорите ще бъде произволен за всеки въпрос.
+  ro: În timpul instruirii, ordinea răspunsurilor va fi aleatorie pentru fiecare întrebare.
+  et: Koolituse ajal vastuste järjestus iga küsimuse puhul juhuslikuks.
+  lv: Apmācības laikā atbilžu secība katram jautājumam tiks nejauši sajaukta.
+  lt: Mokymo metu atsakymų tvarka bus atsitiktinė kiekvienam klausimui.
+  sv: Under utbildningen kommer ordningen på svaren att slumpas för varje fråga.
+  sk: Během školení bude pořadí odpovědí pro každou otázku náhodné.
+  hu: A képzés során a válaszok sorrendje minden kérdésnél véletlenszerű lesz.
+  el: Κατά τη διάρκεια της εκπαίδευσης, η σειρά των απαντήσεων θα είναι τυχαία για κάθε ερώτηση.
+  ga: Le linn an oiliúint, beidh ord na bhfreagraí randamach do gach ceist.
+  he: במהלך ההכשרה, סדר התשובות יהיה אקראי עבור כל שאלה.
+
 label_add_a_question:
   en: Add a question
   nl: Voeg een vraag toe
