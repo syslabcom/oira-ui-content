@@ -1,3 +1,84 @@
+label_add_a_question:
+  en: Add a question
+  nl: Voeg een vraag toe
+  fr: Ajouter une question
+  de: Fügen Sie eine Frage hinzu
+  it: Aggiungi una domanda
+  es: Agregar una pregunta
+  pt: Adicionar uma pergunta
+  pl: Dodaj pytanie
+  fi: Lisää kysymys
+  hr: Dodaj pitanje
+  cs: Přidat otázku
+  da: Tilføj et spørgsmål
+  mt: Żid mistoqsija
+  sl: Dodaj vprašanje
+  bg: Добавете въпрос
+  ro: Adăugați o întrebare
+  et: Lisa küsimus
+  lv: Pievienot jautājumu
+  lt: Pridėti klausimą
+  sv: Lägg till en fråga
+  sk: Přidat otázku
+  hu: Kérdés hozzáadása
+  el: Προσθήκη ερώτησης
+  ga: Cuir ceist leis
+  he: הוסף שאלה
+
+label_incorrect_answer_2:
+  en: Incorrect answer 2
+  nl: Onjuist antwoord 2
+  fr: Réponse incorrecte 2
+  de: Falsche Antwort 2
+  it: Risposta errata 2
+  es: Respuesta incorrecta 2
+  pt: Resposta incorreta 2
+  pl: Niepoprawna odpowiedź 2
+  fi: Väärä vastaus 2
+  hr: Netočan odgovor 2
+  cs: Nesprávná odpověď 2
+  da: Forkert svar 2
+  mt: Tweġiba żbaljata 2
+  sl: Napačen odgovor 2
+  bg: Неправилен отговор 2
+  ro: Răspuns incorect 2
+  et: Vale vastus 2
+  lv: Nepareizā atbilde 2
+  lt: Neteisingas atsakymas 2
+  sv: Fel svar 2
+  sk: Nesprávná odpověď 2
+  hu: Helytelen válasz 2
+  el: Λανθασμένη απάντηση 2
+  ga: Freagra míchearta 2
+  he: תשובה שגויה 2
+
+label_incorrect_answer_1:
+  en: Incorrect answer 1
+  nl: Onjuist antwoord 1
+  fr: Réponse incorrecte 1
+  de: Falsche Antwort 1
+  it: Risposta errata 1
+  es: Respuesta incorrecta 1
+  pt: Resposta incorreta 1
+  pl: Niepoprawna odpowiedź 1
+  fi: Väärä vastaus 1
+  hr: Netočan odgovor 1
+  cs: Nesprávná odpověď 1
+  da: Forkert svar 1
+  mt: Tweġiba żbaljata 1
+  sl: Napačen odgovor 1
+  bg: Неправилен отговор 1
+  ro: Răspuns incorect 1
+  et: Vale vastus 1
+  lv: Nepareizā atbilde 1
+  lt: Neteisingas atsakymas 1
+  sv: Fel svar 1
+  sk: Nesprávná odpověď 1
+  hu: Helytelen válasz 1
+  el: Λανθασμένη απάντηση 1
+  ga: Freagra míchearta 1
+  he: תשובה שגויה 1
+
 label_answer_3:
   en: Answer 3
   nl: Antwoord 3
