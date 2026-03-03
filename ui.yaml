@@ -1,3 +1,57 @@
+label_edit_question_imp:
+  en: Edit question
+  nl: Bewerk vraag
+  fr: Modifier la question
+  de: Frage bearbeiten
+  it: Modifica domanda
+  es: Editar pregunta
+  pt: Editar pergunta
+  pl: Edytuj pytanie
+  fi: Muokkaa kysymystä
+  hr: Uredi pitanje
+  cs: Upravit otázku
+  da: Rediger spørgsmål
+  mt: Editja mistoqsija
+  sl: Uredi vprašanje
+  bg: Редактиране на въпрос
+  ro: Editați întrebarea
+  et: Redigeeri küsimust
+  lv: Rediģēt jautājumu
+  lt: Redaguoti klausimą
+  sv: Redigera fråga
+  sk: Upravit otázku
+  hu: Kérdés szerkesztése
+  el: Επεξεργασία ερώτησης
+  ga: Eagar ceist
+  he: ערוך שאלה
+
+label_edit_question:
+  en: Edit question
+  nl: Vraag bewerken
+  fr: Modifier la question
+  de: Frage bearbeiten
+  it: Modifica domanda
+  es: Editar pregunta
+  pt: Editar pergunta
+  pl: Edytuj pytanie
+  fi: Muokkaa kysymystä
+  hr: Uredi pitanje
+  cs: Upravit otázku
+  da: Rediger spørgsmål
+  mt: Editja mistoqsija
+  sl: Uredi vprašanje
+  bg: Редактиране на въпрос
+  ro: Editați întrebarea
+  et: Redigeeri küsimust
+  lv: Rediģēt jautājumu
+  lt: Redaguoti klausimą
+  sv: Redigera fråga
+  sk: Upravit otázku
+  hu: Kérdés szerkesztése
+  el: Επεξεργασία ερώτησης
+  ga: Eagar ceist
+  he: ערוך שאלה
+
 label_delete_question_imp:
   en: Delete question
   nl: Verwijder vraag
