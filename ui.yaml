@@ -1,3 +1,30 @@
+message_delete_question:
+  en: You are about to delete this question from the training.
+  nl: U staat op het punt deze vraag uit de training te verwijderen.
+  fr: Vous êtes sur le point de supprimer cette question de la formation.
+  de: Sie sind dabei, diese Frage aus dem Training zu löschen.
+  it: Stai per eliminare questa domanda dal training.
+  es: Estás a punto de eliminar esta pregunta de la capacitación.
+  pt: Você está prestes a excluir esta pergunta do treinamento.
+  pl: Masz zamiar usunąć to pytanie z szkolenia.
+  fi: Olet poistamassa tätä kysymystä koulutuksesta.
+  hr: Spremni ste izbrisati ovo pitanje iz obuke.
+  cs: Chystáte se smazat tuto otázku ze školení.
+  da: Du er ved at slette dette spørgsmål fra træningen.
+  mt: Int qed tħassar dan il-mistoqsija mit-taħriġ.
+  sl: Sprejemate, da izbrišete to vprašanje iz usposabljanja.
+  bg: Вие сте на път да изтриете този въпрос от обучението.
+  ro: Ești pe cale să ștergi această întrebare din antrenament.
+  et: Olete selle küsimuse kustutamiseks koolitusest.
+  lv: Jūs esat gatavs dzēst šo jautājumu no apmācības.
+  lt: Jūs ketinate ištrinti šį klausimą iš mokymo.
+  sv: Du håller på att ta bort den här frågan från träningen.
+  sk: Chystáte sa vymazať túto otázku zo školenia.
+  hu: Készülsz törölni ezt a kérdést a képzésből.
+  el: Πρόκειται να διαγράψετε αυτήν την ερώτηση από την εκπαίδευση.
+  ga: Tá tú ar tí an cheist seo a scriosadh ó an oiliúint.
+  he: אתה עומד למחוק את השאלה הזו מההכשרה.
+
 message_answer_will_be_randomised:
   en: During the training, the order of the answers will be randomised for each question.
   nl: Tijdens de training zal de volgorde van de antwoorden voor elke vraag worden gerandomiseerd.
