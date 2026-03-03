@@ -1,3 +1,57 @@
+label_delete_question_imp:
+  en: Delete question
+  nl: Verwijder vraag
+  fr: Supprimer la question
+  de: Frage löschen
+  it: Elimina domanda
+  es: Eliminar pregunta
+  pt: Excluir pergunta
+  pl: Usuń pytanie
+  fi: Poista kysymys
+  hr: Izbriši pitanje
+  cs: Smazat otázku
+  da: Slet spørgsmål
+  mt: Ħassar mistoqsija
+  sl: Izbriši vprašanje
+  bg: Изтрий въпрос
+  ro: Șterge întrebare
+  et: Kustuta küsimus
+  lv: Dzēst jautājumu
+  lt: Ištrinti klausimą
+  sv: Ta bort fråga
+  sk: Smazat otázku
+  hu: Kérdés törlése
+  el: Διαγραφή ερώτησης
+  ga: Scrios ceist
+  he: מחק שאלה
+
+label_delete_question:
+  en: Delete question
+  nl: Vraag verwijderen
+  fr: Supprimer la question
+  de: Frage löschen
+  it: Elimina domanda
+  es: Eliminar pregunta
+  pt: Excluir pergunta
+  pl: Usuń pytanie
+  fi: Poista kysymys
+  hr: Izbriši pitanje
+  cs: Smazat otázku
+  da: Slet spørgsmål
+  mt: Ħassar mistoqsija
+  sl: Izbriši vprašanje
+  bg: Изтрий въпрос
+  ro: Șterge întrebare
+  et: Kustuta küsimus
+  lv: Dzēst jautājumu
+  lt: Ištrinti klausimą
+  sv: Ta bort fråga
+  sk: Smazat otázku
+  hu: Kérdés törlése
+  el: Διαγραφή ερώτησης
+  ga: Scrios ceist
+  he: מחק שאלה
+
 message_delete_question:
   en: You are about to delete this question from the training.
   nl: U staat op het punt deze vraag uit de training te verwijderen.
