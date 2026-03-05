@@ -1,3 +1,57 @@
+message_help_action_plan_budget:
+  en: Although some measures do not cost any money, most do. The measures should therefore be budgeted for; include them in the annual budget round if necessary.
+  nl: Hoewel sommige maatregelen geen geld kosten, doen de meeste dat wel. De maatregelen moeten daarom worden begroot; neem ze zo nodig op in de jaarlijkse begrotingsronde.
+  fr: Bien que certaines mesures ne coûtent rien, la plupart en ont un coût. Les mesures doivent donc être budgétisées ; incluez-les si nécessaire dans le cycle budgétaire annuel.
+  de: Obwohl einige Maßnahmen kein Geld kosten, tun dies die meisten. Die Maßnahmen sollten daher budgetiert werden; nehmen Sie sie gegebenenfalls in die jährliche Budgetplanung auf.
+  it: Sebbene alcune misure non comportino alcun costo, la maggior parte sì. Le misure dovrebbero quindi essere incluse nel budget; se necessario, inseritele nel ciclo annuale di bilancio.
+  es: Aunque algunas medidas no cuestan dinero, la mayoría sí. Por lo tanto, las medidas deben presupuestarse; inclúyalas en el ciclo presupuestario anual si es necesario.
+  pt: Embora algumas medidas não impliquem custos, a maioria implica. Por isso, as medidas devem ser orçamentadas; inclua-as no ciclo orçamental anual, se necessário.
+  pl: Chociaż niektóre środki nie wiążą się z kosztami, większość tak. Dlatego środki te powinny zostać uwzględnione w budżecie; w razie potrzeby należy je włączyć do corocznego cyklu budżetowego.
+  fi: Vaikka jotkin toimenpiteet eivät maksa mitään, useimmat maksavat. Toimenpiteet tulisi siksi sisällyttää budjettiin; lisää ne tarvittaessa vuosittaiseen budjettikierrokseen.
+  hr: Iako neke mjere ne zahtijevaju financijska sredstva, većina ih zahtijeva. Stoga mjere treba uključiti u proračun; po potrebi ih uvrstite u godišnji proračunski ciklus.
+  cs: Přestože některá opatření nic nestojí, většina ano. Opatření by proto měla být zahrnuta do rozpočtu; v případě potřeby je zařaďte do každoročního rozpočtového cyklu.
+  da: Selvom nogle foranstaltninger ikke koster noget, gør de fleste. Foranstaltningerne bør derfor budgetteres; medtag dem om nødvendigt i den årlige budgetrunde.
+  mt: Għalkemm xi miżuri ma jiswew l-ebda flus, il-biċċa l-kbira jiswew. Għalhekk il-miżuri għandhom jiġu inklużi fil-baġit; jekk meħtieġ, inkludiha fiċ-ċiklu annwali tal-baġit.
+  sl: Čeprav nekateri ukrepi ne stanejo nič, večina stane. Ukrepe je zato treba vključiti v proračun; po potrebi jih vključite v letni proračunski cikel.
+  bg: Въпреки че някои мерки не струват пари, повечето струват. Затова мерките трябва да бъдат включени в бюджета; при необходимост ги включете в годишния бюджетен цикъл.
+  ro: Deși unele măsuri nu implică costuri, majoritatea implică. Prin urmare, măsurile ar trebui bugetate; includeți-le, dacă este necesar, în ciclul anual de buget.
+  et: Kuigi mõned meetmed ei maksa midagi, maksab enamik. Seetõttu tuleks meetmed eelarvesse planeerida; vajaduse korral lisage need iga-aastasesse eelarveringi.
+  lv: Lai gan daži pasākumi nemaksā neko, lielākā daļa maksā. Tāpēc pasākumi jāiekļauj budžetā; ja nepieciešams, iekļaujiet tos ikgadējā budžeta plānošanas ciklā.
+  lt: Nors kai kurios priemonės nieko nekainuoja, dauguma kainuoja. Todėl priemones reikėtų įtraukti į biudžetą; prireikus įtraukite jas į metinį biudžeto planavimo ciklą.
+  sv: Även om vissa åtgärder inte kostar något gör de flesta det. Åtgärderna bör därför budgeteras; inkludera dem vid behov i den årliga budgetprocessen.
+  sk: Hoci niektoré opatrenia nič nestoja, väčšina áno. Opatrenia by preto mali byť zahrnuté do rozpočtu; v prípade potreby ich zahrňte do ročného rozpočtového cyklu.
+  hu: Bár egyes intézkedések nem járnak költséggel, a legtöbb igen. Az intézkedéseket ezért be kell tervezni a költségvetésbe; szükség esetén vegye fel őket az éves költségvetési ciklusba.
+  el: Αν και ορισμένα μέτρα δεν κοστίζουν χρήματα, τα περισσότερα κοστίζουν. Τα μέτρα θα πρέπει επομένως να προϋπολογίζονται· εάν χρειάζεται, συμπεριλάβετέ τα στον ετήσιο κύκλο προϋπολογισμού.
+  ga: Cé nach gcosnaíonn roinnt beart aon airgead, cosnaíonn an chuid is mó. Ba chóir na bearta a chur san áireamh sa bhuiséad dá bhrí sin; más gá, cuir san áireamh iad sa timthriall bliantúil buiséadaithe.
+  he: אף שחלק מהאמצעים אינם כרוכים בעלות כספית, רובם כן. לכן יש לתקצב את האמצעים; במידת הצורך יש לכלול אותם בסבב התקציב השנתי.
+
+message_help_action_plan_responsible:
+  en: Appoint someone in your company to be responsible for the implementation of this measure. This person will have the authority to take the steps described in the Plan and/or the responsibility to ensure that they are carried out.
+  nl: Wijs iemand in uw organisatie aan die verantwoordelijk is voor de uitvoering van deze maatregel. Deze persoon heeft de bevoegdheid om de in het plan beschreven stappen te nemen en/of de verantwoordelijkheid om erop toe te zien dat zij worden uitgevoerd.
+  fr: Désignez une personne dans votre entreprise responsable de la mise en œuvre de cette mesure. Cette personne aura l’autorité de prendre les mesures décrites dans le plan et/ou la responsabilité de veiller à ce qu’elles soient exécutées.
+  de: Benennen Sie eine Person in Ihrem Unternehmen, die für die Umsetzung dieser Maßnahme verantwortlich ist. Diese Person hat die Befugnis, die im Plan beschriebenen Schritte einzuleiten und/oder die Verantwortung sicherzustellen, dass sie durchgeführt werden.
+  it: Nomina una persona nella tua azienda responsabile dell’attuazione di questa misura. Questa persona avrà l’autorità di intraprendere le azioni descritte nel piano e/o la responsabilità di assicurarsi che vengano eseguite.
+  es: Designe a una persona en su empresa responsable de la implementación de esta medida. Esta persona tendrá la autoridad para llevar a cabo los pasos descritos en el plan y/o la responsabilidad de garantizar que se realicen.
+  pt: Nomeie alguém na sua empresa responsável pela implementação desta medida. Essa pessoa terá autoridade para executar as etapas descritas no plano e/ou a responsabilidade de garantir que sejam realizadas.
+  pl: Wyznacz w swojej firmie osobę odpowiedzialną za wdrożenie tego środka. Osoba ta będzie miała uprawnienia do podjęcia działań opisanych w planie i/lub odpowiedzialność za dopilnowanie ich realizacji.
+  fi: Nimeä yrityksestäsi henkilö, joka vastaa tämän toimenpiteen toteuttamisesta. Tällä henkilöllä on valtuudet toteuttaa suunnitelmassa kuvatut vaiheet ja/tai vastuu varmistaa, että ne toteutetaan.
+  hr: Imenujte osobu u svojoj tvrtki odgovornu za provedbu ove mjere. Ta osoba će imati ovlasti poduzeti korake opisane u planu i/ili odgovornost osigurati njihovu provedbu.
+  cs: Určete ve své organizaci osobu odpovědnou za provedení tohoto opatření. Tato osoba bude mít pravomoc podniknout kroky popsané v plánu a/nebo odpovědnost zajistit jejich realizaci.
+  da: Udpeg en person i din virksomhed, som er ansvarlig for gennemførelsen af denne foranstaltning. Denne person vil have beføjelse til at tage de skridt, der er beskrevet i planen, og/eller ansvaret for at sikre, at de bliver gennemført.
+  mt: Aħtar persuna fil-kumpanija tiegħek responsabbli għall-implimentazzjoni ta’ din il-miżura. Din il-persuna jkollha l-awtorità biex tieħu l-passi deskritti fil-pjan u/jew ir-responsabbiltà li tiżgura li dawn jitwettqu.
+  sl: V svojem podjetju določite osebo, odgovorno za izvajanje tega ukrepa. Ta oseba bo imela pooblastila za izvedbo korakov, opisanih v načrtu, in/ali odgovornost, da zagotovi njihovo izvedbo.
+  bg: Назначете лице във вашата организация, което да отговаря за изпълнението на тази мярка. Това лице ще има правомощията да предприеме стъпките, описани в плана, и/или отговорността да гарантира тяхното изпълнение.
+  ro: Numiți o persoană din compania dumneavoastră responsabilă de implementarea acestei măsuri. Această persoană va avea autoritatea de a întreprinde pașii descriși în plan și/sau responsabilitatea de a se asigura că sunt realizați.
+  et: Määrake oma ettevõttes isik, kes vastutab selle meetme rakendamise eest. Sellel isikul on volitus teha plaanis kirjeldatud samme ja/või vastutus tagada nende elluviimine.
+  lv: Norīkojiet savā uzņēmumā personu, kas būs atbildīga par šī pasākuma īstenošanu. Šai personai būs pilnvaras veikt plānā aprakstītos soļus un/vai atbildība nodrošināt, ka tie tiek īstenoti.
+  lt: Paskirkite savo įmonėje asmenį, atsakingą už šios priemonės įgyvendinimą. Šis asmuo turės įgaliojimus atlikti plane aprašytus veiksmus ir (arba) atsakomybę užtikrinti, kad jie būtų įvykdyti.
+  sv: Utse en person i ditt företag som ansvarar för genomförandet av denna åtgärd. Denna person kommer att ha befogenhet att vidta de steg som beskrivs i planen och/eller ansvaret att säkerställa att de genomförs.
+  sk: Určte vo svojej organizácii osobu zodpovednú za realizáciu tohto opatrenia. Táto osoba bude mať právomoc vykonať kroky opísané v pláne a/alebo zodpovednosť zabezpečiť ich vykonanie.
+  hu: Jelöljön ki a vállalatán belül egy személyt, aki felelős lesz ennek az intézkedésnek a végrehajtásáért. Ennek a személynek felhatalmazása lesz a tervben leírt lépések megtételére és/vagy felelőssége annak biztosítása, hogy azok megvalósuljanak.
+  el: Ορίστε ένα άτομο στην εταιρεία σας που θα είναι υπεύθυνο για την εφαρμογή αυτού του μέτρου. Το άτομο αυτό θα έχει την εξουσία να λάβει τα βήματα που περιγράφονται στο Σχέδιο και/ή την ευθύνη να διασφαλίσει ότι θα υλοποιηθούν.
+  ga: Ceap duine i do chuideachta a bheidh freagrach as an mbeart seo a chur i bhfeidhm. Beidh údarás ag an duine seo na céimeanna atá leagtha amach sa Phlean a ghlacadh agus/nó an fhreagracht a chinntiú go gcuirtear i gcrích iad.
+  he: מנו אדם בארגון שלכם שיהיה אחראי ליישום אמצעי זה. לאדם זה תהיה הסמכות לבצע את הצעדים המתוארים בתכנית ו/או האחריות לוודא שהם מתבצעים.
+
 label_edit_question_imp:
   en: Edit question
   nl: Bewerk vraag
