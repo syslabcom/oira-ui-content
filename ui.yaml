@@ -1,3 +1,30 @@
+label_sector_name:
+  en: Sector name
+  nl: Naam van de sector
+  fr: Nom du secteur
+  de: Sektorname
+  it: Nome del settore
+  es: Nombre del sector
+  pt: Nome do setor
+  pl: Nazwa sektora
+  fi: Toimialan nimi
+  hr: Naziv sektora
+  cs: Název sektoru
+  da: Sektornavn
+  mt: Isem tas-settur
+  sl: Ime sektorja
+  bg: Име на сектора
+  ro: Numele sectorului
+  et: Tööstusharu nimi
+  lv: Nozares nosaukums
+  lt: Sektoriaus pavadinimas
+  sv: Sektorns namn
+  sk: Název sektoru
+  hu: Ágazat neve
+  el: Όνομα τομέα
+  ga: Ainm an Roinn
+  he: שם המגזר
+
 message_help_action_plan_budget:
   en: Although some measures do not cost any money, most do. The measures should therefore be budgeted for; include them in the annual budget round if necessary.
   nl: Hoewel sommige maatregelen geen geld kosten, doen de meeste dat wel. De maatregelen moeten daarom worden begroot; neem ze zo nodig op in de jaarlijkse begrotingsronde.
