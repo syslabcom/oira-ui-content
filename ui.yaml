@@ -452,7 +452,7 @@ button_print:
   lt: Spausdinti
   lv: Drukāt
   mt: Ipprintja
-  nl: Print
+  nl: "Afdrukken"
   nl_BE: Afdrukken
   nl_be: Afdrukken
   'no': Skriv ut
@@ -2127,14 +2127,14 @@ information:
   ca: Informació
   cs: Informace
   cy: Gwybodaeth
-  da: Information
+  da: "Information"
   de: Informationen
   el: Πληροφορίες
   en: Information
   es: Información
   et: Informatsioon
   fi: Tiedot
-  fr: Information
+  fr: "Informations"
   ga: Eolas
   he: מידע
   hr: Informacija
@@ -2156,7 +2156,7 @@ information:
   sl: Informacije
   sq: Informacion
   sr: Informacije
-  sv: Information
+  sv: "Information"
   uk: Інформація
 label_about_this_risk:
   bg: за този риск.
@@ -2235,14 +2235,14 @@ label_action_plan_budget:
   ca: Pressupost
   cs: Rozpočet
   cy: Cyllideb
-  da: Budget
-  de: Budget
+  da: "Budget"
+  de: "Budget"
   el: Προϋπολογισμός
   en: Budget
   es: Presupuesto
   et: Eelarve
   fi: Budjetti
-  fr: Budget
+  fr: "Budget"
   ga: Buiséad
   he: תקציב
   hr: Proračun
@@ -2253,8 +2253,8 @@ label_action_plan_budget:
   lv: Budžets
   mt: Baġit
   nl: Budget (in Euro)
-  nl_BE: Budget
-  nl_be: Budget
+  nl_BE: "Budget"
+  nl_be: "Budget"
   'no': Budsjett
   pl: Budżet
   pt: Orçamento
@@ -2264,7 +2264,7 @@ label_action_plan_budget:
   sl: Potrebna sredstva
   sq: Buxheti
   sr: Budžet
-  sv: Budget
+  sv: "Budget"
   uk: Бюджет
 label_action_plan_download:
   bg: План за действие
@@ -2884,7 +2884,7 @@ label_all:
   cs: Vše
   cy: Pob un
   da: Alle
-  de: All
+  de: "Alle"
   el: Όλα
   en: All
   es: Todos
@@ -4658,6 +4658,26 @@ label_certificate_is_private:
   lt: yra privatus, nebent nuspręsite jį padaryti viešu. Jei paspausite žemiau esantį „Publikuoti“ mygtuką, jūsų sertifikatas bus paskelbtas oficialiame
   lv: ir privāts, ja vien neizlemjat to padarīt publisku. Ja noklikšķināsiet zemāk esošo “Publicēt” pogu, jūsu sertifikāts tiks publicēts oficiālajā
   mt: huwa privat sakemm ma tagħżilx li tagħmlu pubbliku. Jekk tagħfas il-buttuna "Ippubblika" hawn taħt, iċ-ċertifikat tie
+  cy: "Mae'n breifat oni bai eich bod yn dewis ei wneud yn gyhoeddus. Os cliciwch y botwm \"Cyhoeddi\" isod, bydd eich tystysgrif yn cael ei chyhoeddi ar y wefan swyddogol."
+  da: "Det er privat, medmindre du vælger at gøre det offentligt. Hvis du klikker på knappen \"Udgiv\" nedenfor, vil dit certifikat blive offentliggjort på den officielle hjemmeside."
+  en: 'It is private unless you choose to make it public. If you click the "Publish" button below, your certificate will be published on the official website'
+  et: "See on privaatne, välja arvatud juhul, kui otsustate selle avalikuks teha. Kui klõpsate alloleval \"Avalda\" nupul, avaldatakse teie sertifikaat ametlikul veebisaidil."
+  ga: "Tá sé príobháideach ach amháin más roghnaíonn tú é a dhéanamh poiblí. Má chliceálann tú ar an gcnaipe \"Foilsiú\" thíos, foilseofar do dheimhnigh ar an suíomh gréasáin oifigiúil."
+  he: "זה פרטי אלא אם תבחר להפוך אותו לציבורי. אם תלחץ על כפתור \"פרסם\" למטה, התעודה שלך תפורסם באתר הרשמי."
+  nl: "Het is privé, tenzij je ervoor kiest het openbaar te maken. Als je op de knop \"Publiceren\" hieronder klikt, wordt je certificaat gepubliceerd op de officiële website."
+  nl_BE: "Het is privé, tenzij je ervoor kiest het openbaar te maken. Als je op de knop \"Publiceren\" hieronder klikt, wordt je certificaat gepubliceerd op de officiële website."
+  nl_be: "Het is privé, tenzij je ervoor kiest het openbaar te maken. Als je op de knop \"Publiceren\" hieronder klikt, wordt je certificaat gepubliceerd op de officiële website."
+  'no': "Det er privat med mindre du velger å gjøre det offentlig. Hvis du klikker på \"Publiser\"-knappen nedenfor, vil sertifikatet ditt bli publisert på den offisielle nettsiden."
+  pl: "Jest to prywatne, chyba że zdecydujesz się to upublicznić. Jeśli klikniesz przycisk \"Opublikuj\" poniżej, twój certyfikat zostanie opublikowany na oficjalnej stronie internetowej."
+  pt: "É privado, a menos que você escolha torná-lo público. Se você clicar no botão \"Publicar\" abaixo, seu certificado será publicado no site oficial."
+  ro: "Este privat, cu excepția cazului în care alegi să-l faci public. Dacă dai clic pe butonul \"Publicați\" de mai jos, certificatul tău va fi publicat pe site-ul oficial."
+  ru: "Это частная информация, если вы не решите сделать её публичной. Если вы нажмёте кнопку \"Опубликовать\" ниже, ваш сертификат будет опубликован на официальном сайте."
+  sk: "Je to súkromné, pokiaľ sa nerozhodnete to zverejniť. Ak kliknete na tlačidlo \"Zverejniť\" nižšie, váš certifikát bude zverejnený na oficiálnej webovej stránke."
+  sl: "Je zasebno, razen če se odločite, da ga naredite javno. Če kliknete gumb \"Objavi\" spodaj, bo vaš certifikat objavljen na uradni spletni strani."
+  sq: "Është private përveç nëse vendos ta bësh publik. Nëse klikoni butonin \"Publiko\" më poshtë, certifikata juaj do të publikohet në faqen zyrtare."
+  sr: "To je privatno osim ako ne odlučite da to učinite javnim. Ako kliknete dugme \"Objavi\" ispod, vaš sertifikat će biti objavljen na zvaničnom vebu."
+  sv: "Det är privat om du inte väljer att göra det offentligt. Om du klickar på knappen \"Publicera\" nedan kommer ditt certifikat att publiceras på den officiella webbplatsen."
+  uk: "Це приватно, якщо ви не вирішите зробити це публічним. Якщо ви натиснете кнопку \"Опублікувати\" нижче, ваш сертифікат буде опубліковано на офіційному вебсайті."
 label_certificate_learn_more_about_the_benefits:
   bg: Научете повече за предимствата…
   ca: Més informació sobre els avantatges…
@@ -4804,7 +4824,7 @@ label_certificate_your_certificate_for:
   uk: Ваш сертифікат для
 label_certificates:
   bg: Сертификати
-  ca: Certificates
+  ca: "Certificats"
   cs: Certifikáty
   cy: Tystysgrifau
   da: Certifikater
@@ -4819,13 +4839,13 @@ label_certificates:
   he: תעודות
   hr: Certifikati
   hu: Tanúsítványok
-  is: Certificates
+  is: "Vottorð"
   it: Certificati
   lt: Sertifikatai
   lv: Sertifikāti
   mt: Ċertifikati
   nl: Certificaten
-  nl_BE: Certificates
+  nl_BE: "Certificaten"
   nl_be: Certificaten
   'no': Sertifikater
   pl: Certyfikaty
@@ -5004,9 +5024,9 @@ label_clone_imp:
   lt: Kopijuoti
   lv: Klonēt
   mt: Idduplikaw
-  nl: Dupliceer
+  nl: "Dupliceer"
   nl_BE: Dupliceren
-  nl_be: Dupliceer
+  nl_be: "Dupliceer"
   'no': Duplisere
   pl: Duplikuj
   pt: Duplicar
@@ -5652,9 +5672,9 @@ label_criteria:
   lt: Kriterijai
   lv: Kritēriji
   mt: Kriterji
-  nl: Criteria
-  nl_BE: Criteria
-  nl_be: Criteria
+  nl: "Criteria"
+  nl_BE: "Criteria"
+  nl_be: "Criteria"
   'no': Kriterier
   pl: Kryteria
   pt: Critérios
@@ -6362,7 +6382,7 @@ label_description:
   es: Descripción
   et: Kirjeldus
   fi: Kuvaus
-  fr: Description
+  fr: "Description"
   ga: Cur síos
   he: תיאור
   hr: Opis
@@ -6424,7 +6444,7 @@ label_disabled:
   uk: Вимкнено
 label_documents:
   bg: Документи
-  ca: Documents
+  ca: "Documents"
   cs: Dokumenty
   cy: Dogfennau
   da: Dokumenter
@@ -6434,7 +6454,7 @@ label_documents:
   es: Documentos
   et: Dokumendid
   fi: Asiakirjat
-  fr: Documents
+  fr: "Documents"
   ga: Doiciméid
   he: מסמכים
   hr: Dokumenti
@@ -7406,7 +7426,7 @@ label_expertise:
   es: Competencias
   et: Ekspertiis
   fi: Asiantuntemus
-  fr: Expertise
+  fr: "Expertise"
   ga: Saineolas
   he: מומחיות
   hr: Ekspertiza
@@ -7416,9 +7436,9 @@ label_expertise:
   lt: Kompetencija
   lv: Ekspertīze
   mt: Kompetenza
-  nl: Expertise
-  nl_BE: Expertise
-  nl_be: Expertise
+  nl: "Expertise"
+  nl_BE: "Expertise"
+  nl_be: "Expertise"
   'no': Kompetanse
   pl: Wiedza specjalistyczna
   pt: Perícia
@@ -7884,9 +7904,9 @@ label_filters:
   lt: Filtrai
   lv: Filtri
   mt: Filtri
-  nl: Filters
-  nl_BE: Filters
-  nl_be: Filters
+  nl: "Filters"
+  nl_BE: "Filters"
+  nl_be: "Filters"
   'no': Filtre
   pl: Filtry
   pt: Filtros
@@ -8316,9 +8336,9 @@ label_help:
   lt: Pagalba
   lv: Palīdzība
   mt: Għajnuna
-  nl: Help
-  nl_BE: Help
-  nl_be: Help
+  nl: "Help"
+  nl_BE: "Help"
+  nl_be: "Help"
   'no': Hjelp
   pl: Pomoc
   pt: Ajuda
@@ -8479,8 +8499,8 @@ label_hyperlink:
   ca: Hipervincle
   cs: Hypertextový odkaz
   cy: Hyperddolen
-  da: Hyperlink
-  de: Hyperlink
+  da: "Hyperlink"
+  de: "Hyperlink"
   el: Υπερσύνδεσμος
   en: Hyperlink
   es: Hipervínculo
@@ -8496,13 +8516,13 @@ label_hyperlink:
   lt: Hipersaitas
   lv: Hipersaite
   mt: Iperlink
-  nl: Hyperlink
-  nl_BE: Hyperlink
-  nl_be: Hyperlink
+  nl: "Hyperlink"
+  nl_BE: "Hyperlink"
+  nl_be: "Hyperlink"
   'no': Hyperlenke
   pl: Hiperłącze
   pt: Hiperligação
-  ro: Hyperlink
+  ro: "Hyperlink"
   ru: Гиперссылка
   sk: Hypertextový odkaz
   sl: Hiperpovezava
@@ -8594,7 +8614,7 @@ label_identification:
   es: Identificación
   et: Tuvastamine
   fi: Tunnistaminen
-  fr: Identification
+  fr: "Identification"
   ga: Sainaithint
   he: זיהוי
   hr: Prepoznavanje
@@ -9495,7 +9515,7 @@ label_is:
   et: 'On'
   fi: 'On'
   fr: Est
-  ga: Is
+  ga: "Tá"
   he: הוא
   hr: Je
   hu: Az
@@ -9504,9 +9524,9 @@ label_is:
   lt: Yra
   lv: Ir
   mt: Huwa
-  nl: Is
-  nl_BE: Is
-  nl_be: Is
+  nl: "Is"
+  nl_BE: "Is"
+  nl_be: "Is"
   'no': Er
   pl: Jest
   pt: É
@@ -10133,37 +10153,37 @@ label_login:
 label_logo:
   bg: Лого
   ca: Logotip
-  cs: Logo
-  cy: Logo
-  da: Logo
-  de: Logo
+  cs: "Logo"
+  cy: "Logo"
+  da: "Logo"
+  de: "Logo"
   el: Λογότυπο
   en: Logo
   es: Logotipo
-  et: Logo
-  fi: Logo
-  fr: Logo
+  et: "Logo"
+  fi: "Logo"
+  fr: "Logo"
   ga: Lógó
   he: לוגו
-  hr: Logo
+  hr: "Logo"
   hu: Logó
   is: Merki
-  it: Logo
+  it: "Logo"
   lt: Logotipas
   lv: Logotips
-  mt: Logo
-  nl: Logo
-  nl_BE: Logo
-  nl_be: Logo
-  'no': Logo
-  pl: Logo
+  mt: "Logo"
+  nl: "Logo"
+  nl_BE: "Logo"
+  nl_be: "Logo"
+  'no': "Logo"
+  pl: "Logo"
   pt: Logotipo
-  ro: Logo
+  ro: "Logo"
   ru: Логотип
-  sk: Logo
+  sk: "Logo"
   sl: Logotip
-  sq: Logo
-  sr: Logo
+  sq: "Logo"
+  sr: "Лого"
   sv: Logotyp
   uk: Логотип
 label_logo_optional:
@@ -10172,7 +10192,7 @@ label_logo_optional:
   cs: Logo (nepovinné)
   cy: Logo (dewisol)
   da: Logo (valgfrit)
-  de: Logo (optional)
+  de: "Logo (optional)"
   el: Λογότυπο (προαιρετικό)
   en: Logo (optional)
   es: Logotipo (opcional)
@@ -10243,8 +10263,8 @@ label_mailings:
   ca: Enviaments de correu
   cs: Hromadné e-maily
   cy: Postiadau
-  da: Mailings
-  de: Mailings
+  da: "Udsendelser"
+  de: "Mailings"
   el: Αλληλογραφίες
   en: Mailings
   es: Correos
@@ -10259,10 +10279,10 @@ label_mailings:
   it: Mailing
   lt: Laiškai
   lv: Pasta sūtījumi
-  mt: Mailings
-  nl: Mailings
-  nl_BE: Mailings
-  nl_be: Mailings
+  mt: "Mailings"
+  nl: "Mailings"
+  nl_BE: "Mailings"
+  nl_be: "Mailings"
   'no': Utsendelser
   pl: Wysyłki
   pt: Correspondências
@@ -11212,14 +11232,14 @@ label_next:
   uk: Далі
 label_'no':
   bg: Не
-  ca: 'No'
+  ca: "No"
   cs: Ne
   cy: Na
   da: Nej
   de: Nein
   el: Όχι
   en: 'No'
-  es: 'No'
+  es: "No"
   et: Ei
   fi: Ei
   fr: Non
@@ -11228,7 +11248,7 @@ label_'no':
   hr: Ne
   hu: Nem
   is: Nei
-  it: 'No'
+  it: "No"
   lt: Ne
   lv: Nē
   mt: Le
@@ -11284,7 +11304,7 @@ label_not_applicable:
   uk: Не застосовується
 label_notes:
   bg: Бележки
-  ca: Notes
+  ca: "Notes"
   cs: Poznámky
   cy: Nodiadau
   da: Noter
@@ -11503,14 +11523,14 @@ label_organisation:
   ca: Organització
   cs: Organizace
   cy: Sefydliad
-  da: Organisation
-  de: Organisation
+  da: "Organisation"
+  de: "Organisation"
   el: Οργανισμός
   en: Organisation
   es: Organización
   et: Organisatsioon
   fi: Organisaatio
-  fr: Organisation
+  fr: "Organisation"
   ga: Eagraíocht
   he: ארגון
   hr: Organizacija
@@ -11532,7 +11552,7 @@ label_organisation:
   sl: Organizacija
   sq: Organizatë
   sr: Organizacija
-  sv: Organisation
+  sv: "Organisation"
   uk: Організація
 label_organisation_name:
   bg: Наименование на организацията
@@ -11696,10 +11716,10 @@ label_password:
   hr: Lozinka
   hu: Jelszó
   is: Lykilorð
-  it: Password
+  it: "Password"
   lt: Slaptažodis
   lv: Parole
-  mt: Password
+  mt: "Password"
   nl: Wachtwoord
   nl_BE: Wachtwoord
   nl_be: Wachtwoord
@@ -11883,7 +11903,7 @@ label_permission_level_full:
   nl: Volledig
   nl_BE: Volledig
   nl_be: Volledig
-  'no': Full
+  'no': "Full"
   pl: Pełny
   pt: Completo
   ro: Complet
@@ -11892,7 +11912,7 @@ label_permission_level_full:
   sl: Polno
   sq: I plotë
   sr: Puno
-  sv: Full
+  sv: "Fullständig"
   uk: Повний
 label_permission_level_manage:
   bg: Управление
@@ -12204,7 +12224,7 @@ label_print:
   lt: Spausdinti
   lv: Drukāt
   mt: Ipprintja
-  nl: Print
+  nl: "Afdrukken"
   nl_BE: Afdrukken
   nl_be: Afdrukken
   'no': Skriv ut
@@ -12302,7 +12322,7 @@ label_question:
   es: Pregunta
   et: Küsimus
   fi: Kysymys
-  fr: Question
+  fr: "Question"
   ga: Ceist
   he: שאלה
   hr: Pitanje
@@ -12338,7 +12358,7 @@ label_questions:
   es: Preguntas
   et: Küsimused
   fi: Kysymykset
-  fr: Questions
+  fr: "Questions"
   ga: Ceisteanna
   he: שאלות
   hr: Pitanja
@@ -12812,7 +12832,7 @@ label_report:
   hr: Završni dokumenti
   hu: Jelentés
   is: Skýrsla
-  it: Report
+  it: "Rapporto"
   lt: Ataskaita
   lv: Pārskats
   mt: Ir-Rapport
@@ -13015,8 +13035,8 @@ label_revision:
   ca: Revisió
   cs: Revize
   cy: Adolygiad
-  da: Revision
-  de: Revision
+  da: "Revision"
+  de: "Überarbeitung"
   el: Αναθεώρηση
   en: Revision
   es: Revisión
@@ -13044,7 +13064,7 @@ label_revision:
   sl: Revizija
   sq: Rishikim
   sr: Revizija
-  sv: Revision
+  sv: "Revision"
   uk: Редакція
 label_risk_assessment:
   bg: Оценка на риска
@@ -13231,8 +13251,8 @@ label_role_administrator:
   ca: Administrador
   cs: Administrátor
   cy: Gweinyddwr
-  da: Administrator
-  de: Administrator
+  da: "Administrator"
+  de: "Administrator"
   el: Διαχειριστής
   en: Administrator
   es: Administrador
@@ -13241,7 +13261,7 @@ label_role_administrator:
   fr: Administrateur
   ga: Riarthóir
   he: מנהל מערכת
-  hr: Administrator
+  hr: "Administrator"
   hu: Rendszergazda
   is: Stjórnandi
   it: Amministratore
@@ -13251,15 +13271,15 @@ label_role_administrator:
   nl: Beheerder
   nl_BE: Beheerder
   nl_be: Beheerder
-  'no': Administrator
-  pl: Administrator
+  'no': "Administrator"
+  pl: "Administrator"
   pt: Administrador
-  ro: Administrator
+  ro: "Administrator"
   ru: Администратор
   sk: Administrátor
   sl: Skrbnik
-  sq: Administrator
-  sr: Administrator
+  sq: "Administrator"
+  sr: "Administrator"
   sv: Administratör
   uk: Адміністратор
 label_role_consultant:
@@ -13274,7 +13294,7 @@ label_role_consultant:
   es: Consultor
   et: Konsultant
   fi: Konsultti
-  fr: Consultant
+  fr: "Consultant"
   ga: Comhairleoir
   he: יועץ
   hr: Konzultant
@@ -13285,12 +13305,12 @@ label_role_consultant:
   lv: Konsultants
   mt: Konsulent
   nl: Adviseur
-  nl_BE: Consultant
-  nl_be: Consultant
+  nl_BE: "Consultant"
+  nl_be: "Consultant"
   'no': Konsulent
   pl: Konsultant
   pt: Consultor
-  ro: Consultant
+  ro: "Consultant"
   ru: Консультант
   sk: Konzultant
   sl: Svetovalec
@@ -13300,14 +13320,14 @@ label_role_consultant:
   uk: Консультант
 label_role_editor:
   bg: Редактор
-  ca: Editor
-  cs: Editor
+  ca: "Editor"
+  cs: "Editor"
   cy: Golygydd
   da: Redaktør
-  de: Editor
+  de: "Redakteur"
   el: Επεξεργαστής
   en: Editor
-  es: Editor
+  es: "Editor"
   et: Toimetaja
   fi: Muokkaaja
   fr: Éditeur
@@ -13316,7 +13336,7 @@ label_role_editor:
   hr: Urednik
   hu: Szerkesztő
   is: Ritstjóri
-  it: Editor
+  it: "Editor"
   lt: Redaktorius
   lv: Redaktors
   mt: Editur
@@ -13325,13 +13345,13 @@ label_role_editor:
   nl_be: Redacteur
   'no': Redaktør
   pl: Redaktor
-  pt: Editor
-  ro: Editor
+  pt: "Editor"
+  ro: "Editor"
   ru: Редактор
-  sk: Editor
+  sk: "Editor"
   sl: Urednik
-  sq: Editor
-  sr: Editor
+  sq: "Redaktori"
+  sr: "Urednik"
   sv: Redaktör
   uk: Редактор
 label_role_manager:
@@ -13476,7 +13496,7 @@ label_sampling:
   sl: Vzorčenje
   sq: Kampionimi
   sr: Uzorkovanje
-  sv: Sampling
+  sv: "Provtagning"
   uk: Відбір зразків
 label_save:
   bg: Запази
@@ -14534,7 +14554,7 @@ label_solution:
   es: Solución
   et: Lahendus
   fi: Ratkaisu
-  fr: Solution
+  fr: "Solution"
   ga: Réiteach
   he: פתרון
   hr: Rješenje
@@ -14570,7 +14590,7 @@ label_solutions:
   es: Soluciones
   et: Lahendused
   fi: Ratkaisut
-  fr: Solutions
+  fr: "Solutions"
   ga: Réitigh
   he: פתרונות
   hr: Rješenja
@@ -14957,10 +14977,10 @@ label_starting_point:
 label_status:
   bg: Статус
   ca: Grau d’emplenament
-  cs: Status
+  cs: "Stav"
   cy: Statws
-  da: Status
-  de: Status
+  da: "Status"
+  de: "Status"
   el: Παρούσα Κατάσταση
   en: Status
   es: Grado de cumplimentación
@@ -14969,26 +14989,26 @@ label_status:
   fr: Avancement
   ga: Stádas
   he: סטטוס
-  hr: Status
+  hr: "Status"
   hu: Állapot
   is: Staða
   it: Stato
   lt: Būsena
   lv: Statuss
   mt: Stat
-  nl: Status
+  nl: "Status"
   nl_BE: Bekijk uw voortgang
-  nl_be: Status
-  'no': Status
-  pl: Status
+  nl_be: "Status"
+  'no': "Status"
+  pl: "Status"
   pt: Estado
   ro: Stare
   ru: Статус
   sk: Stav
-  sl: Status
+  sl: "Status"
   sq: Statusi
-  sr: Status
-  sv: Status
+  sr: "Status"
+  sv: "Status"
   uk: Статус
 label_style:
   bg: Стил
@@ -15002,7 +15022,7 @@ label_style:
   es: Estilo
   et: Stiil
   fi: Tyyli
-  fr: Style
+  fr: "Style"
   ga: Stíl
   he: סגנון
   hr: Stil
@@ -15212,7 +15232,7 @@ label_tool:
   cs: Nástroj
   cy: Offeryn
   da: Værktøj
-  de: Tool
+  de: "Werkzeug"
   el: Εργαλείο
   en: Tool
   es: Herramienta
@@ -15387,27 +15407,27 @@ label_tool_to_use_as_a_base:
   sv: Verktyg att använda som grund
   uk: Інструмент для використання як основи
 label_tools:
-  bg: Tools
+  bg: "Инструменти"
   ca: Eines
   cs: Nástroje
   cy: Offer
   da: Værktøjer
-  de: Tools
-  el: Tools
+  de: "Werkzeuge"
+  el: "Εργαλεία"
   en: Tools
   es: Herramientas
   et: Tööriistad
-  fi: Tools
+  fi: "Työkalut"
   fr: Outils
   ga: Uirlisí
   he: כלים
-  hr: Tools
+  hr: "Alati"
   hu: Elérhető
   is: Tiltæk
   it: Strumenti
-  lt: Tools
-  lv: Tools
-  mt: Tools
+  lt: "Įrankiai"
+  lv: "Rīki"
+  mt: "Għodod"
   nl: Instrumenten
   nl_BE: Beschikbare OiRA-tools
   nl_be: Hulpmiddelen
@@ -15480,7 +15500,7 @@ label_training:
   lt: Mokymai
   lv: Apmācība
   mt: Taħriġ
-  nl: Training
+  nl: "Training"
   nl_BE: Opleiding
   nl_be: Opleiding
   'no': Opplæring
@@ -15787,7 +15807,7 @@ label_type:
   ca: Tipus
   cs: Typ
   cy: Math
-  da: Type
+  da: "Skriv"
   de: Typ
   el: Τύπος
   en: Type
@@ -15804,10 +15824,10 @@ label_type:
   lt: Tipas
   lv: Tips
   mt: Tip
-  nl: Type
-  nl_BE: Type
-  nl_be: Type
-  'no': Type
+  nl: "Typ"
+  nl_BE: "Typ"
+  nl_be: "Typ"
+  'no': "Skriv"
   pl: Typ
   pt: Tipo
   ro: Tip
@@ -16183,7 +16203,7 @@ label_upload_imp:
   ca: Pujar
   cs: Nahrát
   cy: Uwchlwytho
-  da: Upload
+  da: "Upload"
   de: Hochladen
   el: Ανεβάστε
   en: Upload
@@ -16503,41 +16523,41 @@ label_weak_severity:
   sv: Svag allvarlighetsgrad
   uk: Слабка серйозність
 label_xml:
-  bg: XML
-  ca: XML
-  cs: XML
-  cy: XML
-  da: XML
-  de: XML
-  el: XML
+  bg: "XML"
+  ca: "XML"
+  cs: "XML"
+  cy: "XML"
+  da: "XML"
+  de: "XML"
+  el: "XML"
   en: XML
-  es: XML
-  et: XML
-  fi: XML
-  fr: XML
-  ga: XML
-  he: XML
-  hr: XML
-  hu: XML
-  is: XML
-  it: XML
-  lt: XML
-  lv: XML
-  mt: XML
-  nl: XML
-  nl_BE: XML
-  nl_be: XML
-  'no': XML
-  pl: XML
-  pt: XML
-  ro: XML
-  ru: XML
-  sk: XML
-  sl: XML
-  sq: XML
-  sr: XML
-  sv: XML
-  uk: XML
+  es: "XML"
+  et: "XML"
+  fi: "XML"
+  fr: "XML"
+  ga: "XML"
+  he: "XML"
+  hr: "XML"
+  hu: "XML"
+  is: "XML"
+  it: "XML"
+  lt: "XML"
+  lv: "XML"
+  mt: "XML"
+  nl: "XML"
+  nl_BE: "XML"
+  nl_be: "XML"
+  'no': "XML"
+  pl: "XML"
+  pt: "XML"
+  ro: "XML"
+  ru: "XML"
+  sk: "XML"
+  sl: "XML"
+  sq: "XML"
+  sr: "XML"
+  sv: "XML"
+  uk: "XML"
 label_xml_etranslate_compatible:
   bg: XML, съвместим с eTranslate
   ca: XML compatible amb eTranslate
@@ -16832,7 +16852,7 @@ login:
   cs: Přihlášení
   cy: Mewngofnodi
   da: Log ind
-  de: Login
+  de: "Anmelden"
   el: Σύνδεση
   en: Login
   es: Iniciar sesión
@@ -16844,16 +16864,16 @@ login:
   hr: Prijava
   hu: Bejelentkezés
   is: Skrá aðgang
-  it: Login
+  it: "Accesso"
   lt: Prisijungimo vardas
   lv: Ienākt
-  mt: Login
-  nl: Login
-  nl_BE: Login
+  mt: "Iċċaqlaq"
+  nl: "Inloggen"
+  nl_BE: "Inloggen"
   nl_be: Inloggen
   'no': Logg inn
   pl: Zaloguj się
-  pt: Login
+  pt: "Entrar"
   ro: Autentificare
   ru: Войти
   sk: Prihlásenie
@@ -17257,6 +17277,7 @@ message_click_to_validate:
   sr: Klikom na 'Validiraj' zaključaćete procenu rizika '${assessment}' i dati joj zvanični validirani status.
   sv: Genom att klicka på 'Validera' låser du riskbedömningen '${assessment}' och ger den en officiell validerad status.
   uk: Натискання кнопки «Підтвердити» заблокує оцінку ризиків «${assessment}» і надасть їй офіційний підтверджений статус.
+  ca: "Fent clic a 'Validar' es bloquejarà l'avaluació de riscos ‘${assessment}’ i li donarà un estat de validació oficial."
 message_consultant_has_reviewed:
   bg: ${user} е прегледал, валидирал и заключил тази оценка на риска.
   ca: ${user} ha revisat, validat i bloquejat aquesta avaluació de riscos.
@@ -19490,10 +19511,41 @@ message_role_consultant:
   sv: Konsulter kan göra och redigera riskbedömningar, validera och godkänna riskbedömningar samt skapa utbildningar.
   uk: Консультанти можуть проводити та редагувати оцінки ризиків, перевіряти та схвалювати оцінки ризиків, а також створювати навчання.
 message_role_editor:
-  de: null
+  de: "null"
   en: null
-  fr: null
-  nl: null
+  fr: "null"
+  nl: "null"
+  bg: "null"
+  ca: "null"
+  cs: "null"
+  cy: "null"
+  da: "null"
+  el: "null"
+  es: "nulo"
+  et: "tühi"
+  fi: "null"
+  ga: "níl"
+  he: "null"
+  hr: "null"
+  hu: "null"
+  is: "null"
+  it: "null"
+  lt: "null"
+  lv: "null"
+  mt: "null"
+  nl_BE: "null"
+  nl_be: "null"
+  'no': "null"
+  pl: "null"
+  pt: "nulo"
+  ro: "null"
+  ru: "ноль"
+  sk: "null"
+  sl: "null"
+  sq: "null"
+  sr: "null"
+  sv: "null"
+  uk: "нуль"
 message_role_manager:
   bg: Мениджърите/създателите на политики могат да извършват и редактират оценки на риска, да заключват оценки на риска, да създават обучения и да участват в обучения.
   ca: Els responsables/responsables de polítiques poden fer i editar avaluacions de riscos, bloquejar avaluacions de riscos, crear formacions i fer formacions.
@@ -19758,7 +19810,7 @@ message_training:
   es: 'Nota: Esta es una vista previa. Utilice el PowerPoint para la capacitación.'
   et: 'Märkus: See on eelvaade. Palun kasutage koolituseks PowerPointi.'
   fi: 'Huomio: Tämä on esikatselu. Käytä PowerPointia koulutukseen.'
-  fr: 'Note: This is a preview. Please use the power point for training.'
+  fr: "Remarque : Ceci est un aperçu. Veuillez utiliser le PowerPoint pour la formation."
   ga: 'Nóta: Is réamhamharc é seo. Bain úsáid as an PowerPoint le haghaidh oiliúna.'
   he: 'הערה: זוהי תצוגה מקדימה. אנא השתמש בקובץ PowerPoint להכשרה.'
   hr: 'Napomena: Ovo je pregled. Molimo koristite PowerPoint za obuku.'
@@ -20040,7 +20092,7 @@ message_waiting_for_confimation:
   cs: Tato hodnocení rizik čekají na potvrzení, že dodavatel obdržel informační dokumenty.
   cy: Mae'r asesiadau risg hyn yn aros am gadarnhad bod y contractwr wedi derbyn y dogfennau briffio.
   da: Disse risikovurderinger afventer en bekræftelse på, at entreprenøren har modtaget briefingdokumenterne.
-  de: These risk assessments are waiting for a confirmation that the contractor has received the briefing documents.
+  de: "Diese Risikobewertungen warten auf eine Bestätigung, dass der Auftragnehmer die Briefing-Dokumente erhalten hat."
   el: Αυτές οι εκτιμήσεις κινδύνου αναμένουν επιβεβαίωση ότι ο εργολάβος έχει παραλάβει τα έγγραφα ενημέρωσης.
   en: These risk assessments are waiting for a confirmation that the contractor has received the briefing documents.
   es: Estas evaluaciones de riesgos están esperando una confirmación de que el contratista ha recibido los documentos informativos.
@@ -20832,13 +20884,13 @@ planned_extra_measures:
   cs: Plánovaná opatření
   cy: Mesurau cynlluniedig
   da: Planlagte foranstaltninger
-  de: Planned measures
+  de: "Geplante Maßnahmen"
   el: Προγραμματισμένα μέτρα
   en: Planned measures
   es: Medidas planificadas
   et: Planeeritud meetmed
   fi: Suunnitellut toimenpiteet
-  fr: Planned measures
+  fr: "Mesures prévues"
   ga: Míreanna pleanála
   he: אמצעים מתוכננים
   hr: Planirane mjere
@@ -21519,7 +21571,7 @@ risk_priority_medium:
   ca: mitjana
   cs: střední
   cy: canolig
-  da: medium
+  da: "medium"
   de: mittlere
   el: 'Μέτρια '
   en: medium
